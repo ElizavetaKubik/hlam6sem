@@ -1,0 +1,73 @@
+﻿  pch.cpp
+  RIS_2.cpp
+D:\University\6_sem\DIS\Labs\RIS_2\RIS_2\RIS_2.cpp(1,1): warning C4005: '_WINSOCK_DEPRECATED_NO_WARNINGS': macro redefinition
+D:\University\6_sem\DIS\Labs\RIS_2\RIS_2\RIS_2.cpp : message : see previous definition of '_WINSOCK_DEPRECATED_NO_WARNINGS'
+D:\University\6_sem\DIS\Labs\RIS_2\RIS_2\RIS_2.cpp(2,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+D:\University\6_sem\DIS\Labs\RIS_2\RIS_2\RIS_2.cpp : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+D:\University\6_sem\DIS\Labs\RIS_2\RIS_2\RIS_2.cpp(1): warning C4603: '_WINSOCK_DEPRECATED_NO_WARNINGS': macro is not defined or definition is different after precompiled header use
+D:\University\6_sem\DIS\Labs\RIS_2\RIS_2\RIS_2.cpp(1): message : Add macro to precompiled header instead of defining here
+D:\University\6_sem\DIS\Labs\RIS_2\RIS_2\RIS_2.cpp(3): message : use of precompiled header
+D:\University\6_sem\DIS\Labs\RIS_2\RIS_2\RIS_2.cpp(2): warning C4603: '_CRT_SECURE_NO_WARNINGS': macro is not defined or definition is different after precompiled header use
+D:\University\6_sem\DIS\Labs\RIS_2\RIS_2\RIS_2.cpp(2): message : Add macro to precompiled header instead of defining here
+D:\University\6_sem\DIS\Labs\RIS_2\RIS_2\RIS_2.cpp(3): message : use of precompiled header
+D:\University\6_sem\DIS\Labs\RIS_2\RIS_2\RIS_2.cpp(121,12): warning C4566: character represented by universal-character-name '\u0412' cannot be represented in the current code page (1252)
+D:\University\6_sem\DIS\Labs\RIS_2\RIS_2\RIS_2.cpp(121,12): warning C4566: character represented by universal-character-name '\u0432' cannot be represented in the current code page (1252)
+D:\University\6_sem\DIS\Labs\RIS_2\RIS_2\RIS_2.cpp(121,12): warning C4566: character represented by universal-character-name '\u0435' cannot be represented in the current code page (1252)
+D:\University\6_sem\DIS\Labs\RIS_2\RIS_2\RIS_2.cpp(121,12): warning C4566: character represented by universal-character-name '\u0434' cannot be represented in the current code page (1252)
+D:\University\6_sem\DIS\Labs\RIS_2\RIS_2\RIS_2.cpp(121,12): warning C4566: character represented by universal-character-name '\u0438' cannot be represented in the current code page (1252)
+D:\University\6_sem\DIS\Labs\RIS_2\RIS_2\RIS_2.cpp(121,12): warning C4566: character represented by universal-character-name '\u0442' cannot be represented in the current code page (1252)
+D:\University\6_sem\DIS\Labs\RIS_2\RIS_2\RIS_2.cpp(121,12): warning C4566: character represented by universal-character-name '\u0447' cannot be represented in the current code page (1252)
+D:\University\6_sem\DIS\Labs\RIS_2\RIS_2\RIS_2.cpp(121,12): warning C4566: character represented by universal-character-name '\u0441' cannot be represented in the current code page (1252)
+D:\University\6_sem\DIS\Labs\RIS_2\RIS_2\RIS_2.cpp(121,12): warning C4566: character represented by universal-character-name '\u043B' cannot be represented in the current code page (1252)
+D:\University\6_sem\DIS\Labs\RIS_2\RIS_2\RIS_2.cpp(121,12): warning C4566: character represented by universal-character-name '\u043E' cannot be represented in the current code page (1252)
+D:\University\6_sem\DIS\Labs\RIS_2\RIS_2\RIS_2.cpp(122,12): warning C4566: character represented by universal-character-name '\u0421' cannot be represented in the current code page (1252)
+D:\University\6_sem\DIS\Labs\RIS_2\RIS_2\RIS_2.cpp(122,12): warning C4566: character represented by universal-character-name '\u0447' cannot be represented in the current code page (1252)
+D:\University\6_sem\DIS\Labs\RIS_2\RIS_2\RIS_2.cpp(122,12): warning C4566: character represented by universal-character-name '\u0438' cannot be represented in the current code page (1252)
+D:\University\6_sem\DIS\Labs\RIS_2\RIS_2\RIS_2.cpp(122,12): warning C4566: character represented by universal-character-name '\u0442' cannot be represented in the current code page (1252)
+D:\University\6_sem\DIS\Labs\RIS_2\RIS_2\RIS_2.cpp(122,12): warning C4566: character represented by universal-character-name '\u0430' cannot be represented in the current code page (1252)
+D:\University\6_sem\DIS\Labs\RIS_2\RIS_2\RIS_2.cpp(122,12): warning C4566: character represented by universal-character-name '\u044C' cannot be represented in the current code page (1252)
+D:\University\6_sem\DIS\Labs\RIS_2\RIS_2\RIS_2.cpp(122,12): warning C4566: character represented by universal-character-name '\u0441' cannot be represented in the current code page (1252)
+D:\University\6_sem\DIS\Labs\RIS_2\RIS_2\RIS_2.cpp(122,12): warning C4566: character represented by universal-character-name '\u0440' cannot be represented in the current code page (1252)
+D:\University\6_sem\DIS\Labs\RIS_2\RIS_2\RIS_2.cpp(122,12): warning C4566: character represented by universal-character-name '\u043E' cannot be represented in the current code page (1252)
+D:\University\6_sem\DIS\Labs\RIS_2\RIS_2\RIS_2.cpp(122,12): warning C4566: character represented by universal-character-name '\u043A' cannot be represented in the current code page (1252)
+D:\University\6_sem\DIS\Labs\RIS_2\RIS_2\RIS_2.cpp(123,12): warning C4566: character represented by universal-character-name '\u0412' cannot be represented in the current code page (1252)
+D:\University\6_sem\DIS\Labs\RIS_2\RIS_2\RIS_2.cpp(123,12): warning C4566: character represented by universal-character-name '\u0432' cannot be represented in the current code page (1252)
+D:\University\6_sem\DIS\Labs\RIS_2\RIS_2\RIS_2.cpp(123,12): warning C4566: character represented by universal-character-name '\u0435' cannot be represented in the current code page (1252)
+D:\University\6_sem\DIS\Labs\RIS_2\RIS_2\RIS_2.cpp(123,12): warning C4566: character represented by universal-character-name '\u0441' cannot be represented in the current code page (1252)
+D:\University\6_sem\DIS\Labs\RIS_2\RIS_2\RIS_2.cpp(123,12): warning C4566: character represented by universal-character-name '\u0442' cannot be represented in the current code page (1252)
+D:\University\6_sem\DIS\Labs\RIS_2\RIS_2\RIS_2.cpp(123,12): warning C4566: character represented by universal-character-name '\u0438' cannot be represented in the current code page (1252)
+D:\University\6_sem\DIS\Labs\RIS_2\RIS_2\RIS_2.cpp(123,12): warning C4566: character represented by universal-character-name '\u0440' cannot be represented in the current code page (1252)
+D:\University\6_sem\DIS\Labs\RIS_2\RIS_2\RIS_2.cpp(123,12): warning C4566: character represented by universal-character-name '\u043E' cannot be represented in the current code page (1252)
+D:\University\6_sem\DIS\Labs\RIS_2\RIS_2\RIS_2.cpp(123,12): warning C4566: character represented by universal-character-name '\u043A' cannot be represented in the current code page (1252)
+D:\University\6_sem\DIS\Labs\RIS_2\RIS_2\RIS_2.cpp(126,12): warning C4566: character represented by universal-character-name '\u041A' cannot be represented in the current code page (1252)
+D:\University\6_sem\DIS\Labs\RIS_2\RIS_2\RIS_2.cpp(126,12): warning C4566: character represented by universal-character-name '\u0440' cannot be represented in the current code page (1252)
+D:\University\6_sem\DIS\Labs\RIS_2\RIS_2\RIS_2.cpp(126,12): warning C4566: character represented by universal-character-name '\u0438' cannot be represented in the current code page (1252)
+D:\University\6_sem\DIS\Labs\RIS_2\RIS_2\RIS_2.cpp(126,12): warning C4566: character represented by universal-character-name '\u0442' cannot be represented in the current code page (1252)
+D:\University\6_sem\DIS\Labs\RIS_2\RIS_2\RIS_2.cpp(126,12): warning C4566: character represented by universal-character-name '\u0447' cannot be represented in the current code page (1252)
+D:\University\6_sem\DIS\Labs\RIS_2\RIS_2\RIS_2.cpp(126,12): warning C4566: character represented by universal-character-name '\u0435' cannot be represented in the current code page (1252)
+D:\University\6_sem\DIS\Labs\RIS_2\RIS_2\RIS_2.cpp(126,12): warning C4566: character represented by universal-character-name '\u0441' cannot be represented in the current code page (1252)
+D:\University\6_sem\DIS\Labs\RIS_2\RIS_2\RIS_2.cpp(126,12): warning C4566: character represented by universal-character-name '\u043A' cannot be represented in the current code page (1252)
+D:\University\6_sem\DIS\Labs\RIS_2\RIS_2\RIS_2.cpp(126,12): warning C4566: character represented by universal-character-name '\u0430' cannot be represented in the current code page (1252)
+D:\University\6_sem\DIS\Labs\RIS_2\RIS_2\RIS_2.cpp(126,12): warning C4566: character represented by universal-character-name '\u044F' cannot be represented in the current code page (1252)
+D:\University\6_sem\DIS\Labs\RIS_2\RIS_2\RIS_2.cpp(126,12): warning C4566: character represented by universal-character-name '\u0446' cannot be represented in the current code page (1252)
+D:\University\6_sem\DIS\Labs\RIS_2\RIS_2\RIS_2.cpp(126,12): warning C4566: character represented by universal-character-name '\u0437' cannot be represented in the current code page (1252)
+D:\University\6_sem\DIS\Labs\RIS_2\RIS_2\RIS_2.cpp(126,12): warning C4566: character represented by universal-character-name '\u043D' cannot be represented in the current code page (1252)
+D:\University\6_sem\DIS\Labs\RIS_2\RIS_2\RIS_2.cpp(138,13): warning C4566: character represented by universal-character-name '\u0412' cannot be represented in the current code page (1252)
+D:\University\6_sem\DIS\Labs\RIS_2\RIS_2\RIS_2.cpp(138,13): warning C4566: character represented by universal-character-name '\u0432' cannot be represented in the current code page (1252)
+D:\University\6_sem\DIS\Labs\RIS_2\RIS_2\RIS_2.cpp(138,13): warning C4566: character represented by universal-character-name '\u0435' cannot be represented in the current code page (1252)
+D:\University\6_sem\DIS\Labs\RIS_2\RIS_2\RIS_2.cpp(138,13): warning C4566: character represented by universal-character-name '\u0434' cannot be represented in the current code page (1252)
+D:\University\6_sem\DIS\Labs\RIS_2\RIS_2\RIS_2.cpp(138,13): warning C4566: character represented by universal-character-name '\u0438' cannot be represented in the current code page (1252)
+D:\University\6_sem\DIS\Labs\RIS_2\RIS_2\RIS_2.cpp(138,13): warning C4566: character represented by universal-character-name '\u0442' cannot be represented in the current code page (1252)
+D:\University\6_sem\DIS\Labs\RIS_2\RIS_2\RIS_2.cpp(138,13): warning C4566: character represented by universal-character-name '\u043F' cannot be represented in the current code page (1252)
+D:\University\6_sem\DIS\Labs\RIS_2\RIS_2\RIS_2.cpp(138,13): warning C4566: character represented by universal-character-name '\u0440' cannot be represented in the current code page (1252)
+D:\University\6_sem\DIS\Labs\RIS_2\RIS_2\RIS_2.cpp(138,13): warning C4566: character represented by universal-character-name '\u0430' cannot be represented in the current code page (1252)
+D:\University\6_sem\DIS\Labs\RIS_2\RIS_2\RIS_2.cpp(138,13): warning C4566: character represented by universal-character-name '\u043B' cannot be represented in the current code page (1252)
+D:\University\6_sem\DIS\Labs\RIS_2\RIS_2\RIS_2.cpp(138,13): warning C4566: character represented by universal-character-name '\u044C' cannot be represented in the current code page (1252)
+D:\University\6_sem\DIS\Labs\RIS_2\RIS_2\RIS_2.cpp(138,13): warning C4566: character represented by universal-character-name '\u043D' cannot be represented in the current code page (1252)
+D:\University\6_sem\DIS\Labs\RIS_2\RIS_2\RIS_2.cpp(138,13): warning C4566: character represented by universal-character-name '\u043E' cannot be represented in the current code page (1252)
+D:\University\6_sem\DIS\Labs\RIS_2\RIS_2\RIS_2.cpp(138,13): warning C4566: character represented by universal-character-name '\u0447' cannot be represented in the current code page (1252)
+D:\University\6_sem\DIS\Labs\RIS_2\RIS_2\RIS_2.cpp(138,13): warning C4566: character represented by universal-character-name '\u0441' cannot be represented in the current code page (1252)
+D:\University\6_sem\DIS\Labs\RIS_2\RIS_2\RIS_2.cpp(214,14): warning C4101: 'ibuf': unreferenced local variable
+D:\University\6_sem\DIS\Labs\RIS_2\RIS_2\RIS_2.cpp(258,14): warning C4101: 'ibuf': unreferenced local variable
+D:\University\6_sem\DIS\Labs\RIS_2\RIS_2\RIS_2.cpp(304,14): warning C4101: 'ibuf': unreferenced local variable
+  RIS_2.vcxproj -> D:\University\6_sem\DIS\Labs\RIS_2\Debug\RIS_2.exe

@@ -1,0 +1,45 @@
+D:\Crypto\Lab_1\Lab_1\bin\Debug\Lab_1.exe.config
+D:\Crypto\Lab_1\Lab_1\bin\Debug\Lab_1.exe
+D:\Crypto\Lab_1\Lab_1\bin\Debug\Lab_1.pdb
+D:\Crypto\Lab_1\Lab_1\obj\Debug\Lab_1.csprojAssemblyReference.cache
+D:\Crypto\Lab_1\Lab_1\obj\Debug\MainWindow.g.cs
+D:\Crypto\Lab_1\Lab_1\obj\Debug\App.g.cs
+D:\Crypto\Lab_1\Lab_1\obj\Debug\Lab_1_MarkupCompile.cache
+D:\Crypto\Lab_1\Lab_1\obj\Debug\Lab_1_MarkupCompile.lref
+D:\Crypto\Lab_1\Lab_1\obj\Debug\MainWindow.baml
+D:\Crypto\Lab_1\Lab_1\obj\Debug\Lab_1.g.resources
+D:\Crypto\Lab_1\Lab_1\obj\Debug\Lab_1.Properties.Resources.resources
+D:\Crypto\Lab_1\Lab_1\obj\Debug\Lab_1.csproj.GenerateResource.cache
+D:\Crypto\Lab_1\Lab_1\obj\Debug\Lab_1.csproj.CoreCompileInputs.cache
+D:\Crypto\Lab_1\Lab_1\obj\Debug\Lab_1.exe
+D:\Crypto\Lab_1\Lab_1\obj\Debug\Lab_1.pdb
+D:\Crypto\Part 2\Lab_1\Lab_1\bin\Debug\Lab_1.exe.config
+D:\Crypto\Part 2\Lab_1\Lab_1\bin\Debug\Lab_1.exe
+D:\Crypto\Part 2\Lab_1\Lab_1\bin\Debug\Lab_1.pdb
+D:\Crypto\Part 2\Lab_1\Lab_1\obj\Debug\Lab_1.csprojAssemblyReference.cache
+D:\Crypto\Part 2\Lab_1\Lab_1\obj\Debug\MainWindow.g.cs
+D:\Crypto\Part 2\Lab_1\Lab_1\obj\Debug\App.g.cs
+D:\Crypto\Part 2\Lab_1\Lab_1\obj\Debug\Lab_1_MarkupCompile.cache
+D:\Crypto\Part 2\Lab_1\Lab_1\obj\Debug\Lab_1_MarkupCompile.lref
+D:\Crypto\Part 2\Lab_1\Lab_1\obj\Debug\MainWindow.baml
+D:\Crypto\Part 2\Lab_1\Lab_1\obj\Debug\Lab_1.g.resources
+D:\Crypto\Part 2\Lab_1\Lab_1\obj\Debug\Lab_1.Properties.Resources.resources
+D:\Crypto\Part 2\Lab_1\Lab_1\obj\Debug\Lab_1.csproj.GenerateResource.cache
+D:\Crypto\Part 2\Lab_1\Lab_1\obj\Debug\Lab_1.csproj.CoreCompileInputs.cache
+D:\Crypto\Part 2\Lab_1\Lab_1\obj\Debug\Lab_1.exe
+D:\Crypto\Part 2\Lab_1\Lab_1\obj\Debug\Lab_1.pdb
+D:\University\6_sem\Крипта\lr_3\Lab_1\bin\Debug\Lab_1.exe.config
+D:\University\6_sem\Крипта\lr_3\Lab_1\bin\Debug\Lab_1.exe
+D:\University\6_sem\Крипта\lr_3\Lab_1\bin\Debug\Lab_1.pdb
+D:\University\6_sem\Крипта\lr_3\Lab_1\obj\Debug\Lab_1.csprojAssemblyReference.cache
+D:\University\6_sem\Крипта\lr_3\Lab_1\obj\Debug\MainWindow.g.cs
+D:\University\6_sem\Крипта\lr_3\Lab_1\obj\Debug\App.g.cs
+D:\University\6_sem\Крипта\lr_3\Lab_1\obj\Debug\Lab_1_MarkupCompile.cache
+D:\University\6_sem\Крипта\lr_3\Lab_1\obj\Debug\Lab_1_MarkupCompile.lref
+D:\University\6_sem\Крипта\lr_3\Lab_1\obj\Debug\MainWindow.baml
+D:\University\6_sem\Крипта\lr_3\Lab_1\obj\Debug\Lab_1.g.resources
+D:\University\6_sem\Крипта\lr_3\Lab_1\obj\Debug\Lab_1.Properties.Resources.resources
+D:\University\6_sem\Крипта\lr_3\Lab_1\obj\Debug\Lab_1.csproj.GenerateResource.cache
+D:\University\6_sem\Крипта\lr_3\Lab_1\obj\Debug\Lab_1.csproj.CoreCompileInputs.cache
+D:\University\6_sem\Крипта\lr_3\Lab_1\obj\Debug\Lab_1.exe
+D:\University\6_sem\Крипта\lr_3\Lab_1\obj\Debug\Lab_1.pdb

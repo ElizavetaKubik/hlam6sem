@@ -1,0 +1,148 @@
+﻿<Window x:Class="Lab_2.Histogram"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lab_2"
+        mc:Ignorable="d"
+        Title="Лабораторная №2 - гистограмма" Height="675" Width="900" Loaded="Window_Loaded">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"></RowDefinition>
+            <RowDefinition Height="2*"></RowDefinition>
+            <RowDefinition Height="40*"></RowDefinition>
+            <RowDefinition Height="2*"></RowDefinition>
+            <RowDefinition Height="1*"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*"></ColumnDefinition>
+            <ColumnDefinition Width="5*"></ColumnDefinition>
+            <ColumnDefinition Width="5*"></ColumnDefinition>
+            <ColumnDefinition Width="5*"></ColumnDefinition>
+            <ColumnDefinition Width="5*"></ColumnDefinition>
+            <ColumnDefinition Width="5*"></ColumnDefinition>
+            <ColumnDefinition Width="5*"></ColumnDefinition>
+            <ColumnDefinition Width="5*"></ColumnDefinition>
+            <ColumnDefinition Width="5*"></ColumnDefinition>
+            <ColumnDefinition Width="5*"></ColumnDefinition>
+            <ColumnDefinition Width="5*"></ColumnDefinition>
+            <ColumnDefinition Width="5*"></ColumnDefinition>
+            <ColumnDefinition Width="5*"></ColumnDefinition>
+            <ColumnDefinition Width="5*"></ColumnDefinition>
+            <ColumnDefinition Width="5*"></ColumnDefinition>
+            <ColumnDefinition Width="5*"></ColumnDefinition>
+            <ColumnDefinition Width="5*"></ColumnDefinition>
+            <ColumnDefinition Width="5*"></ColumnDefinition>
+            <ColumnDefinition Width="5*"></ColumnDefinition>
+            <ColumnDefinition Width="5*"></ColumnDefinition>
+            <ColumnDefinition Width="5*"></ColumnDefinition>
+            <ColumnDefinition Width="5*"></ColumnDefinition>
+            <ColumnDefinition Width="5*"></ColumnDefinition>
+            <ColumnDefinition Width="5*"></ColumnDefinition>
+            <ColumnDefinition Width="5*"></ColumnDefinition>
+            <ColumnDefinition Width="5*"></ColumnDefinition>
+            <ColumnDefinition Width="5*"></ColumnDefinition>
+            <ColumnDefinition Width="5*"></ColumnDefinition>
+            <ColumnDefinition Width="5*"></ColumnDefinition>
+            <ColumnDefinition Width="5*"></ColumnDefinition>
+            <ColumnDefinition Width="5*"></ColumnDefinition>
+            <ColumnDefinition Width="2*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <Label FontSize="15" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="1" HorizontalAlignment="Center">[А]</Label>
+        <Label FontSize="15" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="2" HorizontalAlignment="Center">[Б]</Label>
+        <Label FontSize="15" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="3" HorizontalAlignment="Center">[В]</Label>
+        <Label FontSize="15" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="4" HorizontalAlignment="Center">[Г]</Label>
+        <Label FontSize="15" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="5" HorizontalAlignment="Center">[Д]</Label>
+        <Label FontSize="15" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="6" HorizontalAlignment="Center">[Е]</Label>
+        <Label FontSize="15" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="7" HorizontalAlignment="Center">[Ж]</Label>
+        <Label FontSize="15" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="8" HorizontalAlignment="Center">[З]</Label>
+        <Label FontSize="15" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="9" HorizontalAlignment="Center">[И]</Label>
+        <Label FontSize="15" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="10" HorizontalAlignment="Center">[Й]</Label>
+        <Label FontSize="15" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="11" HorizontalAlignment="Center">[К]</Label>
+        <Label FontSize="15" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="12" HorizontalAlignment="Center">[Л]</Label>
+        <Label FontSize="15" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="13" HorizontalAlignment="Center">[М]</Label>
+        <Label FontSize="15" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="14" HorizontalAlignment="Center">[Н]</Label>
+        <Label FontSize="15" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="15" HorizontalAlignment="Center">[О]</Label>
+        <Label FontSize="15" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="16" HorizontalAlignment="Center">[П]</Label>
+        <Label FontSize="15" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="17" HorizontalAlignment="Center">[Р]</Label>
+        <Label FontSize="15" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="18" HorizontalAlignment="Center">[С]</Label>
+        <Label FontSize="15" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="19" HorizontalAlignment="Center">[Т]</Label>
+        <Label FontSize="15" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="20" HorizontalAlignment="Center">[У]</Label>
+        <Label FontSize="15" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="21" HorizontalAlignment="Center">[Ф]</Label>
+        <Label FontSize="15" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="22" HorizontalAlignment="Center">[Х]</Label>
+        <Label FontSize="15" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="23" HorizontalAlignment="Center">[Ц]</Label>
+        <Label FontSize="15" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="24" HorizontalAlignment="Center">[Ч]</Label>
+        <Label FontSize="15" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="25" HorizontalAlignment="Center">[Ш]</Label>
+        <Label FontSize="15" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="26" HorizontalAlignment="Center">[Щ]</Label>
+        <Label FontSize="15" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="27" HorizontalAlignment="Center">[Ъ]</Label>
+        <Label FontSize="15" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="28" HorizontalAlignment="Center">[Ь]</Label>
+        <Label FontSize="15" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="29" HorizontalAlignment="Center">[Ю]</Label>
+        <Label FontSize="15" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="30" HorizontalAlignment="Center">[Я]</Label>
+
+        <Rectangle Name="L1" Grid.Row="2" Grid.Column="1" Fill="#FF0000" Stroke="Black" VerticalAlignment="Bottom" Height="560"/>
+        <Rectangle Name="L2" Grid.Row="2" Grid.Column="2" Fill="#FFFF3C00" Stroke="Black" VerticalAlignment="Bottom" Height="560"/>
+        <Rectangle Name="L3" Grid.Row="2" Grid.Column="3" Fill="#FFFF5A00" Stroke="Black" VerticalAlignment="Bottom" Height="560"/>
+        <Rectangle Name="L4" Grid.Row="2" Grid.Column="4" Fill="#FF7400" Stroke="Black" VerticalAlignment="Bottom" Height="560"/>
+        <Rectangle Name="L5" Grid.Row="2" Grid.Column="5" Fill="#FF9200" Stroke="Black" VerticalAlignment="Bottom" Height="560"/>
+        <Rectangle Name="L6" Grid.Row="2" Grid.Column="6" Fill="#FFAA00" Stroke="Black" VerticalAlignment="Bottom" Height="560"/>
+        <Rectangle Name="L7" Grid.Row="2" Grid.Column="7" Fill="#FFBF00" Stroke="Black" VerticalAlignment="Bottom" Height="560"/>
+        <Rectangle Name="L8" Grid.Row="2" Grid.Column="8" Fill="#FFD300" Stroke="Black" VerticalAlignment="Bottom" Height="560"/>
+        <Rectangle Name="L9" Grid.Row="2" Grid.Column="9" Fill="#FFE800" Stroke="Black" VerticalAlignment="Bottom" Height="560"/>
+        <Rectangle Name="L10" Grid.Row="2" Grid.Column="10" Fill="#FFFF00" Stroke="Black" VerticalAlignment="Bottom" Height="560"/>
+        <Rectangle Name="L11" Grid.Row="2" Grid.Column="11" Fill="#CCF600" Stroke="Black" VerticalAlignment="Bottom" Height="560"/>
+        <Rectangle Name="L12" Grid.Row="2" Grid.Column="12" Fill="#9FEE00" Stroke="Black" VerticalAlignment="Bottom" Height="560"/>
+        <Rectangle Name="L13" Grid.Row="2" Grid.Column="13" Fill="#67E300" Stroke="Black" VerticalAlignment="Bottom" Height="560"/>
+        <Rectangle Name="L14" Grid.Row="2" Grid.Column="14" Fill="#FF32E300" Stroke="Black" VerticalAlignment="Bottom" Height="560"/>
+        <Rectangle Name="L15" Grid.Row="2" Grid.Column="15" Fill="#00CC00" Stroke="Black" VerticalAlignment="Bottom" Height="560"/>
+        <Rectangle Name="L16" Grid.Row="2" Grid.Column="16" Fill="#00AF64" Stroke="Black" VerticalAlignment="Bottom" Height="560"/>
+        <Rectangle Name="L17" Grid.Row="2" Grid.Column="17" Fill="#00A976" Stroke="Black" VerticalAlignment="Bottom" Height="560"/>
+        <Rectangle Name="L18" Grid.Row="2" Grid.Column="18" Fill="#009A9A" Stroke="Black" VerticalAlignment="Bottom" Height="560"/>
+        <Rectangle Name="L19" Grid.Row="2" Grid.Column="19" Fill="#0776A1" Stroke="Black" VerticalAlignment="Bottom" Height="560"/>
+        <Rectangle Name="L20" Grid.Row="2" Grid.Column="20" Fill="#0B62A5" Stroke="Black" VerticalAlignment="Bottom" Height="560"/>
+        <Rectangle Name="L21" Grid.Row="2" Grid.Column="21" Fill="#FF0F62A5" Stroke="Black" VerticalAlignment="Bottom" Height="560"/>
+        <Rectangle Name="L22" Grid.Row="2" Grid.Column="22" Fill="#1241AC" Stroke="Black" VerticalAlignment="Bottom" Height="560"/>
+        <Rectangle Name="L23" Grid.Row="2" Grid.Column="23" Fill="#1B1BB4" Stroke="Black" VerticalAlignment="Bottom" Height="560"/>
+        <Rectangle Name="L24" Grid.Row="2" Grid.Column="24" Fill="#3914B1" Stroke="Black" VerticalAlignment="Bottom" Height="560"/>
+        <Rectangle Name="L25" Grid.Row="2" Grid.Column="25" Fill="#530FAF" Stroke="Black" VerticalAlignment="Bottom" Height="560"/>
+        <Rectangle Name="L26" Grid.Row="2" Grid.Column="26" Fill="#7209AC" Stroke="Black" VerticalAlignment="Bottom" Height="560"/>
+        <Rectangle Name="L27" Grid.Row="2" Grid.Column="27" Fill="#FF7D04A5" Stroke="Black" VerticalAlignment="Bottom" Height="560"/>
+        <Rectangle Name="L28" Grid.Row="2" Grid.Column="28" Fill="#A800A8" Stroke="Black" VerticalAlignment="Bottom" Height="560"/>
+        <Rectangle Name="L29" Grid.Row="2" Grid.Column="29" Fill="#CE0074" Stroke="Black" VerticalAlignment="Bottom" Height="560"/>
+        <Rectangle Name="L30" Grid.Row="2" Grid.Column="30" Fill="#E50045" Stroke="Black" VerticalAlignment="Bottom" Height="560"/>
+
+        <Label Name="C1" FontSize="8" FontFamily="Showcard Gothic" Grid.Row="3" Grid.Column="1" HorizontalAlignment="Center"></Label>
+        <Label Name="C2" FontSize="8" FontFamily="Showcard Gothic" Grid.Row="3" Grid.Column="2" HorizontalAlignment="Center"></Label>
+        <Label Name="C3" FontSize="8" FontFamily="Showcard Gothic" Grid.Row="3" Grid.Column="3" HorizontalAlignment="Center"></Label>
+        <Label Name="C4" FontSize="8" FontFamily="Showcard Gothic" Grid.Row="3" Grid.Column="4" HorizontalAlignment="Center"></Label>
+        <Label Name="C5" FontSize="8" FontFamily="Showcard Gothic" Grid.Row="3" Grid.Column="5" HorizontalAlignment="Center"></Label>
+        <Label Name="C6" FontSize="8" FontFamily="Showcard Gothic" Grid.Row="3" Grid.Column="6" HorizontalAlignment="Center"></Label>
+        <Label Name="C7" FontSize="8" FontFamily="Showcard Gothic" Grid.Row="3" Grid.Column="7" HorizontalAlignment="Center"></Label>
+        <Label Name="C8" FontSize="8" FontFamily="Showcard Gothic" Grid.Row="3" Grid.Column="8" HorizontalAlignment="Center"></Label>
+        <Label Name="C9" FontSize="8" FontFamily="Showcard Gothic" Grid.Row="3" Grid.Column="9" HorizontalAlignment="Center"></Label>
+        <Label Name="C10" FontSize="8" FontFamily="Showcard Gothic" Grid.Row="3" Grid.Column="10" HorizontalAlignment="Center"></Label>
+        <Label Name="C11" FontSize="8" FontFamily="Showcard Gothic" Grid.Row="3" Grid.Column="11" HorizontalAlignment="Center"></Label>
+        <Label Name="C12" FontSize="8" FontFamily="Showcard Gothic" Grid.Row="3" Grid.Column="12" HorizontalAlignment="Center"></Label>
+        <Label Name="C13" FontSize="8" FontFamily="Showcard Gothic" Grid.Row="3" Grid.Column="13" HorizontalAlignment="Center"></Label>
+        <Label Name="C14" FontSize="8" FontFamily="Showcard Gothic" Grid.Row="3" Grid.Column="14" HorizontalAlignment="Center"></Label>
+        <Label Name="C15" FontSize="8" FontFamily="Showcard Gothic" Grid.Row="3" Grid.Column="15" HorizontalAlignment="Center"></Label>
+        <Label Name="C16" FontSize="8" FontFamily="Showcard Gothic" Grid.Row="3" Grid.Column="16" HorizontalAlignment="Center"></Label>
+        <Label Name="C17" FontSize="8" FontFamily="Showcard Gothic" Grid.Row="3" Grid.Column="17" HorizontalAlignment="Center"></Label>
+        <Label Name="C18" FontSize="8" FontFamily="Showcard Gothic" Grid.Row="3" Grid.Column="18" HorizontalAlignment="Center"></Label>
+        <Label Name="C19" FontSize="8" FontFamily="Showcard Gothic" Grid.Row="3" Grid.Column="19" HorizontalAlignment="Center"></Label>
+        <Label Name="C20" FontSize="8" FontFamily="Showcard Gothic" Grid.Row="3" Grid.Column="20" HorizontalAlignment="Center"></Label>
+        <Label Name="C21" FontSize="8" FontFamily="Showcard Gothic" Grid.Row="3" Grid.Column="21" HorizontalAlignment="Center"></Label>
+        <Label Name="C22" FontSize="8" FontFamily="Showcard Gothic" Grid.Row="3" Grid.Column="22" HorizontalAlignment="Center"></Label>
+        <Label Name="C23" FontSize="8" FontFamily="Showcard Gothic" Grid.Row="3" Grid.Column="23" HorizontalAlignment="Center"></Label>
+        <Label Name="C24" FontSize="8" FontFamily="Showcard Gothic" Grid.Row="3" Grid.Column="24" HorizontalAlignment="Center"></Label>
+        <Label Name="C25" FontSize="8" FontFamily="Showcard Gothic" Grid.Row="3" Grid.Column="25" HorizontalAlignment="Center"></Label>
+        <Label Name="C26" FontSize="8" FontFamily="Showcard Gothic" Grid.Row="3" Grid.Column="26" HorizontalAlignment="Center"></Label>
+        <Label Name="C27" FontSize="8" FontFamily="Showcard Gothic" Grid.Row="3" Grid.Column="26" HorizontalAlignment="Center"></Label>
+        <Label Name="C28" FontSize="8" FontFamily="Showcard Gothic" Grid.Row="3" Grid.Column="26" HorizontalAlignment="Center"></Label>
+        <Label Name="C29" FontSize="8" FontFamily="Showcard Gothic" Grid.Row="3" Grid.Column="26" HorizontalAlignment="Center"></Label>
+        <Label Name="C30" FontSize="8" FontFamily="Showcard Gothic" Grid.Row="3" Grid.Column="26" HorizontalAlignment="Center"></Label>
+    </Grid>
+</Window>
+    
+    <!-- Кубик Елизавета Валентиновна -->

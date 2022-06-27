@@ -1,0 +1,5 @@
+﻿  NTP.cpp
+D:\University\6_sem\DIS\lr_1\lab1\NTP\NTP.cpp(46,26): warning C4307: '*': signed integral constant overflow
+D:\University\6_sem\DIS\lr_1\lab1\NTP\NTP.cpp(63,20): warning C4309: '=': truncation of constant value
+D:\University\6_sem\DIS\lr_1\lab1\NTP\NTP.cpp(82,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  NTP.vcxproj -> D:\University\6_sem\DIS\lr_1\lab1\x64\Debug\NTP.exe

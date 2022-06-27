@@ -1,0 +1,30 @@
+D:\Crypto\Part 2\Lab_6\Lab_6_Fact\bin\Debug\Lab_6_Fact.exe.config
+D:\Crypto\Part 2\Lab_6\Lab_6_Fact\bin\Debug\Lab_6_Fact.exe
+D:\Crypto\Part 2\Lab_6\Lab_6_Fact\bin\Debug\Lab_6_Fact.pdb
+D:\Crypto\Part 2\Lab_6\Lab_6_Fact\obj\Debug\Lab_6_Fact.csprojAssemblyReference.cache
+D:\Crypto\Part 2\Lab_6\Lab_6_Fact\obj\Debug\MainWindow.g.cs
+D:\Crypto\Part 2\Lab_6\Lab_6_Fact\obj\Debug\App.g.cs
+D:\Crypto\Part 2\Lab_6\Lab_6_Fact\obj\Debug\Lab_6_Fact_MarkupCompile.cache
+D:\Crypto\Part 2\Lab_6\Lab_6_Fact\obj\Debug\Lab_6_Fact_MarkupCompile.lref
+D:\Crypto\Part 2\Lab_6\Lab_6_Fact\obj\Debug\MainWindow.baml
+D:\Crypto\Part 2\Lab_6\Lab_6_Fact\obj\Debug\Lab_6_Fact.g.resources
+D:\Crypto\Part 2\Lab_6\Lab_6_Fact\obj\Debug\Lab_6_Fact.Properties.Resources.resources
+D:\Crypto\Part 2\Lab_6\Lab_6_Fact\obj\Debug\Lab_6_Fact.csproj.GenerateResource.cache
+D:\Crypto\Part 2\Lab_6\Lab_6_Fact\obj\Debug\Lab_6_Fact.csproj.CoreCompileInputs.cache
+D:\Crypto\Part 2\Lab_6\Lab_6_Fact\obj\Debug\Lab_6_Fact.exe
+D:\Crypto\Part 2\Lab_6\Lab_6_Fact\obj\Debug\Lab_6_Fact.pdb
+D:\Учеба\3 курс 2 семестр\Crypto\Part 2\Lab_6\Lab_6_Fact\bin\Debug\Lab_6_Fact.exe.config
+D:\Учеба\3 курс 2 семестр\Crypto\Part 2\Lab_6\Lab_6_Fact\bin\Debug\Lab_6_Fact.exe
+D:\Учеба\3 курс 2 семестр\Crypto\Part 2\Lab_6\Lab_6_Fact\bin\Debug\Lab_6_Fact.pdb
+D:\Учеба\3 курс 2 семестр\Crypto\Part 2\Lab_6\Lab_6_Fact\obj\Debug\Lab_6_Fact.csprojAssemblyReference.cache
+D:\Учеба\3 курс 2 семестр\Crypto\Part 2\Lab_6\Lab_6_Fact\obj\Debug\MainWindow.g.cs
+D:\Учеба\3 курс 2 семестр\Crypto\Part 2\Lab_6\Lab_6_Fact\obj\Debug\App.g.cs
+D:\Учеба\3 курс 2 семестр\Crypto\Part 2\Lab_6\Lab_6_Fact\obj\Debug\Lab_6_Fact_MarkupCompile.cache
+D:\Учеба\3 курс 2 семестр\Crypto\Part 2\Lab_6\Lab_6_Fact\obj\Debug\Lab_6_Fact_MarkupCompile.lref
+D:\Учеба\3 курс 2 семестр\Crypto\Part 2\Lab_6\Lab_6_Fact\obj\Debug\MainWindow.baml
+D:\Учеба\3 курс 2 семестр\Crypto\Part 2\Lab_6\Lab_6_Fact\obj\Debug\Lab_6_Fact.g.resources
+D:\Учеба\3 курс 2 семестр\Crypto\Part 2\Lab_6\Lab_6_Fact\obj\Debug\Lab_6_Fact.Properties.Resources.resources
+D:\Учеба\3 курс 2 семестр\Crypto\Part 2\Lab_6\Lab_6_Fact\obj\Debug\Lab_6_Fact.csproj.GenerateResource.cache
+D:\Учеба\3 курс 2 семестр\Crypto\Part 2\Lab_6\Lab_6_Fact\obj\Debug\Lab_6_Fact.csproj.CoreCompileInputs.cache
+D:\Учеба\3 курс 2 семестр\Crypto\Part 2\Lab_6\Lab_6_Fact\obj\Debug\Lab_6_Fact.exe
+D:\Учеба\3 курс 2 семестр\Crypto\Part 2\Lab_6\Lab_6_Fact\obj\Debug\Lab_6_Fact.pdb

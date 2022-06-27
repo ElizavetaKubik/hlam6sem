@@ -1,0 +1,91 @@
+﻿<Window x:Class="lr_4.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:lr_4"
+        mc:Ignorable="d"
+        Title="lr_4" Height="850" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="10"></RowDefinition>
+            <RowDefinition Height="150"></RowDefinition>
+            <RowDefinition Height="0"></RowDefinition>
+            <RowDefinition Height="35"></RowDefinition>
+            <RowDefinition Height="10"></RowDefinition>
+            <RowDefinition Height="150"></RowDefinition>
+            <RowDefinition Height="0"></RowDefinition>
+            <RowDefinition Height="35"></RowDefinition>
+            <RowDefinition Height="10"></RowDefinition>
+            <RowDefinition Height="150"></RowDefinition>
+            <RowDefinition Height="0"></RowDefinition>
+            <RowDefinition Height="35"></RowDefinition>
+            <RowDefinition Height="10"></RowDefinition>
+            <RowDefinition Height="150"></RowDefinition>
+            <RowDefinition Height="0"></RowDefinition>
+            <RowDefinition Height="35"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"></ColumnDefinition>
+            <ColumnDefinition Width="20*"></ColumnDefinition>
+            <ColumnDefinition Width="0"></ColumnDefinition>
+            <ColumnDefinition Width="1*"></ColumnDefinition>
+            <ColumnDefinition Width="20*"></ColumnDefinition>
+            <ColumnDefinition Width="1*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <RichTextBox Name="RichTextOrig1" Margin="5, 5, 5, 5" FontSize="15" FontFamily="Times New Roman" 
+                     Grid.Row="1" Grid.Column="1" Grid.ColumnSpan="2"></RichTextBox>
+        <RichTextBox Name="RichTextEnc1" Margin="5, 5, 5, 5" FontSize="15" FontFamily="Times New Roman" 
+                     Grid.Row="1" Grid.Column="4" Grid.ColumnSpan="1" IsReadOnly="True"></RichTextBox>
+        <StackPanel Orientation="Horizontal" Grid.Row="3" Grid.Column="1">
+
+            <Label Content="          a = 24             key word = kubik" Margin="5, 0, 5, 0" FontSize="20" FontFamily="Times New Roman"></Label>
+
+        </StackPanel>
+
+        <Button Margin="65, 0, 65, 0" FontSize="20" FontFamily="Times New Roman" 
+                Grid.Row="3" Grid.Column="4" Click="Encrypt">Encrypt</Button>
+
+
+        
+        <RichTextBox Name="RichTextOrig2" Margin="5, 5, 5, 5" FontSize="15" FontFamily="Times New Roman" 
+                     Grid.Row="5" Grid.Column="1" Grid.ColumnSpan="2"></RichTextBox>
+        <RichTextBox Name="RichTextEnc2" Margin="5, 5, 5, 5" FontSize="15" FontFamily="Times New Roman" 
+                     Grid.Row="5" Grid.Column="4" Grid.ColumnSpan="1" IsReadOnly="True"></RichTextBox>
+
+
+        <Label x:Name="lable1" Content="" Margin="5, 0, 5, 0" FontSize="20" FontFamily="Times New Roman"
+               Grid.Row="7" Grid.Column="1"></Label>
+
+        <Button Margin="65, 0, 65, 0" FontSize="20" FontFamily="Times New Roman" 
+                Grid.Row="7" Grid.Column="4" Click="Decrypt">Decrypt</Button>
+
+
+
+        <RichTextBox Name="RichTextOrig3" Margin="5, 5, 5, 5" FontSize="15" FontFamily="Times New Roman" 
+                     Grid.Row="9" Grid.Column="1" Grid.ColumnSpan="2"></RichTextBox>
+        <RichTextBox Name="RichTextEnc3" Margin="5, 5, 5, 5" FontSize="15" FontFamily="Times New Roman" 
+                     Grid.Row="9" Grid.Column="4" Grid.ColumnSpan="1" IsReadOnly="True"></RichTextBox>
+        <StackPanel Orientation="Horizontal" Grid.Row="11" Grid.Column="1">
+
+            <Label Content="         key word = liza" Margin="5, 0, 5, 0" FontSize="20" FontFamily="Times New Roman"></Label>
+
+        </StackPanel>
+
+        <Button Margin="65, 0, 65, 0" FontSize="20" FontFamily="Times New Roman" 
+                Grid.Row="11" Grid.Column="4" Click="EncryptT">Encrypt</Button>
+
+
+
+        <RichTextBox Name="RichTextOrig4" Margin="5, 5, 5, 5" FontSize="15" FontFamily="Times New Roman" 
+                     Grid.Row="13" Grid.Column="1" Grid.ColumnSpan="2"></RichTextBox>
+        <RichTextBox Name="RichTextEnc4" Margin="5, 5, 5, 5" FontSize="15" FontFamily="Times New Roman" 
+                     Grid.Row="13" Grid.Column="4" Grid.ColumnSpan="1" IsReadOnly="True"></RichTextBox>
+
+        <Button Margin="65, 0, 65, 0" FontSize="20" FontFamily="Times New Roman" 
+                Grid.Row="15" Grid.Column="4" Click="DecryptT">Decrypt</Button>
+        
+    </Grid>
+</Window>

@@ -1,0 +1,17 @@
+D:\Crypto\Part 1\Lab_2\Lab_2\obj\Debug\Lab_2_1.csprojAssemblyReference.cache
+D:\Crypto\Part 1\Lab_2\Lab_2\obj\Debug\MainWindow.g.cs
+D:\Crypto\Part 1\Lab_2\Lab_2\obj\Debug\App.g.cs
+D:\Crypto\Part 1\Lab_2\Lab_2\obj\Debug\Lab_2_MarkupCompile.cache
+D:\Crypto\Part 1\Lab_2\Lab_2\obj\Debug\Lab_2_MarkupCompile.lref
+D:\Crypto\Part 1\Lab_2\Lab_2\obj\Debug\Lab_2.exe
+D:\Crypto\Part 1\Lab_2\Lab_2\obj\Debug\Lab_2.pdb
+D:\Crypto\Part 1\Lab_2\Lab_2\bin\Debug\Lab_2.exe.config
+D:\Crypto\Part 1\Lab_2\Lab_2\bin\Debug\Lab_2.exe
+D:\Crypto\Part 1\Lab_2\Lab_2\bin\Debug\Lab_2.pdb
+D:\Crypto\Part 1\Lab_2\Lab_2\obj\Debug\MainWindow.baml
+D:\Crypto\Part 1\Lab_2\Lab_2\obj\Debug\Lab_2.g.resources
+D:\Crypto\Part 1\Lab_2\Lab_2\obj\Debug\Lab_2.Properties.Resources.resources
+D:\Crypto\Part 1\Lab_2\Lab_2\obj\Debug\Lab_2_1.csproj.GenerateResource.cache
+D:\Crypto\Part 1\Lab_2\Lab_2\obj\Debug\Lab_2_1.csproj.CoreCompileInputs.cache
+D:\Crypto\Part 1\Lab_2\Lab_2\obj\Debug\Histogram.g.cs
+D:\Crypto\Part 1\Lab_2\Lab_2\obj\Debug\Histogram.baml

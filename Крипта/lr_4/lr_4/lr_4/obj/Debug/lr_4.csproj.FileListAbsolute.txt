@@ -1,0 +1,17 @@
+D:\University\6_sem\Крипта\lr_4\lr_4\lr_4\obj\Debug\lr_4.csprojAssemblyReference.cache
+D:\University\6_sem\Крипта\lr_4\lr_4\lr_4\obj\Debug\MainWindow.g.cs
+D:\University\6_sem\Крипта\lr_4\lr_4\lr_4\obj\Debug\App.g.cs
+D:\University\6_sem\Крипта\lr_4\lr_4\lr_4\obj\Debug\lr_4_MarkupCompile.cache
+D:\University\6_sem\Крипта\lr_4\lr_4\lr_4\obj\Debug\lr_4_MarkupCompile.lref
+D:\University\6_sem\Крипта\lr_4\lr_4\lr_4\bin\Debug\lr_4.exe.config
+D:\University\6_sem\Крипта\lr_4\lr_4\lr_4\bin\Debug\lr_4.exe
+D:\University\6_sem\Крипта\lr_4\lr_4\lr_4\bin\Debug\lr_4.pdb
+D:\University\6_sem\Крипта\lr_4\lr_4\lr_4\obj\Debug\MainWindow.baml
+D:\University\6_sem\Крипта\lr_4\lr_4\lr_4\obj\Debug\lr_4.g.resources
+D:\University\6_sem\Крипта\lr_4\lr_4\lr_4\obj\Debug\lr_4.Properties.Resources.resources
+D:\University\6_sem\Крипта\lr_4\lr_4\lr_4\obj\Debug\lr_4.csproj.GenerateResource.cache
+D:\University\6_sem\Крипта\lr_4\lr_4\lr_4\obj\Debug\lr_4.csproj.CoreCompileInputs.cache
+D:\University\6_sem\Крипта\lr_4\lr_4\lr_4\obj\Debug\lr_4.exe
+D:\University\6_sem\Крипта\lr_4\lr_4\lr_4\obj\Debug\lr_4.pdb
+D:\University\6_sem\Крипта\lr_4\lr_4\lr_4\obj\Debug\Histogram.g.cs
+D:\University\6_sem\Крипта\lr_4\lr_4\lr_4\obj\Debug\Histogram.baml

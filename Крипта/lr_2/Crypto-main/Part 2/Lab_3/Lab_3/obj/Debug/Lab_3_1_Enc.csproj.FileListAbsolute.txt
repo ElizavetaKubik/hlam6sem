@@ -1,0 +1,17 @@
+D:\Crypto\Part 2\Lab_3\Lab_3\obj\Debug\Lab_3_1_Enc.csprojAssemblyReference.cache
+D:\Crypto\Part 2\Lab_3\Lab_3\obj\Debug\MainWindow.g.cs
+D:\Crypto\Part 2\Lab_3\Lab_3\obj\Debug\App.g.cs
+D:\Crypto\Part 2\Lab_3\Lab_3\obj\Debug\Lab_3_MarkupCompile.cache
+D:\Crypto\Part 2\Lab_3\Lab_3\obj\Debug\Lab_3_MarkupCompile.lref
+D:\Crypto\Part 2\Lab_3\Lab_3\bin\Debug\Lab_3.exe.config
+D:\Crypto\Part 2\Lab_3\Lab_3\bin\Debug\Lab_3.exe
+D:\Crypto\Part 2\Lab_3\Lab_3\bin\Debug\Lab_3.pdb
+D:\Crypto\Part 2\Lab_3\Lab_3\obj\Debug\MainWindow.baml
+D:\Crypto\Part 2\Lab_3\Lab_3\obj\Debug\Lab_3.g.resources
+D:\Crypto\Part 2\Lab_3\Lab_3\obj\Debug\Lab_3.Properties.Resources.resources
+D:\Crypto\Part 2\Lab_3\Lab_3\obj\Debug\Lab_3_1_Enc.csproj.GenerateResource.cache
+D:\Crypto\Part 2\Lab_3\Lab_3\obj\Debug\Lab_3_1_Enc.csproj.CoreCompileInputs.cache
+D:\Crypto\Part 2\Lab_3\Lab_3\obj\Debug\Lab_3.exe
+D:\Crypto\Part 2\Lab_3\Lab_3\obj\Debug\Lab_3.pdb
+D:\Crypto\Part 2\Lab_3\Lab_3\obj\Debug\Histogram.g.cs
+D:\Crypto\Part 2\Lab_3\Lab_3\obj\Debug\Histogram.baml

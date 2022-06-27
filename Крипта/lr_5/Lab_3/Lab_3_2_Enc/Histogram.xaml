@@ -1,0 +1,130 @@
+﻿<Window x:Class="Lab_3.Histogram"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lab_3"
+        mc:Ignorable="d"
+        Title="lr 5 (2)" Height="675" Width="900" Loaded="Window_Loaded">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"></RowDefinition>
+            <RowDefinition Height="2*"></RowDefinition>
+            <RowDefinition Height="40*"></RowDefinition>
+            <RowDefinition Height="2*"></RowDefinition>
+            <RowDefinition Height="1*"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*"></ColumnDefinition>
+            <ColumnDefinition Width="5*"></ColumnDefinition>
+            <ColumnDefinition Width="5*"></ColumnDefinition>
+            <ColumnDefinition Width="5*"></ColumnDefinition>
+            <ColumnDefinition Width="5*"></ColumnDefinition>
+            <ColumnDefinition Width="5*"></ColumnDefinition>
+            <ColumnDefinition Width="5*"></ColumnDefinition>
+            <ColumnDefinition Width="5*"></ColumnDefinition>
+            <ColumnDefinition Width="5*"></ColumnDefinition>
+            <ColumnDefinition Width="5*"></ColumnDefinition>
+            <ColumnDefinition Width="5*"></ColumnDefinition>
+            <ColumnDefinition Width="5*"></ColumnDefinition>
+            <ColumnDefinition Width="5*"></ColumnDefinition>
+            <ColumnDefinition Width="5*"></ColumnDefinition>
+            <ColumnDefinition Width="5*"></ColumnDefinition>
+            <ColumnDefinition Width="5*"></ColumnDefinition>
+            <ColumnDefinition Width="5*"></ColumnDefinition>
+            <ColumnDefinition Width="5*"></ColumnDefinition>
+            <ColumnDefinition Width="5*"></ColumnDefinition>
+            <ColumnDefinition Width="5*"></ColumnDefinition>
+            <ColumnDefinition Width="5*"></ColumnDefinition>
+            <ColumnDefinition Width="5*"></ColumnDefinition>
+            <ColumnDefinition Width="5*"></ColumnDefinition>
+            <ColumnDefinition Width="5*"></ColumnDefinition>
+            <ColumnDefinition Width="5*"></ColumnDefinition>
+            <ColumnDefinition Width="5*"></ColumnDefinition>
+            <ColumnDefinition Width="5*"></ColumnDefinition>
+            <ColumnDefinition Width="2*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <Label Name="ALetter" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="1" HorizontalAlignment="Center">[A]</Label>
+        <Label Name="BLetter" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="2" HorizontalAlignment="Center">[B]</Label>
+        <Label Name="CLetter" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="3" HorizontalAlignment="Center">[C]</Label>
+        <Label Name="DLetter" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="4" HorizontalAlignment="Center">[D]</Label>
+        <Label Name="ELetter" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="5" HorizontalAlignment="Center">[E]</Label>
+        <Label Name="FLetter" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="6" HorizontalAlignment="Center">[F]</Label>
+        <Label Name="GLetter" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="7" HorizontalAlignment="Center">[G]</Label>
+        <Label Name="HLetter" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="8" HorizontalAlignment="Center">[H]</Label>
+        <Label Name="ILetter" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="9" HorizontalAlignment="Center">[I]</Label>
+        <Label Name="JLetter" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="10" HorizontalAlignment="Center">[J]</Label>
+        <Label Name="KLetter" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="11" HorizontalAlignment="Center">[K]</Label>
+        <Label Name="LLetter" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="12" HorizontalAlignment="Center">[L]</Label>
+        <Label Name="MLetter" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="13" HorizontalAlignment="Center">[M]</Label>
+        <Label Name="NLetter" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="14" HorizontalAlignment="Center">[N]</Label>
+        <Label Name="OLetter" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="15" HorizontalAlignment="Center">[O]</Label>
+        <Label Name="PLetter" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="16" HorizontalAlignment="Center">[P]</Label>
+        <Label Name="QLetter" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="17" HorizontalAlignment="Center">[Q]</Label>
+        <Label Name="RLetter" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="18" HorizontalAlignment="Center">[R]</Label>
+        <Label Name="SLetter" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="19" HorizontalAlignment="Center">[S]</Label>
+        <Label Name="TLetter" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="20" HorizontalAlignment="Center">[T]</Label>
+        <Label Name="ULetter" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="21" HorizontalAlignment="Center">[U]</Label>
+        <Label Name="VLetter" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="22" HorizontalAlignment="Center">[V]</Label>
+        <Label Name="WLetter" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="23" HorizontalAlignment="Center">[W]</Label>
+        <Label Name="XLetter" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="24" HorizontalAlignment="Center">[X]</Label>
+        <Label Name="YLetter" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="25" HorizontalAlignment="Center">[Y]</Label>
+        <Label Name="ZLetter" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="26" HorizontalAlignment="Center">[Z]</Label>
+
+        <Rectangle Name="AHisto" Grid.Row="2" Grid.Column="1" Fill="#FF0000" Stroke="Black" VerticalAlignment="Bottom" Height="560"/>
+        <Rectangle Name="BHisto" Grid.Row="2" Grid.Column="2" Fill="#FF4900" Stroke="Black" VerticalAlignment="Bottom" Height="560"/>
+        <Rectangle Name="CHisto" Grid.Row="2" Grid.Column="3" Fill="#FF7400" Stroke="Black" VerticalAlignment="Bottom" Height="560"/>
+        <Rectangle Name="DHisto" Grid.Row="2" Grid.Column="4" Fill="#FF9200" Stroke="Black" VerticalAlignment="Bottom" Height="560"/>
+        <Rectangle Name="EHisto" Grid.Row="2" Grid.Column="5" Fill="#FFAA00" Stroke="Black" VerticalAlignment="Bottom" Height="560"/>
+        <Rectangle Name="FHisto" Grid.Row="2" Grid.Column="6" Fill="#FFBF00" Stroke="Black" VerticalAlignment="Bottom" Height="560"/>
+        <Rectangle Name="GHisto" Grid.Row="2" Grid.Column="7" Fill="#FFD300" Stroke="Black" VerticalAlignment="Bottom" Height="560"/>
+        <Rectangle Name="HHisto" Grid.Row="2" Grid.Column="8" Fill="#FFE800" Stroke="Black" VerticalAlignment="Bottom" Height="560"/>
+        <Rectangle Name="IHisto" Grid.Row="2" Grid.Column="9" Fill="#FFFF00" Stroke="Black" VerticalAlignment="Bottom" Height="560"/>
+        <Rectangle Name="JHisto" Grid.Row="2" Grid.Column="10" Fill="#CCF600" Stroke="Black" VerticalAlignment="Bottom" Height="560"/>
+        <Rectangle Name="KHisto" Grid.Row="2" Grid.Column="11" Fill="#9FEE00" Stroke="Black" VerticalAlignment="Bottom" Height="560"/>
+        <Rectangle Name="LHisto" Grid.Row="2" Grid.Column="12" Fill="#67E300" Stroke="Black" VerticalAlignment="Bottom" Height="560"/>
+        <Rectangle Name="MHisto" Grid.Row="2" Grid.Column="13" Fill="#00CC00" Stroke="Black" VerticalAlignment="Bottom" Height="560"/>
+        <Rectangle Name="NHisto" Grid.Row="2" Grid.Column="14" Fill="#00AF64" Stroke="Black" VerticalAlignment="Bottom" Height="560"/>
+        <Rectangle Name="OHisto" Grid.Row="2" Grid.Column="15" Fill="#00A976" Stroke="Black" VerticalAlignment="Bottom" Height="560"/>
+        <Rectangle Name="PHisto" Grid.Row="2" Grid.Column="16" Fill="#009A9A" Stroke="Black" VerticalAlignment="Bottom" Height="560"/>
+        <Rectangle Name="QHisto" Grid.Row="2" Grid.Column="17" Fill="#0776A1" Stroke="Black" VerticalAlignment="Bottom" Height="560"/>
+        <Rectangle Name="RHisto" Grid.Row="2" Grid.Column="18" Fill="#0B62A5" Stroke="Black" VerticalAlignment="Bottom" Height="560"/>
+        <Rectangle Name="SHisto" Grid.Row="2" Grid.Column="19" Fill="#1241AC" Stroke="Black" VerticalAlignment="Bottom" Height="560"/>
+        <Rectangle Name="THisto" Grid.Row="2" Grid.Column="20" Fill="#1B1BB4" Stroke="Black" VerticalAlignment="Bottom" Height="560"/>
+        <Rectangle Name="UHisto" Grid.Row="2" Grid.Column="21" Fill="#3914B1" Stroke="Black" VerticalAlignment="Bottom" Height="560"/>
+        <Rectangle Name="VHisto" Grid.Row="2" Grid.Column="22" Fill="#530FAF" Stroke="Black" VerticalAlignment="Bottom" Height="560"/>
+        <Rectangle Name="WHisto" Grid.Row="2" Grid.Column="23" Fill="#7209AC" Stroke="Black" VerticalAlignment="Bottom" Height="560"/>
+        <Rectangle Name="XHisto" Grid.Row="2" Grid.Column="24" Fill="#A800A8" Stroke="Black" VerticalAlignment="Bottom" Height="560"/>
+        <Rectangle Name="YHisto" Grid.Row="2" Grid.Column="25" Fill="#CE0074" Stroke="Black" VerticalAlignment="Bottom" Height="560"/>
+        <Rectangle Name="ZHisto" Grid.Row="2" Grid.Column="26" Fill="#E50045" Stroke="Black" VerticalAlignment="Bottom" Height="560"/>
+
+        <Label Name="AChance" FontSize="8" FontFamily="Showcard Gothic" Grid.Row="3" Grid.Column="1" HorizontalAlignment="Center"></Label>
+        <Label Name="BChance" FontSize="8" FontFamily="Showcard Gothic" Grid.Row="3" Grid.Column="2" HorizontalAlignment="Center"></Label>
+        <Label Name="CChance" FontSize="8" FontFamily="Showcard Gothic" Grid.Row="3" Grid.Column="3" HorizontalAlignment="Center"></Label>
+        <Label Name="DChance" FontSize="8" FontFamily="Showcard Gothic" Grid.Row="3" Grid.Column="4" HorizontalAlignment="Center"></Label>
+        <Label Name="EChance" FontSize="8" FontFamily="Showcard Gothic" Grid.Row="3" Grid.Column="5" HorizontalAlignment="Center"></Label>
+        <Label Name="FChance" FontSize="8" FontFamily="Showcard Gothic" Grid.Row="3" Grid.Column="6" HorizontalAlignment="Center"></Label>
+        <Label Name="GChance" FontSize="8" FontFamily="Showcard Gothic" Grid.Row="3" Grid.Column="7" HorizontalAlignment="Center"></Label>
+        <Label Name="HChance" FontSize="8" FontFamily="Showcard Gothic" Grid.Row="3" Grid.Column="8" HorizontalAlignment="Center"></Label>
+        <Label Name="IChance" FontSize="8" FontFamily="Showcard Gothic" Grid.Row="3" Grid.Column="9" HorizontalAlignment="Center"></Label>
+        <Label Name="JChance" FontSize="8" FontFamily="Showcard Gothic" Grid.Row="3" Grid.Column="10" HorizontalAlignment="Center"></Label>
+        <Label Name="KChance" FontSize="8" FontFamily="Showcard Gothic" Grid.Row="3" Grid.Column="11" HorizontalAlignment="Center"></Label>
+        <Label Name="LChance" FontSize="8" FontFamily="Showcard Gothic" Grid.Row="3" Grid.Column="12" HorizontalAlignment="Center"></Label>
+        <Label Name="MChance" FontSize="8" FontFamily="Showcard Gothic" Grid.Row="3" Grid.Column="13" HorizontalAlignment="Center"></Label>
+        <Label Name="NChance" FontSize="8" FontFamily="Showcard Gothic" Grid.Row="3" Grid.Column="14" HorizontalAlignment="Center"></Label>
+        <Label Name="OChance" FontSize="8" FontFamily="Showcard Gothic" Grid.Row="3" Grid.Column="15" HorizontalAlignment="Center"></Label>
+        <Label Name="PChance" FontSize="8" FontFamily="Showcard Gothic" Grid.Row="3" Grid.Column="16" HorizontalAlignment="Center"></Label>
+        <Label Name="QChance" FontSize="8" FontFamily="Showcard Gothic" Grid.Row="3" Grid.Column="17" HorizontalAlignment="Center"></Label>
+        <Label Name="RChance" FontSize="8" FontFamily="Showcard Gothic" Grid.Row="3" Grid.Column="18" HorizontalAlignment="Center"></Label>
+        <Label Name="SChance" FontSize="8" FontFamily="Showcard Gothic" Grid.Row="3" Grid.Column="19" HorizontalAlignment="Center"></Label>
+        <Label Name="TChance" FontSize="8" FontFamily="Showcard Gothic" Grid.Row="3" Grid.Column="20" HorizontalAlignment="Center"></Label>
+        <Label Name="UChance" FontSize="8" FontFamily="Showcard Gothic" Grid.Row="3" Grid.Column="21" HorizontalAlignment="Center"></Label>
+        <Label Name="VChance" FontSize="8" FontFamily="Showcard Gothic" Grid.Row="3" Grid.Column="22" HorizontalAlignment="Center"></Label>
+        <Label Name="WChance" FontSize="8" FontFamily="Showcard Gothic" Grid.Row="3" Grid.Column="23" HorizontalAlignment="Center"></Label>
+        <Label Name="XChance" FontSize="8" FontFamily="Showcard Gothic" Grid.Row="3" Grid.Column="24" HorizontalAlignment="Center"></Label>
+        <Label Name="YChance" FontSize="8" FontFamily="Showcard Gothic" Grid.Row="3" Grid.Column="25" HorizontalAlignment="Center"></Label>
+        <Label Name="ZChance" FontSize="8" FontFamily="Showcard Gothic" Grid.Row="3" Grid.Column="26" HorizontalAlignment="Center"></Label>
+    </Grid>
+</Window>

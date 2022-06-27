@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  RIS_2_server.cpp
+D:\University\6_sem\DIS\Labs\RIS_2\RIS_2_server\RIS_2_server.cpp(1): warning C4603: '_CRT_SECURE_NO_WARNINGS': macro is not defined or definition is different after precompiled header use
+D:\University\6_sem\DIS\Labs\RIS_2\RIS_2_server\RIS_2_server.cpp(1): message : Add macro to precompiled header instead of defining here
+D:\University\6_sem\DIS\Labs\RIS_2\RIS_2_server\RIS_2_server.cpp(3): message : use of precompiled header
+D:\University\6_sem\DIS\Labs\RIS_2\RIS_2_server\RIS_2_server.cpp(2): warning C4603: '_WINSOCK_DEPRECATED_NO_WARNINGS': macro is not defined or definition is different after precompiled header use
+D:\University\6_sem\DIS\Labs\RIS_2\RIS_2_server\RIS_2_server.cpp(2): message : Add macro to precompiled header instead of defining here
+D:\University\6_sem\DIS\Labs\RIS_2\RIS_2_server\RIS_2_server.cpp(3): message : use of precompiled header
+  RIS_2_server.vcxproj -> D:\University\6_sem\DIS\Labs\RIS_2\Debug\RIS_2_server.exe

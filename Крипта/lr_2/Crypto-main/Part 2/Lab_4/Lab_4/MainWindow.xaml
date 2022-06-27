@@ -1,0 +1,206 @@
+﻿<Window x:Class="Lab_4.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lab_4"
+        mc:Ignorable="d"
+        Title="Лабораторная №4 - изучение устройства и функциональных особенностей шифровальной машины «Энигма»" Height="810" Width="1000" Loaded="Window_Loaded">
+
+    <Grid>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="90"></RowDefinition>
+            <RowDefinition Height="300"></RowDefinition>
+            <RowDefinition Height="300"></RowDefinition>
+            <RowDefinition Height="90"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="0">
+
+            <Grid.RowDefinitions>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+            </Grid.RowDefinitions>
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+
+            <ComboBox Name="RotorL" Margin="5, 5, 5, 5" FontSize="13" FontFamily="Showcard Gothic" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" SelectionChanged="RotorL_SelectionChanged"></ComboBox>
+            <ComboBox Name="RotorM" Margin="5, 5, 5, 5" FontSize="13" FontFamily="Showcard Gothic" Grid.Row="0" Grid.Column="2" Grid.ColumnSpan="2" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" SelectionChanged="RotorM_SelectionChanged"></ComboBox>
+            <ComboBox Name="RotorR" Margin="5, 5, 5, 5" FontSize="13" FontFamily="Showcard Gothic" Grid.Row="0" Grid.Column="4" Grid.ColumnSpan="2" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" SelectionChanged="RotorR_SelectionChanged"></ComboBox>
+
+            <TextBox Name="RotorLValue" Margin="5, 5, 5, 5" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="0" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" PreviewTextInput="NumberValidationTextBox"></TextBox>
+            <TextBox Name="RotorLStep" Margin="5, 5, 5, 5" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="1" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" PreviewTextInput="NumberValidationTextBox"></TextBox>
+            <TextBox Name="RotorMValue" Margin="5, 5, 5, 5" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="2" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" PreviewTextInput="NumberValidationTextBox"></TextBox>
+            <TextBox Name="RotorMStep" Margin="5, 5, 5, 5" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="3" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" PreviewTextInput="NumberValidationTextBox"></TextBox>
+            <TextBox Name="RotorRValue" Margin="5, 5, 5, 5" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="4" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" PreviewTextInput="NumberValidationTextBox"></TextBox>
+            <TextBox Name="RotorRStep" Margin="5, 5, 5, 5" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="5" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" PreviewTextInput="NumberValidationTextBox"></TextBox>
+
+        </Grid>
+
+        <Border Background="GhostWhite" BorderBrush="Black" BorderThickness="1" CornerRadius="25" Grid.Row="1">
+            <Grid>
+
+            <Grid.RowDefinitions>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+            </Grid.RowDefinitions>
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+
+            <TextBox Name="TextQ" Text="Q" Margin="15, 15, 15, 15" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="0" Grid.Column="1" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" IsReadOnly="True"></TextBox>
+            <TextBox Name="TextW" Text="W" Margin="15, 15, 15, 15" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="0" Grid.Column="2" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" IsReadOnly="True"></TextBox>
+            <TextBox Name="TextE" Text="E" Margin="15, 15, 15, 15" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="0" Grid.Column="3" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" IsReadOnly="True"></TextBox>
+            <TextBox Name="TextR" Text="R" Margin="15, 15, 15, 15" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="0" Grid.Column="4" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" IsReadOnly="True"></TextBox>
+            <TextBox Name="TextT" Text="T" Margin="15, 15, 15, 15" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="0" Grid.Column="5" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" IsReadOnly="True"></TextBox>
+            <TextBox Name="TextY" Text="Y" Margin="15, 15, 15, 15" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="0" Grid.Column="6" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" IsReadOnly="True"></TextBox>
+            <TextBox Name="TextU" Text="U" Margin="15, 15, 15, 15" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="0" Grid.Column="7" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" IsReadOnly="True"></TextBox>
+            <TextBox Name="TextI" Text="I" Margin="15, 15, 15, 15" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="0" Grid.Column="8" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" IsReadOnly="True"></TextBox>
+            <TextBox Name="TextA" Text="A" Margin="15, 15, 15, 15" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="0" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" IsReadOnly="True"></TextBox>
+            <TextBox Name="TextS" Text="S" Margin="15, 15, 15, 15" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="1" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" IsReadOnly="True"></TextBox>
+            <TextBox Name="TextD" Text="D" Margin="15, 15, 15, 15" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="2" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" IsReadOnly="True"></TextBox>
+            <TextBox Name="TextF" Text="F" Margin="15, 15, 15, 15" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="3" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" IsReadOnly="True"></TextBox>
+            <TextBox Name="TextG" Text="G" Margin="15, 15, 15, 15" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="4" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" IsReadOnly="True"></TextBox>
+            <TextBox Name="TextH" Text="H" Margin="15, 15, 15, 15" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="5" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" IsReadOnly="True"></TextBox>
+            <TextBox Name="TextJ" Text="J" Margin="15, 15, 15, 15" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="6" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" IsReadOnly="True"></TextBox>
+            <TextBox Name="TextK" Text="K" Margin="15, 15, 15, 15" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="7" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" IsReadOnly="True"></TextBox>
+            <TextBox Name="TextL" Text="L" Margin="15, 15, 15, 15" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="8" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" IsReadOnly="True"></TextBox>
+            <TextBox Name="TextO" Text="O" Margin="15, 15, 15, 15" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="9" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" IsReadOnly="True"></TextBox>
+            <TextBox Name="TextZ" Text="Z" Margin="15, 15, 15, 15" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="2" Grid.Column="1" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" IsReadOnly="True"></TextBox>
+            <TextBox Name="TextX" Text="X" Margin="15, 15, 15, 15" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="2" Grid.Column="2" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" IsReadOnly="True"></TextBox>
+            <TextBox Name="TextC" Text="C" Margin="15, 15, 15, 15" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="2" Grid.Column="3" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" IsReadOnly="True"></TextBox>
+            <TextBox Name="TextV" Text="V" Margin="15, 15, 15, 15" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="2" Grid.Column="4" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" IsReadOnly="True"></TextBox>
+            <TextBox Name="TextB" Text="B" Margin="15, 15, 15, 15" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="2" Grid.Column="5" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" IsReadOnly="True"></TextBox>
+            <TextBox Name="TextN" Text="N" Margin="15, 15, 15, 15" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="2" Grid.Column="6" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" IsReadOnly="True"></TextBox>
+            <TextBox Name="TextM" Text="M" Margin="15, 15, 15, 15" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="2" Grid.Column="7" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" IsReadOnly="True"></TextBox>
+            <TextBox Name="TextP" Text="P" Margin="15, 15, 15, 15" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="2" Grid.Column="8" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" IsReadOnly="True"></TextBox>
+
+            </Grid>
+        </Border>
+
+        <Border Background="GhostWhite" BorderBrush="Black" BorderThickness="1" CornerRadius="25" Grid.Row="2">
+            <Grid Grid.Row="2">
+
+                <Grid.RowDefinitions>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                </Grid.RowDefinitions>
+
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+
+                <Button Name="ButtonQ" Content="Q" Margin="15, 15, 15, 15" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="0" Grid.Column="1" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Click="Button_Click"></Button>
+                <Button Name="ButtonW" Content="W" Margin="15, 15, 15, 15" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="0" Grid.Column="2" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Click="Button_Click"></Button>
+                <Button Name="ButtonE" Content="E" Margin="15, 15, 15, 15" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="0" Grid.Column="3" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Click="Button_Click"></Button>
+                <Button Name="ButtonR" Content="R" Margin="15, 15, 15, 15" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="0" Grid.Column="4" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Click="Button_Click"></Button>
+                <Button Name="ButtonT" Content="T" Margin="15, 15, 15, 15" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="0" Grid.Column="5" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Click="Button_Click"></Button>
+                <Button Name="ButtonY" Content="Y" Margin="15, 15, 15, 15" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="0" Grid.Column="6" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Click="Button_Click"></Button>
+                <Button Name="ButtonU" Content="U" Margin="15, 15, 15, 15" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="0" Grid.Column="7" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Click="Button_Click"></Button>
+                <Button Name="ButtonI" Content="I" Margin="15, 15, 15, 15" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="0" Grid.Column="8" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Click="Button_Click"></Button>
+                <Button Name="ButtonA" Content="A" Margin="15, 15, 15, 15" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="0" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Click="Button_Click"></Button>
+                <Button Name="ButtonS" Content="S" Margin="15, 15, 15, 15" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="1" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Click="Button_Click"></Button>
+                <Button Name="ButtonD" Content="D" Margin="15, 15, 15, 15" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="2" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Click="Button_Click"></Button>
+                <Button Name="ButtonF" Content="F" Margin="15, 15, 15, 15" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="3" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Click="Button_Click"></Button>
+                <Button Name="ButtonG" Content="G" Margin="15, 15, 15, 15" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="4" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Click="Button_Click"></Button>
+                <Button Name="ButtonH" Content="H" Margin="15, 15, 15, 15" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="5" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Click="Button_Click"></Button>
+                <Button Name="ButtonJ" Content="J" Margin="15, 15, 15, 15" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="6" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Click="Button_Click"></Button>
+                <Button Name="ButtonK" Content="K" Margin="15, 15, 15, 15" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="7" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Click="Button_Click"></Button>
+                <Button Name="ButtonL" Content="L" Margin="15, 15, 15, 15" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="8" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Click="Button_Click"></Button>
+                <Button Name="ButtonO" Content="O" Margin="15, 15, 15, 15" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="9" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Click="Button_Click"></Button>
+                <Button Name="ButtonZ" Content="Z" Margin="15, 15, 15, 15" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="2" Grid.Column="1" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Click="Button_Click"></Button>
+                <Button Name="ButtonX" Content="X" Margin="15, 15, 15, 15" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="2" Grid.Column="2" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Click="Button_Click"></Button>
+                <Button Name="ButtonC" Content="C" Margin="15, 15, 15, 15" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="2" Grid.Column="3" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Click="Button_Click"></Button>
+                <Button Name="ButtonV" Content="V" Margin="15, 15, 15, 15" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="2" Grid.Column="4" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Click="Button_Click"></Button>
+                <Button Name="ButtonB" Content="B" Margin="15, 15, 15, 15" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="2" Grid.Column="5" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Click="Button_Click"></Button>
+                <Button Name="ButtonN" Content="N" Margin="15, 15, 15, 15" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="2" Grid.Column="6" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Click="Button_Click"></Button>
+                <Button Name="ButtonM" Content="M" Margin="15, 15, 15, 15" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="2" Grid.Column="7" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Click="Button_Click"></Button>
+                <Button Name="ButtonP" Content="P" Margin="15, 15, 15, 15" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="2" Grid.Column="8" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Click="Button_Click"></Button>
+
+            </Grid>
+        </Border>
+
+        <Grid Name="ReflectorGrid" Grid.Row="3">
+
+            <Grid.RowDefinitions>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+            </Grid.RowDefinitions>
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+
+            <ComboBox Name="Reflector0_0" Margin="5, 5, 5, 5" FontSize="13" FontFamily="Showcard Gothic" Grid.Row="0" Grid.Column="0" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" SelectionChanged="Reflector_SelectionChanged"></ComboBox>
+            <ComboBox Name="Reflector1_0" Margin="5, 5, 5, 5" FontSize="13" FontFamily="Showcard Gothic" Grid.Row="0" Grid.Column="1" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" SelectionChanged="Reflector_SelectionChanged"></ComboBox>
+            <ComboBox Name="Reflector2_0" Margin="5, 5, 5, 5" FontSize="13" FontFamily="Showcard Gothic" Grid.Row="0" Grid.Column="2" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" SelectionChanged="Reflector_SelectionChanged"></ComboBox>
+            <ComboBox Name="Reflector3_0" Margin="5, 5, 5, 5" FontSize="13" FontFamily="Showcard Gothic" Grid.Row="0" Grid.Column="3" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" SelectionChanged="Reflector_SelectionChanged"></ComboBox>
+            <ComboBox Name="Reflector4_0" Margin="5, 5, 5, 5" FontSize="13" FontFamily="Showcard Gothic" Grid.Row="0" Grid.Column="4" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" SelectionChanged="Reflector_SelectionChanged"></ComboBox>
+            <ComboBox Name="Reflector5_0" Margin="5, 5, 5, 5" FontSize="13" FontFamily="Showcard Gothic" Grid.Row="0" Grid.Column="5" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" SelectionChanged="Reflector_SelectionChanged"></ComboBox>
+            <ComboBox Name="Reflector6_0" Margin="5, 5, 5, 5" FontSize="13" FontFamily="Showcard Gothic" Grid.Row="0" Grid.Column="6" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" SelectionChanged="Reflector_SelectionChanged"></ComboBox>
+            <ComboBox Name="Reflector7_0" Margin="5, 5, 5, 5" FontSize="13" FontFamily="Showcard Gothic" Grid.Row="0" Grid.Column="7" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" SelectionChanged="Reflector_SelectionChanged"></ComboBox>
+            <ComboBox Name="Reflector8_0" Margin="5, 5, 5, 5" FontSize="13" FontFamily="Showcard Gothic" Grid.Row="0" Grid.Column="8" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" SelectionChanged="Reflector_SelectionChanged"></ComboBox>
+            <ComboBox Name="Reflector9_0" Margin="5, 5, 5, 5" FontSize="13" FontFamily="Showcard Gothic" Grid.Row="0" Grid.Column="9" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" SelectionChanged="Reflector_SelectionChanged"></ComboBox>
+            <ComboBox Name="Reflector10_0" Margin="5, 5, 5, 5" FontSize="13" FontFamily="Showcard Gothic" Grid.Row="0" Grid.Column="10" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" SelectionChanged="Reflector_SelectionChanged"></ComboBox>
+            <ComboBox Name="Reflector11_0" Margin="5, 5, 5, 5" FontSize="13" FontFamily="Showcard Gothic" Grid.Row="0" Grid.Column="11" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" SelectionChanged="Reflector_SelectionChanged"></ComboBox>
+            <ComboBox Name="Reflector12_0" Margin="5, 5, 5, 5" FontSize="13" FontFamily="Showcard Gothic" Grid.Row="0" Grid.Column="12" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" SelectionChanged="Reflector_SelectionChanged"></ComboBox>
+
+            <ComboBox Name="Reflector0_1" Margin="5, 5, 5, 5" FontSize="13" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="0" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" SelectionChanged="Reflector_SelectionChanged"></ComboBox>
+            <ComboBox Name="Reflector1_1" Margin="5, 5, 5, 5" FontSize="13" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="1" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" SelectionChanged="Reflector_SelectionChanged"></ComboBox>
+            <ComboBox Name="Reflector2_1" Margin="5, 5, 5, 5" FontSize="13" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="2" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" SelectionChanged="Reflector_SelectionChanged"></ComboBox>
+            <ComboBox Name="Reflector3_1" Margin="5, 5, 5, 5" FontSize="13" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="3" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" SelectionChanged="Reflector_SelectionChanged"></ComboBox>
+            <ComboBox Name="Reflector4_1" Margin="5, 5, 5, 5" FontSize="13" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="4" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" SelectionChanged="Reflector_SelectionChanged"></ComboBox>
+            <ComboBox Name="Reflector5_1" Margin="5, 5, 5, 5" FontSize="13" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="5" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" SelectionChanged="Reflector_SelectionChanged"></ComboBox>
+            <ComboBox Name="Reflector6_1" Margin="5, 5, 5, 5" FontSize="13" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="6" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" SelectionChanged="Reflector_SelectionChanged"></ComboBox>
+            <ComboBox Name="Reflector7_1" Margin="5, 5, 5, 5" FontSize="13" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="7" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" SelectionChanged="Reflector_SelectionChanged"></ComboBox>
+            <ComboBox Name="Reflector8_1" Margin="5, 5, 5, 5" FontSize="13" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="8" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" SelectionChanged="Reflector_SelectionChanged"></ComboBox>
+            <ComboBox Name="Reflector9_1" Margin="5, 5, 5, 5" FontSize="13" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="9" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" SelectionChanged="Reflector_SelectionChanged"></ComboBox>
+            <ComboBox Name="Reflector10_1" Margin="5, 5, 5, 5" FontSize="13" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="10" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" SelectionChanged="Reflector_SelectionChanged"></ComboBox>
+            <ComboBox Name="Reflector11_1" Margin="5, 5, 5, 5" FontSize="13" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="11" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" SelectionChanged="Reflector_SelectionChanged"></ComboBox>
+            <ComboBox Name="Reflector12_1" Margin="5, 5, 5, 5" FontSize="13" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="12" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" SelectionChanged="Reflector_SelectionChanged"></ComboBox>
+
+        </Grid>
+
+    </Grid>
+</Window>

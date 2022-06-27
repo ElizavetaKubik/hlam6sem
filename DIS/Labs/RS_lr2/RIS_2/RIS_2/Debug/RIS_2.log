@@ -1,0 +1,16 @@
+﻿  pch.cpp
+  RIS_2.cpp
+D:\University\6_sem\DIS\Labs\RS_lr2\RIS_2\RIS_2\RIS_2.cpp(1,1): warning C4005: '_WINSOCK_DEPRECATED_NO_WARNINGS': macro redefinition
+D:\University\6_sem\DIS\Labs\RS_lr2\RIS_2\RIS_2\RIS_2.cpp : message : see previous definition of '_WINSOCK_DEPRECATED_NO_WARNINGS'
+D:\University\6_sem\DIS\Labs\RS_lr2\RIS_2\RIS_2\RIS_2.cpp(2,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+D:\University\6_sem\DIS\Labs\RS_lr2\RIS_2\RIS_2\RIS_2.cpp : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+D:\University\6_sem\DIS\Labs\RS_lr2\RIS_2\RIS_2\RIS_2.cpp(1): warning C4603: '_WINSOCK_DEPRECATED_NO_WARNINGS': macro is not defined or definition is different after precompiled header use
+D:\University\6_sem\DIS\Labs\RS_lr2\RIS_2\RIS_2\RIS_2.cpp(1): message : Add macro to precompiled header instead of defining here
+D:\University\6_sem\DIS\Labs\RS_lr2\RIS_2\RIS_2\RIS_2.cpp(3): message : use of precompiled header
+D:\University\6_sem\DIS\Labs\RS_lr2\RIS_2\RIS_2\RIS_2.cpp(2): warning C4603: '_CRT_SECURE_NO_WARNINGS': macro is not defined or definition is different after precompiled header use
+D:\University\6_sem\DIS\Labs\RS_lr2\RIS_2\RIS_2\RIS_2.cpp(2): message : Add macro to precompiled header instead of defining here
+D:\University\6_sem\DIS\Labs\RS_lr2\RIS_2\RIS_2\RIS_2.cpp(3): message : use of precompiled header
+D:\University\6_sem\DIS\Labs\RS_lr2\RIS_2\RIS_2\RIS_2.cpp(214,14): warning C4101: 'ibuf': unreferenced local variable
+D:\University\6_sem\DIS\Labs\RS_lr2\RIS_2\RIS_2\RIS_2.cpp(258,14): warning C4101: 'ibuf': unreferenced local variable
+D:\University\6_sem\DIS\Labs\RS_lr2\RIS_2\RIS_2\RIS_2.cpp(304,14): warning C4101: 'ibuf': unreferenced local variable
+  RIS_2.vcxproj -> D:\University\6_sem\DIS\Labs\RS_lr2\RIS_2\Debug\RIS_2.exe

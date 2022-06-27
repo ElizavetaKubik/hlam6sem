@@ -1,0 +1,1243 @@
+[2021-04-19T20:51:35.830] [DEBUG] default - fetch from 1
+[2021-04-19T20:51:35.848] [DEBUG] default - fetch from 2
+[2021-04-19T20:51:35.859] [DEBUG] default - from 2: 0
+[2021-04-19T20:51:35.860] [DEBUG] default - from 1: 0
+[2021-04-19T20:51:45.830] [DEBUG] default - fetch from 1
+[2021-04-19T20:51:45.836] [DEBUG] default - from 1: 10
+[2021-04-19T20:51:45.850] [DEBUG] default - fetch from 2
+[2021-04-19T20:51:45.854] [DEBUG] default - from 2: 0
+[2021-04-19T20:51:45.856] [DEBUG] default - add: {"data":"2021-04-19T19:51:41.955Z","clNum":1,"clNumId":1}
+[2021-04-19T20:51:45.862] [DEBUG] default - add: {"data":"2021-04-19T19:51:41.955Z","clNum":1,"clNumId":2}
+[2021-04-19T20:51:45.868] [DEBUG] default - add: {"data":"2021-04-19T19:51:41.955Z","clNum":1,"clNumId":3}
+[2021-04-19T20:51:45.874] [DEBUG] default - add: {"data":"2021-04-19T19:51:41.955Z","clNum":1,"clNumId":4}
+[2021-04-19T20:51:45.879] [DEBUG] default - add: {"data":"2021-04-19T19:51:41.955Z","clNum":1,"clNumId":5}
+[2021-04-19T20:51:45.884] [DEBUG] default - add: {"data":"2021-04-19T19:51:41.955Z","clNum":1,"clNumId":6}
+[2021-04-19T20:51:45.889] [DEBUG] default - add: {"data":"2021-04-19T19:51:41.956Z","clNum":1,"clNumId":7}
+[2021-04-19T20:51:45.895] [DEBUG] default - add: {"data":"2021-04-19T19:51:41.956Z","clNum":1,"clNumId":8}
+[2021-04-19T20:51:45.900] [DEBUG] default - add: {"data":"2021-04-19T19:51:41.956Z","clNum":1,"clNumId":9}
+[2021-04-19T20:51:45.905] [DEBUG] default - add: {"data":"2021-04-19T19:51:41.956Z","clNum":1,"clNumId":10}
+[2021-04-19T20:51:55.845] [DEBUG] default - fetch from 1
+[2021-04-19T20:51:55.848] [DEBUG] default - from 1: 10
+[2021-04-19T20:51:55.849] [DEBUG] default - fetch from 2
+[2021-04-19T20:51:55.854] [DEBUG] default - from 2: 10
+[2021-04-19T20:51:55.862] [DEBUG] default - upd: {"data":"2021-04-19T19:51:41.955Z","clNum":1,"clNumId":1}
+[2021-04-19T20:51:55.867] [DEBUG] default - add: {"data":"2021-04-19T19:51:53.895Z","clNum":2,"clNumId":1}
+[2021-04-19T20:51:55.872] [DEBUG] default - add: {"data":"2021-04-19T19:51:41.955Z","clNum":1,"clNumId":2}
+[2021-04-19T20:51:55.877] [DEBUG] default - add: {"data":"2021-04-19T19:51:53.895Z","clNum":2,"clNumId":2}
+[2021-04-19T20:51:55.882] [DEBUG] default - add: {"data":"2021-04-19T19:51:41.955Z","clNum":1,"clNumId":3}
+[2021-04-19T20:51:55.887] [DEBUG] default - add: {"data":"2021-04-19T19:51:53.895Z","clNum":2,"clNumId":3}
+[2021-04-19T20:51:55.892] [DEBUG] default - add: {"data":"2021-04-19T19:51:41.955Z","clNum":1,"clNumId":4}
+[2021-04-19T20:51:55.897] [DEBUG] default - add: {"data":"2021-04-19T19:51:53.895Z","clNum":2,"clNumId":4}
+[2021-04-19T20:51:55.902] [DEBUG] default - add: {"data":"2021-04-19T19:51:41.955Z","clNum":1,"clNumId":5}
+[2021-04-19T20:51:55.907] [DEBUG] default - add: {"data":"2021-04-19T19:51:53.895Z","clNum":2,"clNumId":5}
+[2021-04-19T20:51:55.913] [DEBUG] default - add: {"data":"2021-04-19T19:51:41.955Z","clNum":1,"clNumId":6}
+[2021-04-19T20:51:55.916] [DEBUG] default - add: {"data":"2021-04-19T19:51:53.896Z","clNum":2,"clNumId":6}
+[2021-04-19T20:51:55.923] [DEBUG] default - add: {"data":"2021-04-19T19:51:41.956Z","clNum":1,"clNumId":7}
+[2021-04-19T20:51:55.926] [DEBUG] default - add: {"data":"2021-04-19T19:51:53.896Z","clNum":2,"clNumId":7}
+[2021-04-19T20:51:55.933] [DEBUG] default - add: {"data":"2021-04-19T19:51:41.956Z","clNum":1,"clNumId":8}
+[2021-04-19T20:51:55.935] [DEBUG] default - add: {"data":"2021-04-19T19:51:53.896Z","clNum":2,"clNumId":8}
+[2021-04-19T20:51:55.941] [DEBUG] default - add: {"data":"2021-04-19T19:51:41.956Z","clNum":1,"clNumId":9}
+[2021-04-19T20:51:55.944] [DEBUG] default - add: {"data":"2021-04-19T19:51:53.896Z","clNum":2,"clNumId":9}
+[2021-04-19T20:51:55.950] [DEBUG] default - add: {"data":"2021-04-19T19:51:41.956Z","clNum":1,"clNumId":10}
+[2021-04-19T20:51:55.952] [DEBUG] default - add: {"data":"2021-04-19T19:51:53.896Z","clNum":2,"clNumId":10}
+[2021-04-19T20:52:05.845] [DEBUG] default - fetch from 1
+[2021-04-19T20:52:05.848] [DEBUG] default - from 1: 0
+[2021-04-19T20:52:05.861] [DEBUG] default - fetch from 2
+[2021-04-19T20:52:05.865] [DEBUG] default - from 2: 10
+[2021-04-19T20:52:05.874] [DEBUG] default - upd: {"data":"2021-04-19T19:51:53.895Z","clNum":2,"clNumId":1}
+[2021-04-19T20:52:05.880] [DEBUG] default - add: {"data":"2021-04-19T19:51:53.895Z","clNum":2,"clNumId":2}
+[2021-04-19T20:52:05.885] [DEBUG] default - add: {"data":"2021-04-19T19:51:53.895Z","clNum":2,"clNumId":3}
+[2021-04-19T20:52:05.891] [DEBUG] default - add: {"data":"2021-04-19T19:51:53.895Z","clNum":2,"clNumId":4}
+[2021-04-19T20:52:05.897] [DEBUG] default - add: {"data":"2021-04-19T19:51:53.895Z","clNum":2,"clNumId":5}
+[2021-04-19T20:52:05.903] [DEBUG] default - add: {"data":"2021-04-19T19:51:53.896Z","clNum":2,"clNumId":6}
+[2021-04-19T20:52:05.913] [DEBUG] default - add: {"data":"2021-04-19T19:51:53.896Z","clNum":2,"clNumId":7}
+[2021-04-19T20:52:05.919] [DEBUG] default - add: {"data":"2021-04-19T19:51:53.896Z","clNum":2,"clNumId":8}
+[2021-04-19T20:52:05.925] [DEBUG] default - add: {"data":"2021-04-19T19:51:53.896Z","clNum":2,"clNumId":9}
+[2021-04-19T20:52:05.931] [DEBUG] default - add: {"data":"2021-04-19T19:51:53.896Z","clNum":2,"clNumId":10}
+[2021-04-19T20:52:15.846] [DEBUG] default - fetch from 1
+[2021-04-19T20:52:15.849] [DEBUG] default - from 1: 0
+[2021-04-19T20:52:15.861] [DEBUG] default - fetch from 2
+[2021-04-19T20:52:15.864] [DEBUG] default - from 2: 0
+[2021-04-19T20:52:25.846] [DEBUG] default - fetch from 1
+[2021-04-19T20:52:25.849] [DEBUG] default - from 1: 10
+[2021-04-19T20:52:25.856] [DEBUG] default - add: {"data":"2021-04-19T19:52:21.958Z","clNum":1,"clNumId":1}
+[2021-04-19T20:52:25.863] [DEBUG] default - fetch from 2
+[2021-04-19T20:52:25.865] [DEBUG] default - add: {"data":"2021-04-19T19:52:21.958Z","clNum":1,"clNumId":2}
+[2021-04-19T20:52:25.868] [DEBUG] default - from 2: 0
+[2021-04-19T20:52:25.871] [DEBUG] default - add: {"data":"2021-04-19T19:52:21.958Z","clNum":1,"clNumId":3}
+[2021-04-19T20:52:25.875] [DEBUG] default - add: {"data":"2021-04-19T19:52:21.958Z","clNum":1,"clNumId":4}
+[2021-04-19T20:52:25.881] [DEBUG] default - add: {"data":"2021-04-19T19:52:21.959Z","clNum":1,"clNumId":5}
+[2021-04-19T20:52:25.886] [DEBUG] default - add: {"data":"2021-04-19T19:52:21.959Z","clNum":1,"clNumId":6}
+[2021-04-19T20:52:25.892] [DEBUG] default - add: {"data":"2021-04-19T19:52:21.959Z","clNum":1,"clNumId":7}
+[2021-04-19T20:52:25.897] [DEBUG] default - add: {"data":"2021-04-19T19:52:21.959Z","clNum":1,"clNumId":8}
+[2021-04-19T20:52:25.903] [DEBUG] default - add: {"data":"2021-04-19T19:52:21.959Z","clNum":1,"clNumId":9}
+[2021-04-19T20:52:25.909] [DEBUG] default - add: {"data":"2021-04-19T19:52:21.959Z","clNum":1,"clNumId":10}
+[2021-04-19T20:52:35.847] [DEBUG] default - fetch from 1
+[2021-04-19T20:52:35.850] [DEBUG] default - from 1: 10
+[2021-04-19T20:52:35.860] [DEBUG] default - upd: {"data":"2021-04-19T19:52:21.958Z","clNum":1,"clNumId":1}
+[2021-04-19T20:52:35.866] [DEBUG] default - fetch from 2
+[2021-04-19T20:52:35.866] [DEBUG] default - add: {"data":"2021-04-19T19:52:21.958Z","clNum":1,"clNumId":2}
+[2021-04-19T20:52:35.870] [DEBUG] default - from 2: 10
+[2021-04-19T20:52:35.872] [DEBUG] default - add: {"data":"2021-04-19T19:52:21.958Z","clNum":1,"clNumId":3}
+[2021-04-19T20:52:35.879] [DEBUG] default - add: {"data":"2021-04-19T19:52:33.912Z","clNum":2,"clNumId":1}
+[2021-04-19T20:52:35.882] [DEBUG] default - add: {"data":"2021-04-19T19:52:21.958Z","clNum":1,"clNumId":4}
+[2021-04-19T20:52:35.888] [DEBUG] default - add: {"data":"2021-04-19T19:52:33.912Z","clNum":2,"clNumId":2}
+[2021-04-19T20:52:35.890] [DEBUG] default - add: {"data":"2021-04-19T19:52:21.959Z","clNum":1,"clNumId":5}
+[2021-04-19T20:52:35.895] [DEBUG] default - add: {"data":"2021-04-19T19:52:33.912Z","clNum":2,"clNumId":3}
+[2021-04-19T20:52:35.898] [DEBUG] default - add: {"data":"2021-04-19T19:52:21.959Z","clNum":1,"clNumId":6}
+[2021-04-19T20:52:35.903] [DEBUG] default - add: {"data":"2021-04-19T19:52:33.912Z","clNum":2,"clNumId":4}
+[2021-04-19T20:52:35.906] [DEBUG] default - add: {"data":"2021-04-19T19:52:21.959Z","clNum":1,"clNumId":7}
+[2021-04-19T20:52:35.911] [DEBUG] default - add: {"data":"2021-04-19T19:52:33.912Z","clNum":2,"clNumId":5}
+[2021-04-19T20:52:35.914] [DEBUG] default - add: {"data":"2021-04-19T19:52:21.959Z","clNum":1,"clNumId":8}
+[2021-04-19T20:52:35.920] [DEBUG] default - add: {"data":"2021-04-19T19:52:33.913Z","clNum":2,"clNumId":6}
+[2021-04-19T20:52:35.923] [DEBUG] default - add: {"data":"2021-04-19T19:52:21.959Z","clNum":1,"clNumId":9}
+[2021-04-19T20:52:35.930] [DEBUG] default - add: {"data":"2021-04-19T19:52:33.913Z","clNum":2,"clNumId":7}
+[2021-04-19T20:52:35.933] [DEBUG] default - add: {"data":"2021-04-19T19:52:21.959Z","clNum":1,"clNumId":10}
+[2021-04-19T20:52:35.938] [DEBUG] default - add: {"data":"2021-04-19T19:52:33.913Z","clNum":2,"clNumId":8}
+[2021-04-19T20:52:35.944] [DEBUG] default - add: {"data":"2021-04-19T19:52:33.913Z","clNum":2,"clNumId":9}
+[2021-04-19T20:52:35.949] [DEBUG] default - add: {"data":"2021-04-19T19:52:33.913Z","clNum":2,"clNumId":10}
+[2021-04-19T20:52:45.847] [DEBUG] default - fetch from 1
+[2021-04-19T20:52:45.850] [DEBUG] default - from 1: 0
+[2021-04-19T20:52:45.879] [DEBUG] default - fetch from 2
+[2021-04-19T20:52:45.882] [DEBUG] default - from 2: 10
+[2021-04-19T20:52:45.892] [DEBUG] default - upd: {"data":"2021-04-19T19:52:33.912Z","clNum":2,"clNumId":1}
+[2021-04-19T20:52:45.897] [DEBUG] default - add: {"data":"2021-04-19T19:52:33.912Z","clNum":2,"clNumId":2}
+[2021-04-19T20:52:45.904] [DEBUG] default - add: {"data":"2021-04-19T19:52:33.912Z","clNum":2,"clNumId":3}
+[2021-04-19T20:52:45.911] [DEBUG] default - add: {"data":"2021-04-19T19:52:33.912Z","clNum":2,"clNumId":4}
+[2021-04-19T20:52:45.918] [DEBUG] default - add: {"data":"2021-04-19T19:52:33.912Z","clNum":2,"clNumId":5}
+[2021-04-19T20:52:45.924] [DEBUG] default - add: {"data":"2021-04-19T19:52:33.913Z","clNum":2,"clNumId":6}
+[2021-04-19T20:52:45.931] [DEBUG] default - add: {"data":"2021-04-19T19:52:33.913Z","clNum":2,"clNumId":7}
+[2021-04-19T20:52:45.935] [DEBUG] default - add: {"data":"2021-04-19T19:52:33.913Z","clNum":2,"clNumId":8}
+[2021-04-19T20:52:45.941] [DEBUG] default - add: {"data":"2021-04-19T19:52:33.913Z","clNum":2,"clNumId":9}
+[2021-04-19T20:52:45.947] [DEBUG] default - add: {"data":"2021-04-19T19:52:33.913Z","clNum":2,"clNumId":10}
+[2021-04-19T20:52:55.855] [DEBUG] default - fetch from 1
+[2021-04-19T20:52:55.858] [DEBUG] default - from 1: 0
+[2021-04-19T20:52:55.886] [DEBUG] default - fetch from 2
+[2021-04-19T20:52:55.889] [DEBUG] default - from 2: 0
+[2021-04-19T20:53:05.861] [DEBUG] default - fetch from 1
+[2021-04-19T20:53:05.865] [DEBUG] default - from 1: 10
+[2021-04-19T20:53:05.871] [DEBUG] default - add: {"data":"2021-04-19T19:53:01.987Z","clNum":1,"clNumId":1}
+[2021-04-19T20:53:05.876] [DEBUG] default - add: {"data":"2021-04-19T19:53:01.988Z","clNum":1,"clNumId":2}
+[2021-04-19T20:53:05.882] [DEBUG] default - add: {"data":"2021-04-19T19:53:01.988Z","clNum":1,"clNumId":3}
+[2021-04-19T20:53:05.888] [DEBUG] default - fetch from 2
+[2021-04-19T20:53:05.889] [DEBUG] default - add: {"data":"2021-04-19T19:53:01.988Z","clNum":1,"clNumId":4}
+[2021-04-19T20:53:05.892] [DEBUG] default - from 2: 0
+[2021-04-19T20:53:05.894] [DEBUG] default - add: {"data":"2021-04-19T19:53:01.988Z","clNum":1,"clNumId":5}
+[2021-04-19T20:53:05.900] [DEBUG] default - add: {"data":"2021-04-19T19:53:01.988Z","clNum":1,"clNumId":6}
+[2021-04-19T20:53:05.907] [DEBUG] default - add: {"data":"2021-04-19T19:53:01.988Z","clNum":1,"clNumId":7}
+[2021-04-19T20:53:05.912] [DEBUG] default - add: {"data":"2021-04-19T19:53:01.988Z","clNum":1,"clNumId":8}
+[2021-04-19T20:53:05.918] [DEBUG] default - add: {"data":"2021-04-19T19:53:01.988Z","clNum":1,"clNumId":9}
+[2021-04-19T20:53:05.924] [DEBUG] default - add: {"data":"2021-04-19T19:53:01.988Z","clNum":1,"clNumId":10}
+[2021-04-19T20:53:15.863] [DEBUG] default - fetch from 1
+[2021-04-19T20:53:15.866] [DEBUG] default - from 1: 10
+[2021-04-19T20:53:15.886] [DEBUG] default - upd: {"data":"2021-04-19T19:53:01.987Z","clNum":1,"clNumId":1}
+[2021-04-19T20:53:15.891] [DEBUG] default - fetch from 2
+[2021-04-19T20:53:15.891] [DEBUG] default - add: {"data":"2021-04-19T19:53:01.988Z","clNum":1,"clNumId":2}
+[2021-04-19T20:53:15.895] [DEBUG] default - from 2: 10
+[2021-04-19T20:53:15.897] [DEBUG] default - add: {"data":"2021-04-19T19:53:01.988Z","clNum":1,"clNumId":3}
+[2021-04-19T20:53:15.903] [DEBUG] default - add: {"data":"2021-04-19T19:53:13.926Z","clNum":2,"clNumId":1}
+[2021-04-19T20:53:15.906] [DEBUG] default - add: {"data":"2021-04-19T19:53:01.988Z","clNum":1,"clNumId":4}
+[2021-04-19T20:53:15.912] [DEBUG] default - add: {"data":"2021-04-19T19:53:13.926Z","clNum":2,"clNumId":2}
+[2021-04-19T20:53:15.915] [DEBUG] default - add: {"data":"2021-04-19T19:53:01.988Z","clNum":1,"clNumId":5}
+[2021-04-19T20:53:15.920] [DEBUG] default - add: {"data":"2021-04-19T19:53:13.926Z","clNum":2,"clNumId":3}
+[2021-04-19T20:53:15.922] [DEBUG] default - add: {"data":"2021-04-19T19:53:01.988Z","clNum":1,"clNumId":6}
+[2021-04-19T20:53:15.927] [DEBUG] default - add: {"data":"2021-04-19T19:53:13.927Z","clNum":2,"clNumId":4}
+[2021-04-19T20:53:15.929] [DEBUG] default - add: {"data":"2021-04-19T19:53:01.988Z","clNum":1,"clNumId":7}
+[2021-04-19T20:53:15.934] [DEBUG] default - add: {"data":"2021-04-19T19:53:13.927Z","clNum":2,"clNumId":5}
+[2021-04-19T20:53:15.937] [DEBUG] default - add: {"data":"2021-04-19T19:53:01.988Z","clNum":1,"clNumId":8}
+[2021-04-19T20:53:15.943] [DEBUG] default - add: {"data":"2021-04-19T19:53:13.927Z","clNum":2,"clNumId":6}
+[2021-04-19T20:53:15.946] [DEBUG] default - add: {"data":"2021-04-19T19:53:01.988Z","clNum":1,"clNumId":9}
+[2021-04-19T20:53:15.952] [DEBUG] default - add: {"data":"2021-04-19T19:53:13.927Z","clNum":2,"clNumId":7}
+[2021-04-19T20:53:15.955] [DEBUG] default - add: {"data":"2021-04-19T19:53:01.988Z","clNum":1,"clNumId":10}
+[2021-04-19T20:53:15.960] [DEBUG] default - add: {"data":"2021-04-19T19:53:13.927Z","clNum":2,"clNumId":8}
+[2021-04-19T20:53:15.965] [DEBUG] default - add: {"data":"2021-04-19T19:53:13.927Z","clNum":2,"clNumId":9}
+[2021-04-19T20:53:15.969] [DEBUG] default - add: {"data":"2021-04-19T19:53:13.927Z","clNum":2,"clNumId":10}
+[2021-04-19T20:53:25.877] [DEBUG] default - fetch from 1
+[2021-04-19T20:53:25.880] [DEBUG] default - from 1: 0
+[2021-04-19T20:53:25.893] [DEBUG] default - fetch from 2
+[2021-04-19T20:53:25.896] [DEBUG] default - from 2: 10
+[2021-04-19T20:53:25.911] [DEBUG] default - upd: {"data":"2021-04-19T19:53:13.926Z","clNum":2,"clNumId":1}
+[2021-04-19T20:53:25.917] [DEBUG] default - add: {"data":"2021-04-19T19:53:13.926Z","clNum":2,"clNumId":2}
+[2021-04-19T20:53:25.922] [DEBUG] default - add: {"data":"2021-04-19T19:53:13.926Z","clNum":2,"clNumId":3}
+[2021-04-19T20:53:25.928] [DEBUG] default - add: {"data":"2021-04-19T19:53:13.927Z","clNum":2,"clNumId":4}
+[2021-04-19T20:53:25.933] [DEBUG] default - add: {"data":"2021-04-19T19:53:13.927Z","clNum":2,"clNumId":5}
+[2021-04-19T20:53:25.938] [DEBUG] default - add: {"data":"2021-04-19T19:53:13.927Z","clNum":2,"clNumId":6}
+[2021-04-19T20:53:25.944] [DEBUG] default - add: {"data":"2021-04-19T19:53:13.927Z","clNum":2,"clNumId":7}
+[2021-04-19T20:53:25.950] [DEBUG] default - add: {"data":"2021-04-19T19:53:13.927Z","clNum":2,"clNumId":8}
+[2021-04-19T20:53:25.956] [DEBUG] default - add: {"data":"2021-04-19T19:53:13.927Z","clNum":2,"clNumId":9}
+[2021-04-19T20:53:25.963] [DEBUG] default - add: {"data":"2021-04-19T19:53:13.927Z","clNum":2,"clNumId":10}
+[2021-04-19T20:53:35.889] [DEBUG] default - fetch from 1
+[2021-04-19T20:53:35.891] [DEBUG] default - from 1: 0
+[2021-04-19T20:53:35.905] [DEBUG] default - fetch from 2
+[2021-04-19T20:53:35.907] [DEBUG] default - from 2: 0
+[2021-04-19T20:53:45.894] [DEBUG] default - fetch from 1
+[2021-04-19T20:53:45.898] [DEBUG] default - from 1: 10
+[2021-04-19T20:53:45.909] [DEBUG] default - fetch from 2
+[2021-04-19T20:53:45.910] [DEBUG] default - add: {"data":"2021-04-19T19:53:42.002Z","clNum":1,"clNumId":1}
+[2021-04-19T20:53:45.914] [DEBUG] default - from 2: 0
+[2021-04-19T20:53:45.916] [DEBUG] default - add: {"data":"2021-04-19T19:53:42.002Z","clNum":1,"clNumId":2}
+[2021-04-19T20:53:45.921] [DEBUG] default - add: {"data":"2021-04-19T19:53:42.002Z","clNum":1,"clNumId":3}
+[2021-04-19T20:53:45.926] [DEBUG] default - add: {"data":"2021-04-19T19:53:42.002Z","clNum":1,"clNumId":4}
+[2021-04-19T20:53:45.932] [DEBUG] default - add: {"data":"2021-04-19T19:53:42.002Z","clNum":1,"clNumId":5}
+[2021-04-19T20:53:45.937] [DEBUG] default - add: {"data":"2021-04-19T19:53:42.002Z","clNum":1,"clNumId":6}
+[2021-04-19T20:53:45.942] [DEBUG] default - add: {"data":"2021-04-19T19:53:42.002Z","clNum":1,"clNumId":7}
+[2021-04-19T20:53:45.947] [DEBUG] default - add: {"data":"2021-04-19T19:53:42.002Z","clNum":1,"clNumId":8}
+[2021-04-19T20:53:45.952] [DEBUG] default - add: {"data":"2021-04-19T19:53:42.002Z","clNum":1,"clNumId":9}
+[2021-04-19T20:53:45.958] [DEBUG] default - add: {"data":"2021-04-19T19:53:42.003Z","clNum":1,"clNumId":10}
+[2021-04-19T20:53:55.909] [DEBUG] default - fetch from 1
+[2021-04-19T20:53:55.910] [DEBUG] default - fetch from 2
+[2021-04-19T20:53:55.912] [DEBUG] default - from 1: 10
+[2021-04-19T20:53:55.913] [DEBUG] default - from 2: 10
+[2021-04-19T20:53:55.922] [DEBUG] default - upd: {"data":"2021-04-19T19:53:42.002Z","clNum":1,"clNumId":1}
+[2021-04-19T20:53:55.926] [DEBUG] default - upd: {"data":"2021-04-19T19:53:53.942Z","clNum":2,"clNumId":1}
+[2021-04-19T20:53:55.931] [DEBUG] default - add: {"data":"2021-04-19T19:53:42.002Z","clNum":1,"clNumId":2}
+[2021-04-19T20:53:55.934] [DEBUG] default - add: {"data":"2021-04-19T19:53:53.942Z","clNum":2,"clNumId":2}
+[2021-04-19T20:53:55.938] [DEBUG] default - add: {"data":"2021-04-19T19:53:42.002Z","clNum":1,"clNumId":3}
+[2021-04-19T20:53:55.940] [DEBUG] default - add: {"data":"2021-04-19T19:53:53.942Z","clNum":2,"clNumId":3}
+[2021-04-19T20:53:55.945] [DEBUG] default - add: {"data":"2021-04-19T19:53:42.002Z","clNum":1,"clNumId":4}
+[2021-04-19T20:53:55.950] [DEBUG] default - add: {"data":"2021-04-19T19:53:53.942Z","clNum":2,"clNumId":4}
+[2021-04-19T20:53:55.956] [DEBUG] default - add: {"data":"2021-04-19T19:53:42.002Z","clNum":1,"clNumId":5}
+[2021-04-19T20:53:55.958] [DEBUG] default - add: {"data":"2021-04-19T19:53:53.942Z","clNum":2,"clNumId":5}
+[2021-04-19T20:53:55.963] [DEBUG] default - add: {"data":"2021-04-19T19:53:42.002Z","clNum":1,"clNumId":6}
+[2021-04-19T20:53:55.966] [DEBUG] default - add: {"data":"2021-04-19T19:53:53.943Z","clNum":2,"clNumId":6}
+[2021-04-19T20:53:55.971] [DEBUG] default - add: {"data":"2021-04-19T19:53:42.002Z","clNum":1,"clNumId":7}
+[2021-04-19T20:53:55.974] [DEBUG] default - add: {"data":"2021-04-19T19:53:53.943Z","clNum":2,"clNumId":7}
+[2021-04-19T20:53:55.978] [DEBUG] default - add: {"data":"2021-04-19T19:53:42.002Z","clNum":1,"clNumId":8}
+[2021-04-19T20:53:55.980] [DEBUG] default - add: {"data":"2021-04-19T19:53:53.943Z","clNum":2,"clNumId":8}
+[2021-04-19T20:53:55.986] [DEBUG] default - add: {"data":"2021-04-19T19:53:42.002Z","clNum":1,"clNumId":9}
+[2021-04-19T20:53:55.988] [DEBUG] default - add: {"data":"2021-04-19T19:53:53.943Z","clNum":2,"clNumId":9}
+[2021-04-19T20:53:55.993] [DEBUG] default - add: {"data":"2021-04-19T19:53:42.003Z","clNum":1,"clNumId":10}
+[2021-04-19T20:53:55.996] [DEBUG] default - add: {"data":"2021-04-19T19:53:53.943Z","clNum":2,"clNumId":10}
+[2021-04-19T20:54:05.910] [DEBUG] default - fetch from 1
+[2021-04-19T20:54:05.911] [DEBUG] default - fetch from 2
+[2021-04-19T20:54:05.913] [DEBUG] default - from 1: 0
+[2021-04-19T20:54:05.913] [DEBUG] default - from 2: 10
+[2021-04-19T20:54:05.922] [DEBUG] default - upd: {"data":"2021-04-19T19:53:53.942Z","clNum":2,"clNumId":1}
+[2021-04-19T20:54:05.927] [DEBUG] default - add: {"data":"2021-04-19T19:53:53.942Z","clNum":2,"clNumId":2}
+[2021-04-19T20:54:05.933] [DEBUG] default - add: {"data":"2021-04-19T19:53:53.942Z","clNum":2,"clNumId":3}
+[2021-04-19T20:54:05.939] [DEBUG] default - add: {"data":"2021-04-19T19:53:53.942Z","clNum":2,"clNumId":4}
+[2021-04-19T20:54:05.945] [DEBUG] default - add: {"data":"2021-04-19T19:53:53.942Z","clNum":2,"clNumId":5}
+[2021-04-19T20:54:05.950] [DEBUG] default - add: {"data":"2021-04-19T19:53:53.943Z","clNum":2,"clNumId":6}
+[2021-04-19T20:54:05.956] [DEBUG] default - add: {"data":"2021-04-19T19:53:53.943Z","clNum":2,"clNumId":7}
+[2021-04-19T20:54:05.961] [DEBUG] default - add: {"data":"2021-04-19T19:53:53.943Z","clNum":2,"clNumId":8}
+[2021-04-19T20:54:05.967] [DEBUG] default - add: {"data":"2021-04-19T19:53:53.943Z","clNum":2,"clNumId":9}
+[2021-04-19T20:54:05.971] [DEBUG] default - add: {"data":"2021-04-19T19:53:53.943Z","clNum":2,"clNumId":10}
+[2021-04-19T20:54:15.923] [DEBUG] default - fetch from 1
+[2021-04-19T20:54:15.924] [DEBUG] default - fetch from 2
+[2021-04-19T20:54:15.927] [DEBUG] default - from 1: 0
+[2021-04-19T20:54:15.928] [DEBUG] default - from 2: 0
+[2021-04-19T20:54:25.938] [DEBUG] default - fetch from 1
+[2021-04-19T20:54:25.939] [DEBUG] default - fetch from 2
+[2021-04-19T20:54:25.942] [DEBUG] default - from 2: 0
+[2021-04-19T20:54:25.942] [DEBUG] default - from 1: 10
+[2021-04-19T20:54:25.953] [DEBUG] default - add: {"data":"2021-04-19T19:54:22.006Z","clNum":1,"clNumId":1}
+[2021-04-19T20:54:25.959] [DEBUG] default - add: {"data":"2021-04-19T19:54:22.006Z","clNum":1,"clNumId":2}
+[2021-04-19T20:54:25.964] [DEBUG] default - add: {"data":"2021-04-19T19:54:22.006Z","clNum":1,"clNumId":3}
+[2021-04-19T20:54:25.970] [DEBUG] default - add: {"data":"2021-04-19T19:54:22.006Z","clNum":1,"clNumId":4}
+[2021-04-19T20:54:25.974] [DEBUG] default - add: {"data":"2021-04-19T19:54:22.006Z","clNum":1,"clNumId":5}
+[2021-04-19T20:54:25.978] [DEBUG] default - add: {"data":"2021-04-19T19:54:22.006Z","clNum":1,"clNumId":6}
+[2021-04-19T20:54:25.982] [DEBUG] default - add: {"data":"2021-04-19T19:54:22.006Z","clNum":1,"clNumId":7}
+[2021-04-19T20:54:25.989] [DEBUG] default - add: {"data":"2021-04-19T19:54:22.007Z","clNum":1,"clNumId":8}
+[2021-04-19T20:54:25.994] [DEBUG] default - add: {"data":"2021-04-19T19:54:22.007Z","clNum":1,"clNumId":9}
+[2021-04-19T20:54:25.998] [DEBUG] default - add: {"data":"2021-04-19T19:54:22.007Z","clNum":1,"clNumId":10}
+[2021-04-19T20:54:35.941] [DEBUG] default - fetch from 1
+[2021-04-19T20:54:35.941] [DEBUG] default - fetch from 2
+[2021-04-19T20:54:35.944] [DEBUG] default - from 1: 10
+[2021-04-19T20:54:35.946] [DEBUG] default - from 2: 10
+[2021-04-19T20:54:35.956] [DEBUG] default - upd: {"data":"2021-04-19T19:54:22.006Z","clNum":1,"clNumId":1}
+[2021-04-19T20:54:35.961] [DEBUG] default - upd: {"data":"2021-04-19T19:54:33.955Z","clNum":2,"clNumId":1}
+[2021-04-19T20:54:35.966] [DEBUG] default - add: {"data":"2021-04-19T19:54:22.006Z","clNum":1,"clNumId":2}
+[2021-04-19T20:54:35.968] [DEBUG] default - add: {"data":"2021-04-19T19:54:33.956Z","clNum":2,"clNumId":2}
+[2021-04-19T20:54:35.974] [DEBUG] default - add: {"data":"2021-04-19T19:54:22.006Z","clNum":1,"clNumId":3}
+[2021-04-19T20:54:35.976] [DEBUG] default - add: {"data":"2021-04-19T19:54:33.956Z","clNum":2,"clNumId":3}
+[2021-04-19T20:54:35.982] [DEBUG] default - add: {"data":"2021-04-19T19:54:22.006Z","clNum":1,"clNumId":4}
+[2021-04-19T20:54:35.984] [DEBUG] default - add: {"data":"2021-04-19T19:54:33.957Z","clNum":2,"clNumId":4}
+[2021-04-19T20:54:35.988] [DEBUG] default - add: {"data":"2021-04-19T19:54:22.006Z","clNum":1,"clNumId":5}
+[2021-04-19T20:54:35.991] [DEBUG] default - add: {"data":"2021-04-19T19:54:33.957Z","clNum":2,"clNumId":5}
+[2021-04-19T20:54:35.995] [DEBUG] default - add: {"data":"2021-04-19T19:54:22.006Z","clNum":1,"clNumId":6}
+[2021-04-19T20:54:35.997] [DEBUG] default - add: {"data":"2021-04-19T19:54:33.957Z","clNum":2,"clNumId":6}
+[2021-04-19T20:54:36.002] [DEBUG] default - add: {"data":"2021-04-19T19:54:22.006Z","clNum":1,"clNumId":7}
+[2021-04-19T20:54:36.004] [DEBUG] default - add: {"data":"2021-04-19T19:54:33.957Z","clNum":2,"clNumId":7}
+[2021-04-19T20:54:36.011] [DEBUG] default - add: {"data":"2021-04-19T19:54:22.007Z","clNum":1,"clNumId":8}
+[2021-04-19T20:54:36.013] [DEBUG] default - add: {"data":"2021-04-19T19:54:33.957Z","clNum":2,"clNumId":8}
+[2021-04-19T20:54:36.019] [DEBUG] default - add: {"data":"2021-04-19T19:54:22.007Z","clNum":1,"clNumId":9}
+[2021-04-19T20:54:36.022] [DEBUG] default - add: {"data":"2021-04-19T19:54:33.957Z","clNum":2,"clNumId":9}
+[2021-04-19T20:54:36.027] [DEBUG] default - add: {"data":"2021-04-19T19:54:22.007Z","clNum":1,"clNumId":10}
+[2021-04-19T20:54:36.029] [DEBUG] default - add: {"data":"2021-04-19T19:54:33.957Z","clNum":2,"clNumId":10}
+[2021-04-19T20:54:45.941] [DEBUG] default - fetch from 1
+[2021-04-19T20:54:45.942] [DEBUG] default - fetch from 2
+[2021-04-19T20:54:45.944] [DEBUG] default - from 1: 0
+[2021-04-19T20:54:45.945] [DEBUG] default - from 2: 10
+[2021-04-19T20:54:45.953] [DEBUG] default - upd: {"data":"2021-04-19T19:54:33.955Z","clNum":2,"clNumId":1}
+[2021-04-19T20:54:45.958] [DEBUG] default - add: {"data":"2021-04-19T19:54:33.956Z","clNum":2,"clNumId":2}
+[2021-04-19T20:54:45.963] [DEBUG] default - add: {"data":"2021-04-19T19:54:33.956Z","clNum":2,"clNumId":3}
+[2021-04-19T20:54:45.967] [DEBUG] default - add: {"data":"2021-04-19T19:54:33.957Z","clNum":2,"clNumId":4}
+[2021-04-19T20:54:45.970] [DEBUG] default - add: {"data":"2021-04-19T19:54:33.957Z","clNum":2,"clNumId":5}
+[2021-04-19T20:54:45.975] [DEBUG] default - add: {"data":"2021-04-19T19:54:33.957Z","clNum":2,"clNumId":6}
+[2021-04-19T20:54:45.979] [DEBUG] default - add: {"data":"2021-04-19T19:54:33.957Z","clNum":2,"clNumId":7}
+[2021-04-19T20:54:45.983] [DEBUG] default - add: {"data":"2021-04-19T19:54:33.957Z","clNum":2,"clNumId":8}
+[2021-04-19T20:54:45.987] [DEBUG] default - add: {"data":"2021-04-19T19:54:33.957Z","clNum":2,"clNumId":9}
+[2021-04-19T20:54:45.992] [DEBUG] default - add: {"data":"2021-04-19T19:54:33.957Z","clNum":2,"clNumId":10}
+[2021-04-19T20:54:55.951] [DEBUG] default - fetch from 1
+[2021-04-19T20:54:55.951] [DEBUG] default - fetch from 2
+[2021-04-19T20:54:55.955] [DEBUG] default - from 1: 0
+[2021-04-19T20:54:55.956] [DEBUG] default - from 2: 0
+[2021-04-19T20:55:05.955] [DEBUG] default - fetch from 1
+[2021-04-19T20:55:05.956] [DEBUG] default - fetch from 2
+[2021-04-19T20:55:05.958] [DEBUG] default - from 2: 0
+[2021-04-19T20:55:05.959] [DEBUG] default - from 1: 10
+[2021-04-19T20:55:05.964] [DEBUG] default - add: {"data":"2021-04-19T19:55:02.035Z","clNum":1,"clNumId":1}
+[2021-04-19T20:55:05.969] [DEBUG] default - add: {"data":"2021-04-19T19:55:02.036Z","clNum":1,"clNumId":2}
+[2021-04-19T20:55:05.973] [DEBUG] default - add: {"data":"2021-04-19T19:55:02.036Z","clNum":1,"clNumId":3}
+[2021-04-19T20:55:05.978] [DEBUG] default - add: {"data":"2021-04-19T19:55:02.036Z","clNum":1,"clNumId":4}
+[2021-04-19T20:55:05.982] [DEBUG] default - add: {"data":"2021-04-19T19:55:02.036Z","clNum":1,"clNumId":5}
+[2021-04-19T20:55:05.988] [DEBUG] default - add: {"data":"2021-04-19T19:55:02.036Z","clNum":1,"clNumId":6}
+[2021-04-19T20:55:05.992] [DEBUG] default - add: {"data":"2021-04-19T19:55:02.036Z","clNum":1,"clNumId":7}
+[2021-04-19T20:55:05.996] [DEBUG] default - add: {"data":"2021-04-19T19:55:02.036Z","clNum":1,"clNumId":8}
+[2021-04-19T20:55:06.002] [DEBUG] default - add: {"data":"2021-04-19T19:55:02.036Z","clNum":1,"clNumId":9}
+[2021-04-19T20:55:06.006] [DEBUG] default - add: {"data":"2021-04-19T19:55:02.036Z","clNum":1,"clNumId":10}
+[2021-04-19T20:55:15.956] [DEBUG] default - fetch from 1
+[2021-04-19T20:55:15.957] [DEBUG] default - fetch from 2
+[2021-04-19T20:55:15.960] [DEBUG] default - from 2: 10
+[2021-04-19T20:55:15.961] [DEBUG] default - from 1: 10
+[2021-04-19T20:55:15.977] [DEBUG] default - upd: {"data":"2021-04-19T19:55:13.973Z","clNum":2,"clNumId":1}
+[2021-04-19T20:55:15.984] [DEBUG] default - upd: {"data":"2021-04-19T19:55:02.035Z","clNum":1,"clNumId":1}
+[2021-04-19T20:55:15.989] [DEBUG] default - add: {"data":"2021-04-19T19:55:13.973Z","clNum":2,"clNumId":2}
+[2021-04-19T20:55:15.992] [DEBUG] default - add: {"data":"2021-04-19T19:55:02.036Z","clNum":1,"clNumId":2}
+[2021-04-19T20:55:15.998] [DEBUG] default - add: {"data":"2021-04-19T19:55:13.974Z","clNum":2,"clNumId":3}
+[2021-04-19T20:55:16.001] [DEBUG] default - add: {"data":"2021-04-19T19:55:02.036Z","clNum":1,"clNumId":3}
+[2021-04-19T20:55:16.006] [DEBUG] default - add: {"data":"2021-04-19T19:55:13.974Z","clNum":2,"clNumId":4}
+[2021-04-19T20:55:16.008] [DEBUG] default - add: {"data":"2021-04-19T19:55:02.036Z","clNum":1,"clNumId":4}
+[2021-04-19T20:55:16.012] [DEBUG] default - add: {"data":"2021-04-19T19:55:13.974Z","clNum":2,"clNumId":5}
+[2021-04-19T20:55:16.015] [DEBUG] default - add: {"data":"2021-04-19T19:55:02.036Z","clNum":1,"clNumId":5}
+[2021-04-19T20:55:16.020] [DEBUG] default - add: {"data":"2021-04-19T19:55:13.974Z","clNum":2,"clNumId":6}
+[2021-04-19T20:55:16.022] [DEBUG] default - add: {"data":"2021-04-19T19:55:02.036Z","clNum":1,"clNumId":6}
+[2021-04-19T20:55:16.028] [DEBUG] default - add: {"data":"2021-04-19T19:55:13.974Z","clNum":2,"clNumId":7}
+[2021-04-19T20:55:16.031] [DEBUG] default - add: {"data":"2021-04-19T19:55:02.036Z","clNum":1,"clNumId":7}
+[2021-04-19T20:55:16.036] [DEBUG] default - add: {"data":"2021-04-19T19:55:13.974Z","clNum":2,"clNumId":8}
+[2021-04-19T20:55:16.039] [DEBUG] default - add: {"data":"2021-04-19T19:55:02.036Z","clNum":1,"clNumId":8}
+[2021-04-19T20:55:16.046] [DEBUG] default - add: {"data":"2021-04-19T19:55:13.974Z","clNum":2,"clNumId":9}
+[2021-04-19T20:55:16.049] [DEBUG] default - add: {"data":"2021-04-19T19:55:02.036Z","clNum":1,"clNumId":9}
+[2021-04-19T20:55:16.056] [DEBUG] default - add: {"data":"2021-04-19T19:55:13.974Z","clNum":2,"clNumId":10}
+[2021-04-19T20:55:16.058] [DEBUG] default - add: {"data":"2021-04-19T19:55:02.036Z","clNum":1,"clNumId":10}
+[2021-04-19T20:55:25.971] [DEBUG] default - fetch from 1
+[2021-04-19T20:55:25.971] [DEBUG] default - fetch from 2
+[2021-04-19T20:55:25.974] [DEBUG] default - from 1: 0
+[2021-04-19T20:55:25.975] [DEBUG] default - from 2: 10
+[2021-04-19T20:55:25.986] [DEBUG] default - add: {"data":"2021-04-19T19:55:13.973Z","clNum":2,"clNumId":1}
+[2021-04-19T20:55:25.996] [DEBUG] default - upd: {"data":"2021-04-19T19:55:13.973Z","clNum":2,"clNumId":2}
+[2021-04-19T20:55:26.003] [DEBUG] default - add: {"data":"2021-04-19T19:55:13.974Z","clNum":2,"clNumId":3}
+[2021-04-19T20:55:26.008] [DEBUG] default - add: {"data":"2021-04-19T19:55:13.974Z","clNum":2,"clNumId":4}
+[2021-04-19T20:55:26.013] [DEBUG] default - add: {"data":"2021-04-19T19:55:13.974Z","clNum":2,"clNumId":5}
+[2021-04-19T20:55:26.018] [DEBUG] default - add: {"data":"2021-04-19T19:55:13.974Z","clNum":2,"clNumId":6}
+[2021-04-19T20:55:26.025] [DEBUG] default - add: {"data":"2021-04-19T19:55:13.974Z","clNum":2,"clNumId":7}
+[2021-04-19T20:55:26.030] [DEBUG] default - add: {"data":"2021-04-19T19:55:13.974Z","clNum":2,"clNumId":8}
+[2021-04-19T20:55:26.035] [DEBUG] default - add: {"data":"2021-04-19T19:55:13.974Z","clNum":2,"clNumId":9}
+[2021-04-19T20:55:26.041] [DEBUG] default - add: {"data":"2021-04-19T19:55:13.974Z","clNum":2,"clNumId":10}
+[2021-04-19T20:55:35.972] [DEBUG] default - fetch from 1
+[2021-04-19T20:55:35.973] [DEBUG] default - fetch from 2
+[2021-04-19T20:55:35.976] [DEBUG] default - from 1: 0
+[2021-04-19T20:55:35.976] [DEBUG] default - from 2: 0
+[2021-04-19T20:55:45.987] [DEBUG] default - fetch from 1
+[2021-04-19T20:55:45.987] [DEBUG] default - fetch from 2
+[2021-04-19T20:55:45.990] [DEBUG] default - from 2: 0
+[2021-04-19T20:55:45.991] [DEBUG] default - from 1: 10
+[2021-04-19T20:55:45.995] [DEBUG] default - add: {"data":"2021-04-19T19:55:42.037Z","clNum":1,"clNumId":1}
+[2021-04-19T20:55:46.000] [DEBUG] default - add: {"data":"2021-04-19T19:55:42.037Z","clNum":1,"clNumId":2}
+[2021-04-19T20:55:46.006] [DEBUG] default - add: {"data":"2021-04-19T19:55:42.037Z","clNum":1,"clNumId":3}
+[2021-04-19T20:55:46.010] [DEBUG] default - add: {"data":"2021-04-19T19:55:42.037Z","clNum":1,"clNumId":4}
+[2021-04-19T20:55:46.016] [DEBUG] default - add: {"data":"2021-04-19T19:55:42.037Z","clNum":1,"clNumId":5}
+[2021-04-19T20:55:46.022] [DEBUG] default - add: {"data":"2021-04-19T19:55:42.038Z","clNum":1,"clNumId":6}
+[2021-04-19T20:55:46.029] [DEBUG] default - add: {"data":"2021-04-19T19:55:42.038Z","clNum":1,"clNumId":7}
+[2021-04-19T20:55:46.034] [DEBUG] default - add: {"data":"2021-04-19T19:55:42.038Z","clNum":1,"clNumId":8}
+[2021-04-19T20:55:46.038] [DEBUG] default - add: {"data":"2021-04-19T19:55:42.038Z","clNum":1,"clNumId":9}
+[2021-04-19T20:55:46.044] [DEBUG] default - add: {"data":"2021-04-19T19:55:42.038Z","clNum":1,"clNumId":10}
+[2021-04-19T20:55:55.989] [DEBUG] default - fetch from 1
+[2021-04-19T20:55:55.989] [DEBUG] default - fetch from 2
+[2021-04-19T20:55:55.993] [DEBUG] default - from 1: 10
+[2021-04-19T20:55:55.994] [DEBUG] default - from 2: 10
+[2021-04-19T20:55:56.009] [DEBUG] default - upd: {"data":"2021-04-19T19:55:42.037Z","clNum":1,"clNumId":1}
+[2021-04-19T20:55:56.012] [DEBUG] default - add: {"data":"2021-04-19T19:55:53.988Z","clNum":2,"clNumId":1}
+[2021-04-19T20:55:56.018] [DEBUG] default - add: {"data":"2021-04-19T19:55:42.037Z","clNum":1,"clNumId":2}
+[2021-04-19T20:55:56.021] [DEBUG] default - add: {"data":"2021-04-19T19:55:53.988Z","clNum":2,"clNumId":2}
+[2021-04-19T20:55:56.029] [DEBUG] default - add: {"data":"2021-04-19T19:55:42.037Z","clNum":1,"clNumId":3}
+[2021-04-19T20:55:56.034] [DEBUG] default - add: {"data":"2021-04-19T19:55:53.988Z","clNum":2,"clNumId":3}
+[2021-04-19T20:55:56.044] [DEBUG] default - add: {"data":"2021-04-19T19:55:42.037Z","clNum":1,"clNumId":4}
+[2021-04-19T20:55:56.048] [DEBUG] default - add: {"data":"2021-04-19T19:55:53.988Z","clNum":2,"clNumId":4}
+[2021-04-19T20:55:56.056] [DEBUG] default - add: {"data":"2021-04-19T19:55:42.037Z","clNum":1,"clNumId":5}
+[2021-04-19T20:55:56.059] [DEBUG] default - add: {"data":"2021-04-19T19:55:53.988Z","clNum":2,"clNumId":5}
+[2021-04-19T20:55:56.066] [DEBUG] default - add: {"data":"2021-04-19T19:55:42.038Z","clNum":1,"clNumId":6}
+[2021-04-19T20:55:56.069] [DEBUG] default - add: {"data":"2021-04-19T19:55:53.988Z","clNum":2,"clNumId":6}
+[2021-04-19T20:55:56.077] [DEBUG] default - add: {"data":"2021-04-19T19:55:42.038Z","clNum":1,"clNumId":7}
+[2021-04-19T20:55:56.081] [DEBUG] default - add: {"data":"2021-04-19T19:55:53.988Z","clNum":2,"clNumId":7}
+[2021-04-19T20:55:56.087] [DEBUG] default - add: {"data":"2021-04-19T19:55:42.038Z","clNum":1,"clNumId":8}
+[2021-04-19T20:55:56.090] [DEBUG] default - add: {"data":"2021-04-19T19:55:53.988Z","clNum":2,"clNumId":8}
+[2021-04-19T20:55:56.094] [DEBUG] default - add: {"data":"2021-04-19T19:55:42.038Z","clNum":1,"clNumId":9}
+[2021-04-19T20:55:56.098] [DEBUG] default - add: {"data":"2021-04-19T19:55:53.988Z","clNum":2,"clNumId":9}
+[2021-04-19T20:55:56.104] [DEBUG] default - add: {"data":"2021-04-19T19:55:42.038Z","clNum":1,"clNumId":10}
+[2021-04-19T20:55:56.106] [DEBUG] default - add: {"data":"2021-04-19T19:55:53.989Z","clNum":2,"clNumId":10}
+[2021-04-19T20:56:06.003] [DEBUG] default - fetch from 1
+[2021-04-19T20:56:06.004] [DEBUG] default - fetch from 2
+[2021-04-19T20:56:06.007] [DEBUG] default - from 1: 0
+[2021-04-19T20:56:06.007] [DEBUG] default - from 2: 10
+[2021-04-19T20:56:06.015] [DEBUG] default - upd: {"data":"2021-04-19T19:55:53.988Z","clNum":2,"clNumId":1}
+[2021-04-19T20:56:06.020] [DEBUG] default - add: {"data":"2021-04-19T19:55:53.988Z","clNum":2,"clNumId":2}
+[2021-04-19T20:56:06.026] [DEBUG] default - add: {"data":"2021-04-19T19:55:53.988Z","clNum":2,"clNumId":3}
+[2021-04-19T20:56:06.031] [DEBUG] default - add: {"data":"2021-04-19T19:55:53.988Z","clNum":2,"clNumId":4}
+[2021-04-19T20:56:06.035] [DEBUG] default - add: {"data":"2021-04-19T19:55:53.988Z","clNum":2,"clNumId":5}
+[2021-04-19T20:56:06.041] [DEBUG] default - add: {"data":"2021-04-19T19:55:53.988Z","clNum":2,"clNumId":6}
+[2021-04-19T20:56:06.047] [DEBUG] default - add: {"data":"2021-04-19T19:55:53.988Z","clNum":2,"clNumId":7}
+[2021-04-19T20:56:06.053] [DEBUG] default - add: {"data":"2021-04-19T19:55:53.988Z","clNum":2,"clNumId":8}
+[2021-04-19T20:56:06.058] [DEBUG] default - add: {"data":"2021-04-19T19:55:53.988Z","clNum":2,"clNumId":9}
+[2021-04-19T20:56:06.063] [DEBUG] default - add: {"data":"2021-04-19T19:55:53.989Z","clNum":2,"clNumId":10}
+[2021-04-19T20:56:16.018] [DEBUG] default - fetch from 1
+[2021-04-19T20:56:16.019] [DEBUG] default - fetch from 2
+[2021-04-19T20:56:16.021] [DEBUG] default - from 1: 0
+[2021-04-19T20:56:16.021] [DEBUG] default - from 2: 0
+[2021-04-19T20:56:26.019] [DEBUG] default - fetch from 1
+[2021-04-19T20:56:26.020] [DEBUG] default - fetch from 2
+[2021-04-19T20:56:26.023] [DEBUG] default - from 2: 0
+[2021-04-19T20:56:26.024] [DEBUG] default - from 1: 10
+[2021-04-19T20:56:26.035] [DEBUG] default - add: {"data":"2021-04-19T19:56:22.051Z","clNum":1,"clNumId":1}
+[2021-04-19T20:56:26.041] [DEBUG] default - add: {"data":"2021-04-19T19:56:22.051Z","clNum":1,"clNumId":2}
+[2021-04-19T20:56:26.046] [DEBUG] default - add: {"data":"2021-04-19T19:56:22.051Z","clNum":1,"clNumId":3}
+[2021-04-19T20:56:26.052] [DEBUG] default - add: {"data":"2021-04-19T19:56:22.051Z","clNum":1,"clNumId":4}
+[2021-04-19T20:56:26.057] [DEBUG] default - add: {"data":"2021-04-19T19:56:22.052Z","clNum":1,"clNumId":5}
+[2021-04-19T20:56:26.062] [DEBUG] default - add: {"data":"2021-04-19T19:56:22.052Z","clNum":1,"clNumId":6}
+[2021-04-19T20:56:26.068] [DEBUG] default - add: {"data":"2021-04-19T19:56:22.052Z","clNum":1,"clNumId":7}
+[2021-04-19T20:56:26.073] [DEBUG] default - add: {"data":"2021-04-19T19:56:22.052Z","clNum":1,"clNumId":8}
+[2021-04-19T20:56:26.078] [DEBUG] default - add: {"data":"2021-04-19T19:56:22.052Z","clNum":1,"clNumId":9}
+[2021-04-19T20:56:26.085] [DEBUG] default - add: {"data":"2021-04-19T19:56:22.052Z","clNum":1,"clNumId":10}
+[2021-04-19T20:56:36.033] [DEBUG] default - fetch from 1
+[2021-04-19T20:56:36.033] [DEBUG] default - fetch from 2
+[2021-04-19T20:56:36.036] [DEBUG] default - from 1: 10
+[2021-04-19T20:56:36.036] [DEBUG] default - from 2: 10
+[2021-04-19T20:56:36.044] [DEBUG] default - upd: {"data":"2021-04-19T19:56:22.051Z","clNum":1,"clNumId":1}
+[2021-04-19T20:56:36.048] [DEBUG] default - upd: {"data":"2021-04-19T19:56:34.004Z","clNum":2,"clNumId":1}
+[2021-04-19T20:56:36.052] [DEBUG] default - add: {"data":"2021-04-19T19:56:22.051Z","clNum":1,"clNumId":2}
+[2021-04-19T20:56:36.054] [DEBUG] default - add: {"data":"2021-04-19T19:56:34.004Z","clNum":2,"clNumId":2}
+[2021-04-19T20:56:36.058] [DEBUG] default - add: {"data":"2021-04-19T19:56:22.051Z","clNum":1,"clNumId":3}
+[2021-04-19T20:56:36.060] [DEBUG] default - add: {"data":"2021-04-19T19:56:34.004Z","clNum":2,"clNumId":3}
+[2021-04-19T20:56:36.064] [DEBUG] default - add: {"data":"2021-04-19T19:56:22.051Z","clNum":1,"clNumId":4}
+[2021-04-19T20:56:36.067] [DEBUG] default - add: {"data":"2021-04-19T19:56:34.004Z","clNum":2,"clNumId":4}
+[2021-04-19T20:56:36.071] [DEBUG] default - add: {"data":"2021-04-19T19:56:22.052Z","clNum":1,"clNumId":5}
+[2021-04-19T20:56:36.073] [DEBUG] default - add: {"data":"2021-04-19T19:56:34.004Z","clNum":2,"clNumId":5}
+[2021-04-19T20:56:36.077] [DEBUG] default - add: {"data":"2021-04-19T19:56:22.052Z","clNum":1,"clNumId":6}
+[2021-04-19T20:56:36.080] [DEBUG] default - add: {"data":"2021-04-19T19:56:34.005Z","clNum":2,"clNumId":6}
+[2021-04-19T20:56:36.085] [DEBUG] default - add: {"data":"2021-04-19T19:56:22.052Z","clNum":1,"clNumId":7}
+[2021-04-19T20:56:36.087] [DEBUG] default - add: {"data":"2021-04-19T19:56:34.005Z","clNum":2,"clNumId":7}
+[2021-04-19T20:56:36.091] [DEBUG] default - add: {"data":"2021-04-19T19:56:22.052Z","clNum":1,"clNumId":8}
+[2021-04-19T20:56:36.093] [DEBUG] default - add: {"data":"2021-04-19T19:56:34.005Z","clNum":2,"clNumId":8}
+[2021-04-19T20:56:36.097] [DEBUG] default - add: {"data":"2021-04-19T19:56:22.052Z","clNum":1,"clNumId":9}
+[2021-04-19T20:56:36.100] [DEBUG] default - add: {"data":"2021-04-19T19:56:34.005Z","clNum":2,"clNumId":9}
+[2021-04-19T20:56:36.105] [DEBUG] default - add: {"data":"2021-04-19T19:56:22.052Z","clNum":1,"clNumId":10}
+[2021-04-19T20:56:36.108] [DEBUG] default - add: {"data":"2021-04-19T19:56:34.005Z","clNum":2,"clNumId":10}
+[2021-04-19T20:56:46.046] [DEBUG] default - fetch from 1
+[2021-04-19T20:56:46.047] [DEBUG] default - fetch from 2
+[2021-04-19T20:56:46.050] [DEBUG] default - from 1: 0
+[2021-04-19T20:56:46.052] [DEBUG] default - from 2: 10
+[2021-04-19T20:56:46.061] [DEBUG] default - upd: {"data":"2021-04-19T19:56:34.004Z","clNum":2,"clNumId":1}
+[2021-04-19T20:56:46.066] [DEBUG] default - add: {"data":"2021-04-19T19:56:34.004Z","clNum":2,"clNumId":2}
+[2021-04-19T20:56:46.070] [DEBUG] default - add: {"data":"2021-04-19T19:56:34.004Z","clNum":2,"clNumId":3}
+[2021-04-19T20:56:46.075] [DEBUG] default - add: {"data":"2021-04-19T19:56:34.004Z","clNum":2,"clNumId":4}
+[2021-04-19T20:56:46.081] [DEBUG] default - add: {"data":"2021-04-19T19:56:34.004Z","clNum":2,"clNumId":5}
+[2021-04-19T20:56:46.087] [DEBUG] default - add: {"data":"2021-04-19T19:56:34.005Z","clNum":2,"clNumId":6}
+[2021-04-19T20:56:46.091] [DEBUG] default - add: {"data":"2021-04-19T19:56:34.005Z","clNum":2,"clNumId":7}
+[2021-04-19T20:56:46.096] [DEBUG] default - add: {"data":"2021-04-19T19:56:34.005Z","clNum":2,"clNumId":8}
+[2021-04-19T20:56:46.101] [DEBUG] default - add: {"data":"2021-04-19T19:56:34.005Z","clNum":2,"clNumId":9}
+[2021-04-19T20:56:46.106] [DEBUG] default - add: {"data":"2021-04-19T19:56:34.005Z","clNum":2,"clNumId":10}
+[2021-04-19T20:56:56.049] [DEBUG] default - fetch from 1
+[2021-04-19T20:56:56.050] [DEBUG] default - fetch from 2
+[2021-04-19T20:56:56.055] [DEBUG] default - from 1: 0
+[2021-04-19T20:56:56.056] [DEBUG] default - from 2: 0
+[2021-04-19T20:57:06.051] [DEBUG] default - fetch from 1
+[2021-04-19T20:57:06.051] [DEBUG] default - fetch from 2
+[2021-04-19T20:57:06.054] [DEBUG] default - from 2: 0
+[2021-04-19T20:57:06.054] [DEBUG] default - from 1: 10
+[2021-04-19T20:57:06.065] [DEBUG] default - add: {"data":"2021-04-19T19:57:02.066Z","clNum":1,"clNumId":1}
+[2021-04-19T20:57:06.070] [DEBUG] default - add: {"data":"2021-04-19T19:57:02.066Z","clNum":1,"clNumId":2}
+[2021-04-19T20:57:06.075] [DEBUG] default - add: {"data":"2021-04-19T19:57:02.066Z","clNum":1,"clNumId":3}
+[2021-04-19T20:57:06.082] [DEBUG] default - add: {"data":"2021-04-19T19:57:02.067Z","clNum":1,"clNumId":4}
+[2021-04-19T20:57:06.087] [DEBUG] default - add: {"data":"2021-04-19T19:57:02.067Z","clNum":1,"clNumId":5}
+[2021-04-19T20:57:06.092] [DEBUG] default - add: {"data":"2021-04-19T19:57:02.067Z","clNum":1,"clNumId":6}
+[2021-04-19T20:57:06.096] [DEBUG] default - add: {"data":"2021-04-19T19:57:02.067Z","clNum":1,"clNumId":7}
+[2021-04-19T20:57:06.101] [DEBUG] default - add: {"data":"2021-04-19T19:57:02.067Z","clNum":1,"clNumId":8}
+[2021-04-19T20:57:06.106] [DEBUG] default - add: {"data":"2021-04-19T19:57:02.067Z","clNum":1,"clNumId":9}
+[2021-04-19T20:57:06.111] [DEBUG] default - add: {"data":"2021-04-19T19:57:02.067Z","clNum":1,"clNumId":10}
+[2021-04-19T20:57:16.066] [DEBUG] default - fetch from 1
+[2021-04-19T20:57:16.067] [DEBUG] default - fetch from 2
+[2021-04-19T20:57:16.070] [DEBUG] default - from 2: 10
+[2021-04-19T20:57:16.071] [DEBUG] default - from 1: 10
+[2021-04-19T20:57:16.080] [DEBUG] default - upd: {"data":"2021-04-19T19:57:14.021Z","clNum":2,"clNumId":1}
+[2021-04-19T20:57:16.084] [DEBUG] default - upd: {"data":"2021-04-19T19:57:02.066Z","clNum":1,"clNumId":1}
+[2021-04-19T20:57:16.091] [DEBUG] default - add: {"data":"2021-04-19T19:57:14.021Z","clNum":2,"clNumId":2}
+[2021-04-19T20:57:16.094] [DEBUG] default - add: {"data":"2021-04-19T19:57:02.066Z","clNum":1,"clNumId":2}
+[2021-04-19T20:57:16.099] [DEBUG] default - add: {"data":"2021-04-19T19:57:14.021Z","clNum":2,"clNumId":3}
+[2021-04-19T20:57:16.102] [DEBUG] default - add: {"data":"2021-04-19T19:57:02.066Z","clNum":1,"clNumId":3}
+[2021-04-19T20:57:16.107] [DEBUG] default - add: {"data":"2021-04-19T19:57:14.022Z","clNum":2,"clNumId":4}
+[2021-04-19T20:57:16.110] [DEBUG] default - add: {"data":"2021-04-19T19:57:02.067Z","clNum":1,"clNumId":4}
+[2021-04-19T20:57:16.115] [DEBUG] default - add: {"data":"2021-04-19T19:57:14.022Z","clNum":2,"clNumId":5}
+[2021-04-19T20:57:16.118] [DEBUG] default - add: {"data":"2021-04-19T19:57:02.067Z","clNum":1,"clNumId":5}
+[2021-04-19T20:57:16.123] [DEBUG] default - add: {"data":"2021-04-19T19:57:14.022Z","clNum":2,"clNumId":6}
+[2021-04-19T20:57:16.126] [DEBUG] default - add: {"data":"2021-04-19T19:57:02.067Z","clNum":1,"clNumId":6}
+[2021-04-19T20:57:16.132] [DEBUG] default - add: {"data":"2021-04-19T19:57:14.022Z","clNum":2,"clNumId":7}
+[2021-04-19T20:57:16.135] [DEBUG] default - add: {"data":"2021-04-19T19:57:02.067Z","clNum":1,"clNumId":7}
+[2021-04-19T20:57:16.140] [DEBUG] default - add: {"data":"2021-04-19T19:57:14.022Z","clNum":2,"clNumId":8}
+[2021-04-19T20:57:16.142] [DEBUG] default - add: {"data":"2021-04-19T19:57:02.067Z","clNum":1,"clNumId":8}
+[2021-04-19T20:57:16.147] [DEBUG] default - add: {"data":"2021-04-19T19:57:14.022Z","clNum":2,"clNumId":9}
+[2021-04-19T20:57:16.150] [DEBUG] default - add: {"data":"2021-04-19T19:57:02.067Z","clNum":1,"clNumId":9}
+[2021-04-19T20:57:16.155] [DEBUG] default - add: {"data":"2021-04-19T19:57:14.022Z","clNum":2,"clNumId":10}
+[2021-04-19T20:57:16.158] [DEBUG] default - add: {"data":"2021-04-19T19:57:02.067Z","clNum":1,"clNumId":10}
+[2021-04-19T20:57:26.069] [DEBUG] default - fetch from 1
+[2021-04-19T20:57:26.070] [DEBUG] default - fetch from 2
+[2021-04-19T20:57:26.073] [DEBUG] default - from 1: 0
+[2021-04-19T20:57:26.074] [DEBUG] default - from 2: 10
+[2021-04-19T20:57:26.086] [DEBUG] default - add: {"data":"2021-04-19T19:57:14.021Z","clNum":2,"clNumId":1}
+[2021-04-19T20:57:26.097] [DEBUG] default - upd: {"data":"2021-04-19T19:57:14.021Z","clNum":2,"clNumId":2}
+[2021-04-19T20:57:26.102] [DEBUG] default - add: {"data":"2021-04-19T19:57:14.021Z","clNum":2,"clNumId":3}
+[2021-04-19T20:57:26.107] [DEBUG] default - add: {"data":"2021-04-19T19:57:14.022Z","clNum":2,"clNumId":4}
+[2021-04-19T20:57:26.112] [DEBUG] default - add: {"data":"2021-04-19T19:57:14.022Z","clNum":2,"clNumId":5}
+[2021-04-19T20:57:26.118] [DEBUG] default - add: {"data":"2021-04-19T19:57:14.022Z","clNum":2,"clNumId":6}
+[2021-04-19T20:57:26.124] [DEBUG] default - add: {"data":"2021-04-19T19:57:14.022Z","clNum":2,"clNumId":7}
+[2021-04-19T20:57:26.130] [DEBUG] default - add: {"data":"2021-04-19T19:57:14.022Z","clNum":2,"clNumId":8}
+[2021-04-19T20:57:26.137] [DEBUG] default - add: {"data":"2021-04-19T19:57:14.022Z","clNum":2,"clNumId":9}
+[2021-04-19T20:57:26.142] [DEBUG] default - add: {"data":"2021-04-19T19:57:14.022Z","clNum":2,"clNumId":10}
+[2021-04-19T20:57:36.077] [DEBUG] default - fetch from 1
+[2021-04-19T20:57:36.077] [DEBUG] default - fetch from 2
+[2021-04-19T20:57:36.081] [DEBUG] default - from 1: 0
+[2021-04-19T20:57:36.082] [DEBUG] default - from 2: 0
+[2021-04-19T20:57:46.084] [DEBUG] default - fetch from 1
+[2021-04-19T20:57:46.085] [DEBUG] default - fetch from 2
+[2021-04-19T20:57:46.089] [DEBUG] default - from 2: 0
+[2021-04-19T20:57:46.090] [DEBUG] default - from 1: 10
+[2021-04-19T20:57:46.101] [DEBUG] default - add: {"data":"2021-04-19T19:57:42.082Z","clNum":1,"clNumId":1}
+[2021-04-19T20:57:46.106] [DEBUG] default - add: {"data":"2021-04-19T19:57:42.082Z","clNum":1,"clNumId":2}
+[2021-04-19T20:57:46.111] [DEBUG] default - add: {"data":"2021-04-19T19:57:42.082Z","clNum":1,"clNumId":3}
+[2021-04-19T20:57:46.115] [DEBUG] default - add: {"data":"2021-04-19T19:57:42.083Z","clNum":1,"clNumId":4}
+[2021-04-19T20:57:46.120] [DEBUG] default - add: {"data":"2021-04-19T19:57:42.083Z","clNum":1,"clNumId":5}
+[2021-04-19T20:57:46.126] [DEBUG] default - add: {"data":"2021-04-19T19:57:42.083Z","clNum":1,"clNumId":6}
+[2021-04-19T20:57:46.130] [DEBUG] default - add: {"data":"2021-04-19T19:57:42.083Z","clNum":1,"clNumId":7}
+[2021-04-19T20:57:46.135] [DEBUG] default - add: {"data":"2021-04-19T19:57:42.083Z","clNum":1,"clNumId":8}
+[2021-04-19T20:57:46.140] [DEBUG] default - add: {"data":"2021-04-19T19:57:42.083Z","clNum":1,"clNumId":9}
+[2021-04-19T20:57:46.144] [DEBUG] default - add: {"data":"2021-04-19T19:57:42.083Z","clNum":1,"clNumId":10}
+[2021-04-19T20:57:56.097] [DEBUG] default - fetch from 1
+[2021-04-19T20:57:56.098] [DEBUG] default - fetch from 2
+[2021-04-19T20:57:56.101] [DEBUG] default - from 1: 10
+[2021-04-19T20:57:56.101] [DEBUG] default - from 2: 10
+[2021-04-19T20:57:56.109] [DEBUG] default - upd: {"data":"2021-04-19T19:57:42.082Z","clNum":1,"clNumId":1}
+[2021-04-19T20:57:56.111] [DEBUG] default - add: {"data":"2021-04-19T19:57:54.046Z","clNum":2,"clNumId":1}
+[2021-04-19T20:57:56.115] [DEBUG] default - add: {"data":"2021-04-19T19:57:42.082Z","clNum":1,"clNumId":2}
+[2021-04-19T20:57:56.117] [DEBUG] default - add: {"data":"2021-04-19T19:57:54.046Z","clNum":2,"clNumId":2}
+[2021-04-19T20:57:56.122] [DEBUG] default - add: {"data":"2021-04-19T19:57:42.082Z","clNum":1,"clNumId":3}
+[2021-04-19T20:57:56.124] [DEBUG] default - add: {"data":"2021-04-19T19:57:54.046Z","clNum":2,"clNumId":3}
+[2021-04-19T20:57:56.128] [DEBUG] default - add: {"data":"2021-04-19T19:57:42.083Z","clNum":1,"clNumId":4}
+[2021-04-19T20:57:56.131] [DEBUG] default - add: {"data":"2021-04-19T19:57:54.046Z","clNum":2,"clNumId":4}
+[2021-04-19T20:57:56.135] [DEBUG] default - add: {"data":"2021-04-19T19:57:42.083Z","clNum":1,"clNumId":5}
+[2021-04-19T20:57:56.138] [DEBUG] default - add: {"data":"2021-04-19T19:57:54.046Z","clNum":2,"clNumId":5}
+[2021-04-19T20:57:56.143] [DEBUG] default - add: {"data":"2021-04-19T19:57:42.083Z","clNum":1,"clNumId":6}
+[2021-04-19T20:57:56.146] [DEBUG] default - add: {"data":"2021-04-19T19:57:54.046Z","clNum":2,"clNumId":6}
+[2021-04-19T20:57:56.150] [DEBUG] default - add: {"data":"2021-04-19T19:57:42.083Z","clNum":1,"clNumId":7}
+[2021-04-19T20:57:56.152] [DEBUG] default - add: {"data":"2021-04-19T19:57:54.046Z","clNum":2,"clNumId":7}
+[2021-04-19T20:57:56.156] [DEBUG] default - add: {"data":"2021-04-19T19:57:42.083Z","clNum":1,"clNumId":8}
+[2021-04-19T20:57:56.159] [DEBUG] default - add: {"data":"2021-04-19T19:57:54.046Z","clNum":2,"clNumId":8}
+[2021-04-19T20:57:56.163] [DEBUG] default - add: {"data":"2021-04-19T19:57:42.083Z","clNum":1,"clNumId":9}
+[2021-04-19T20:57:56.166] [DEBUG] default - add: {"data":"2021-04-19T19:57:54.046Z","clNum":2,"clNumId":9}
+[2021-04-19T20:57:56.170] [DEBUG] default - add: {"data":"2021-04-19T19:57:42.083Z","clNum":1,"clNumId":10}
+[2021-04-19T20:57:56.172] [DEBUG] default - add: {"data":"2021-04-19T19:57:54.047Z","clNum":2,"clNumId":10}
+[2021-04-19T20:58:06.109] [DEBUG] default - fetch from 1
+[2021-04-19T20:58:06.109] [DEBUG] default - fetch from 2
+[2021-04-19T20:58:06.112] [DEBUG] default - from 1: 0
+[2021-04-19T20:58:06.112] [DEBUG] default - from 2: 10
+[2021-04-19T20:58:06.126] [DEBUG] default - upd: {"data":"2021-04-19T19:57:54.046Z","clNum":2,"clNumId":1}
+[2021-04-19T20:58:06.130] [DEBUG] default - add: {"data":"2021-04-19T19:57:54.046Z","clNum":2,"clNumId":2}
+[2021-04-19T20:58:06.134] [DEBUG] default - add: {"data":"2021-04-19T19:57:54.046Z","clNum":2,"clNumId":3}
+[2021-04-19T20:58:06.139] [DEBUG] default - add: {"data":"2021-04-19T19:57:54.046Z","clNum":2,"clNumId":4}
+[2021-04-19T20:58:06.144] [DEBUG] default - add: {"data":"2021-04-19T19:57:54.046Z","clNum":2,"clNumId":5}
+[2021-04-19T20:58:06.150] [DEBUG] default - add: {"data":"2021-04-19T19:57:54.046Z","clNum":2,"clNumId":6}
+[2021-04-19T20:58:06.154] [DEBUG] default - add: {"data":"2021-04-19T19:57:54.046Z","clNum":2,"clNumId":7}
+[2021-04-19T20:58:06.159] [DEBUG] default - add: {"data":"2021-04-19T19:57:54.046Z","clNum":2,"clNumId":8}
+[2021-04-19T20:58:06.164] [DEBUG] default - add: {"data":"2021-04-19T19:57:54.046Z","clNum":2,"clNumId":9}
+[2021-04-19T20:58:06.168] [DEBUG] default - add: {"data":"2021-04-19T19:57:54.047Z","clNum":2,"clNumId":10}
+[2021-04-19T20:58:16.109] [DEBUG] default - fetch from 1
+[2021-04-19T20:58:16.110] [DEBUG] default - fetch from 2
+[2021-04-19T20:58:16.113] [DEBUG] default - from 1: 0
+[2021-04-19T20:58:16.113] [DEBUG] default - from 2: 0
+[2021-04-19T20:58:26.112] [DEBUG] default - fetch from 1
+[2021-04-19T20:58:26.112] [DEBUG] default - fetch from 2
+[2021-04-19T20:58:26.115] [DEBUG] default - from 2: 0
+[2021-04-19T20:58:26.115] [DEBUG] default - from 1: 10
+[2021-04-19T20:58:26.126] [DEBUG] default - add: {"data":"2021-04-19T19:58:22.097Z","clNum":1,"clNumId":1}
+[2021-04-19T20:58:26.130] [DEBUG] default - add: {"data":"2021-04-19T19:58:22.097Z","clNum":1,"clNumId":2}
+[2021-04-19T20:58:26.135] [DEBUG] default - add: {"data":"2021-04-19T19:58:22.097Z","clNum":1,"clNumId":3}
+[2021-04-19T20:58:26.141] [DEBUG] default - add: {"data":"2021-04-19T19:58:22.097Z","clNum":1,"clNumId":4}
+[2021-04-19T20:58:26.146] [DEBUG] default - add: {"data":"2021-04-19T19:58:22.098Z","clNum":1,"clNumId":5}
+[2021-04-19T20:58:26.151] [DEBUG] default - add: {"data":"2021-04-19T19:58:22.098Z","clNum":1,"clNumId":6}
+[2021-04-19T20:58:26.156] [DEBUG] default - add: {"data":"2021-04-19T19:58:22.098Z","clNum":1,"clNumId":7}
+[2021-04-19T20:58:26.161] [DEBUG] default - add: {"data":"2021-04-19T19:58:22.098Z","clNum":1,"clNumId":8}
+[2021-04-19T20:58:26.166] [DEBUG] default - add: {"data":"2021-04-19T19:58:22.098Z","clNum":1,"clNumId":9}
+[2021-04-19T20:58:26.171] [DEBUG] default - add: {"data":"2021-04-19T19:58:22.098Z","clNum":1,"clNumId":10}
+[2021-04-19T20:58:36.114] [DEBUG] default - fetch from 1
+[2021-04-19T20:58:36.114] [DEBUG] default - fetch from 2
+[2021-04-19T20:58:36.117] [DEBUG] default - from 2: 10
+[2021-04-19T20:58:36.119] [DEBUG] default - from 1: 10
+[2021-04-19T20:58:36.135] [DEBUG] default - upd: {"data":"2021-04-19T19:58:34.051Z","clNum":2,"clNumId":1}
+[2021-04-19T20:58:36.140] [DEBUG] default - upd: {"data":"2021-04-19T19:58:22.097Z","clNum":1,"clNumId":1}
+[2021-04-19T20:58:36.145] [DEBUG] default - add: {"data":"2021-04-19T19:58:34.052Z","clNum":2,"clNumId":2}
+[2021-04-19T20:58:36.148] [DEBUG] default - add: {"data":"2021-04-19T19:58:22.097Z","clNum":1,"clNumId":2}
+[2021-04-19T20:58:36.152] [DEBUG] default - add: {"data":"2021-04-19T19:58:34.052Z","clNum":2,"clNumId":3}
+[2021-04-19T20:58:36.155] [DEBUG] default - add: {"data":"2021-04-19T19:58:22.097Z","clNum":1,"clNumId":3}
+[2021-04-19T20:58:36.161] [DEBUG] default - add: {"data":"2021-04-19T19:58:34.052Z","clNum":2,"clNumId":4}
+[2021-04-19T20:58:36.166] [DEBUG] default - add: {"data":"2021-04-19T19:58:22.097Z","clNum":1,"clNumId":4}
+[2021-04-19T20:58:36.172] [DEBUG] default - add: {"data":"2021-04-19T19:58:34.052Z","clNum":2,"clNumId":5}
+[2021-04-19T20:58:36.174] [DEBUG] default - add: {"data":"2021-04-19T19:58:22.098Z","clNum":1,"clNumId":5}
+[2021-04-19T20:58:36.178] [DEBUG] default - add: {"data":"2021-04-19T19:58:34.052Z","clNum":2,"clNumId":6}
+[2021-04-19T20:58:36.180] [DEBUG] default - add: {"data":"2021-04-19T19:58:22.098Z","clNum":1,"clNumId":6}
+[2021-04-19T20:58:36.185] [DEBUG] default - add: {"data":"2021-04-19T19:58:34.052Z","clNum":2,"clNumId":7}
+[2021-04-19T20:58:36.187] [DEBUG] default - add: {"data":"2021-04-19T19:58:22.098Z","clNum":1,"clNumId":7}
+[2021-04-19T20:58:36.192] [DEBUG] default - add: {"data":"2021-04-19T19:58:34.052Z","clNum":2,"clNumId":8}
+[2021-04-19T20:58:36.194] [DEBUG] default - add: {"data":"2021-04-19T19:58:22.098Z","clNum":1,"clNumId":8}
+[2021-04-19T20:58:36.198] [DEBUG] default - add: {"data":"2021-04-19T19:58:34.052Z","clNum":2,"clNumId":9}
+[2021-04-19T20:58:36.201] [DEBUG] default - add: {"data":"2021-04-19T19:58:22.098Z","clNum":1,"clNumId":9}
+[2021-04-19T20:58:36.206] [DEBUG] default - add: {"data":"2021-04-19T19:58:34.052Z","clNum":2,"clNumId":10}
+[2021-04-19T20:58:36.208] [DEBUG] default - add: {"data":"2021-04-19T19:58:22.098Z","clNum":1,"clNumId":10}
+[2021-04-19T20:58:46.127] [DEBUG] default - fetch from 1
+[2021-04-19T20:58:46.128] [DEBUG] default - fetch from 2
+[2021-04-19T20:58:46.131] [DEBUG] default - from 1: 0
+[2021-04-19T20:58:46.132] [DEBUG] default - from 2: 10
+[2021-04-19T20:58:46.143] [DEBUG] default - add: {"data":"2021-04-19T19:58:34.051Z","clNum":2,"clNumId":1}
+[2021-04-19T20:58:46.152] [DEBUG] default - upd: {"data":"2021-04-19T19:58:34.052Z","clNum":2,"clNumId":2}
+[2021-04-19T20:58:46.157] [DEBUG] default - add: {"data":"2021-04-19T19:58:34.052Z","clNum":2,"clNumId":3}
+[2021-04-19T20:58:46.163] [DEBUG] default - add: {"data":"2021-04-19T19:58:34.052Z","clNum":2,"clNumId":4}
+[2021-04-19T20:58:46.169] [DEBUG] default - add: {"data":"2021-04-19T19:58:34.052Z","clNum":2,"clNumId":5}
+[2021-04-19T20:58:46.173] [DEBUG] default - add: {"data":"2021-04-19T19:58:34.052Z","clNum":2,"clNumId":6}
+[2021-04-19T20:58:46.178] [DEBUG] default - add: {"data":"2021-04-19T19:58:34.052Z","clNum":2,"clNumId":7}
+[2021-04-19T20:58:46.183] [DEBUG] default - add: {"data":"2021-04-19T19:58:34.052Z","clNum":2,"clNumId":8}
+[2021-04-19T20:58:46.187] [DEBUG] default - add: {"data":"2021-04-19T19:58:34.052Z","clNum":2,"clNumId":9}
+[2021-04-19T20:58:46.190] [DEBUG] default - add: {"data":"2021-04-19T19:58:34.052Z","clNum":2,"clNumId":10}
+[2021-04-19T20:58:56.128] [DEBUG] default - fetch from 1
+[2021-04-19T20:58:56.129] [DEBUG] default - fetch from 2
+[2021-04-19T20:58:56.132] [DEBUG] default - from 1: 0
+[2021-04-19T20:58:56.133] [DEBUG] default - from 2: 0
+[2021-04-19T20:59:06.143] [DEBUG] default - fetch from 1
+[2021-04-19T20:59:06.143] [DEBUG] default - fetch from 2
+[2021-04-19T20:59:06.147] [DEBUG] default - from 2: 0
+[2021-04-19T20:59:06.147] [DEBUG] default - from 1: 10
+[2021-04-19T20:59:06.158] [DEBUG] default - add: {"data":"2021-04-19T19:59:02.115Z","clNum":1,"clNumId":1}
+[2021-04-19T20:59:06.163] [DEBUG] default - add: {"data":"2021-04-19T19:59:02.116Z","clNum":1,"clNumId":2}
+[2021-04-19T20:59:06.168] [DEBUG] default - add: {"data":"2021-04-19T19:59:02.116Z","clNum":1,"clNumId":3}
+[2021-04-19T20:59:06.172] [DEBUG] default - add: {"data":"2021-04-19T19:59:02.116Z","clNum":1,"clNumId":4}
+[2021-04-19T20:59:06.175] [DEBUG] default - add: {"data":"2021-04-19T19:59:02.116Z","clNum":1,"clNumId":5}
+[2021-04-19T20:59:06.179] [DEBUG] default - add: {"data":"2021-04-19T19:59:02.116Z","clNum":1,"clNumId":6}
+[2021-04-19T20:59:06.183] [DEBUG] default - add: {"data":"2021-04-19T19:59:02.116Z","clNum":1,"clNumId":7}
+[2021-04-19T20:59:06.187] [DEBUG] default - add: {"data":"2021-04-19T19:59:02.116Z","clNum":1,"clNumId":8}
+[2021-04-19T20:59:06.193] [DEBUG] default - add: {"data":"2021-04-19T19:59:02.116Z","clNum":1,"clNumId":9}
+[2021-04-19T20:59:06.197] [DEBUG] default - add: {"data":"2021-04-19T19:59:02.117Z","clNum":1,"clNumId":10}
+[2021-04-19T20:59:16.143] [DEBUG] default - fetch from 1
+[2021-04-19T20:59:16.144] [DEBUG] default - fetch from 2
+[2021-04-19T20:59:16.147] [DEBUG] default - from 2: 10
+[2021-04-19T20:59:16.148] [DEBUG] default - from 1: 10
+[2021-04-19T20:59:16.161] [DEBUG] default - add: {"data":"2021-04-19T19:59:14.067Z","clNum":2,"clNumId":1}
+[2021-04-19T20:59:16.166] [DEBUG] default - upd: {"data":"2021-04-19T19:59:02.115Z","clNum":1,"clNumId":1}
+[2021-04-19T20:59:16.170] [DEBUG] default - add: {"data":"2021-04-19T19:59:14.067Z","clNum":2,"clNumId":2}
+[2021-04-19T20:59:16.173] [DEBUG] default - add: {"data":"2021-04-19T19:59:02.116Z","clNum":1,"clNumId":2}
+[2021-04-19T20:59:16.177] [DEBUG] default - add: {"data":"2021-04-19T19:59:14.067Z","clNum":2,"clNumId":3}
+[2021-04-19T20:59:16.180] [DEBUG] default - add: {"data":"2021-04-19T19:59:02.116Z","clNum":1,"clNumId":3}
+[2021-04-19T20:59:16.184] [DEBUG] default - add: {"data":"2021-04-19T19:59:14.067Z","clNum":2,"clNumId":4}
+[2021-04-19T20:59:16.187] [DEBUG] default - add: {"data":"2021-04-19T19:59:02.116Z","clNum":1,"clNumId":4}
+[2021-04-19T20:59:16.191] [DEBUG] default - add: {"data":"2021-04-19T19:59:14.067Z","clNum":2,"clNumId":5}
+[2021-04-19T20:59:16.193] [DEBUG] default - add: {"data":"2021-04-19T19:59:02.116Z","clNum":1,"clNumId":5}
+[2021-04-19T20:59:16.198] [DEBUG] default - add: {"data":"2021-04-19T19:59:14.067Z","clNum":2,"clNumId":6}
+[2021-04-19T20:59:16.201] [DEBUG] default - add: {"data":"2021-04-19T19:59:02.116Z","clNum":1,"clNumId":6}
+[2021-04-19T20:59:16.205] [DEBUG] default - add: {"data":"2021-04-19T19:59:14.067Z","clNum":2,"clNumId":7}
+[2021-04-19T20:59:16.208] [DEBUG] default - add: {"data":"2021-04-19T19:59:02.116Z","clNum":1,"clNumId":7}
+[2021-04-19T20:59:16.213] [DEBUG] default - add: {"data":"2021-04-19T19:59:14.068Z","clNum":2,"clNumId":8}
+[2021-04-19T20:59:16.216] [DEBUG] default - add: {"data":"2021-04-19T19:59:02.116Z","clNum":1,"clNumId":8}
+[2021-04-19T20:59:16.221] [DEBUG] default - add: {"data":"2021-04-19T19:59:14.068Z","clNum":2,"clNumId":9}
+[2021-04-19T20:59:16.223] [DEBUG] default - add: {"data":"2021-04-19T19:59:02.116Z","clNum":1,"clNumId":9}
+[2021-04-19T20:59:16.228] [DEBUG] default - add: {"data":"2021-04-19T19:59:14.068Z","clNum":2,"clNumId":10}
+[2021-04-19T20:59:16.230] [DEBUG] default - add: {"data":"2021-04-19T19:59:02.117Z","clNum":1,"clNumId":10}
+[2021-04-19T20:59:26.158] [DEBUG] default - fetch from 1
+[2021-04-19T20:59:26.158] [DEBUG] default - fetch from 2
+[2021-04-19T20:59:26.161] [DEBUG] default - from 1: 0
+[2021-04-19T20:59:26.162] [DEBUG] default - from 2: 10
+[2021-04-19T20:59:26.173] [DEBUG] default - add: {"data":"2021-04-19T19:59:14.067Z","clNum":2,"clNumId":1}
+[2021-04-19T20:59:26.181] [DEBUG] default - upd: {"data":"2021-04-19T19:59:14.067Z","clNum":2,"clNumId":2}
+[2021-04-19T20:59:26.185] [DEBUG] default - add: {"data":"2021-04-19T19:59:14.067Z","clNum":2,"clNumId":3}
+[2021-04-19T20:59:26.190] [DEBUG] default - add: {"data":"2021-04-19T19:59:14.067Z","clNum":2,"clNumId":4}
+[2021-04-19T20:59:26.194] [DEBUG] default - add: {"data":"2021-04-19T19:59:14.067Z","clNum":2,"clNumId":5}
+[2021-04-19T20:59:26.200] [DEBUG] default - add: {"data":"2021-04-19T19:59:14.067Z","clNum":2,"clNumId":6}
+[2021-04-19T20:59:26.205] [DEBUG] default - add: {"data":"2021-04-19T19:59:14.067Z","clNum":2,"clNumId":7}
+[2021-04-19T20:59:26.210] [DEBUG] default - add: {"data":"2021-04-19T19:59:14.068Z","clNum":2,"clNumId":8}
+[2021-04-19T20:59:26.215] [DEBUG] default - add: {"data":"2021-04-19T19:59:14.068Z","clNum":2,"clNumId":9}
+[2021-04-19T20:59:26.222] [DEBUG] default - add: {"data":"2021-04-19T19:59:14.068Z","clNum":2,"clNumId":10}
+[2021-04-19T20:59:36.159] [DEBUG] default - fetch from 1
+[2021-04-19T20:59:36.159] [DEBUG] default - fetch from 2
+[2021-04-19T20:59:36.163] [DEBUG] default - from 2: 0
+[2021-04-19T20:59:36.163] [DEBUG] default - from 1: 0
+[2021-04-19T20:59:46.159] [DEBUG] default - fetch from 1
+[2021-04-19T20:59:46.159] [DEBUG] default - fetch from 2
+[2021-04-19T20:59:46.162] [DEBUG] default - from 1: 10
+[2021-04-19T20:59:46.163] [DEBUG] default - from 2: 0
+[2021-04-19T20:59:46.174] [DEBUG] default - add: {"data":"2021-04-19T19:59:42.128Z","clNum":1,"clNumId":1}
+[2021-04-19T20:59:46.179] [DEBUG] default - add: {"data":"2021-04-19T19:59:42.129Z","clNum":1,"clNumId":2}
+[2021-04-19T20:59:46.184] [DEBUG] default - add: {"data":"2021-04-19T19:59:42.129Z","clNum":1,"clNumId":3}
+[2021-04-19T20:59:46.190] [DEBUG] default - add: {"data":"2021-04-19T19:59:42.129Z","clNum":1,"clNumId":4}
+[2021-04-19T20:59:46.195] [DEBUG] default - add: {"data":"2021-04-19T19:59:42.129Z","clNum":1,"clNumId":5}
+[2021-04-19T20:59:46.200] [DEBUG] default - add: {"data":"2021-04-19T19:59:42.129Z","clNum":1,"clNumId":6}
+[2021-04-19T20:59:46.206] [DEBUG] default - add: {"data":"2021-04-19T19:59:42.129Z","clNum":1,"clNumId":7}
+[2021-04-19T20:59:46.210] [DEBUG] default - add: {"data":"2021-04-19T19:59:42.129Z","clNum":1,"clNumId":8}
+[2021-04-19T20:59:46.216] [DEBUG] default - add: {"data":"2021-04-19T19:59:42.129Z","clNum":1,"clNumId":9}
+[2021-04-19T20:59:46.221] [DEBUG] default - add: {"data":"2021-04-19T19:59:42.129Z","clNum":1,"clNumId":10}
+[2021-04-19T20:59:56.159] [DEBUG] default - fetch from 1
+[2021-04-19T20:59:56.159] [DEBUG] default - fetch from 2
+[2021-04-19T20:59:56.166] [DEBUG] default - from 1: 10
+[2021-04-19T20:59:56.167] [DEBUG] default - from 2: 10
+[2021-04-19T20:59:56.177] [DEBUG] default - upd: {"data":"2021-04-19T19:59:42.128Z","clNum":1,"clNumId":1}
+[2021-04-19T20:59:56.179] [DEBUG] default - add: {"data":"2021-04-19T19:59:54.095Z","clNum":2,"clNumId":1}
+[2021-04-19T20:59:56.184] [DEBUG] default - add: {"data":"2021-04-19T19:59:42.129Z","clNum":1,"clNumId":2}
+[2021-04-19T20:59:56.186] [DEBUG] default - add: {"data":"2021-04-19T19:59:54.095Z","clNum":2,"clNumId":2}
+[2021-04-19T20:59:56.194] [DEBUG] default - add: {"data":"2021-04-19T19:59:42.129Z","clNum":1,"clNumId":3}
+[2021-04-19T20:59:56.196] [DEBUG] default - add: {"data":"2021-04-19T19:59:54.095Z","clNum":2,"clNumId":3}
+[2021-04-19T20:59:56.201] [DEBUG] default - add: {"data":"2021-04-19T19:59:42.129Z","clNum":1,"clNumId":4}
+[2021-04-19T20:59:56.203] [DEBUG] default - add: {"data":"2021-04-19T19:59:54.095Z","clNum":2,"clNumId":4}
+[2021-04-19T20:59:56.208] [DEBUG] default - add: {"data":"2021-04-19T19:59:42.129Z","clNum":1,"clNumId":5}
+[2021-04-19T20:59:56.210] [DEBUG] default - add: {"data":"2021-04-19T19:59:54.095Z","clNum":2,"clNumId":5}
+[2021-04-19T20:59:56.216] [DEBUG] default - add: {"data":"2021-04-19T19:59:42.129Z","clNum":1,"clNumId":6}
+[2021-04-19T20:59:56.218] [DEBUG] default - add: {"data":"2021-04-19T19:59:54.095Z","clNum":2,"clNumId":6}
+[2021-04-19T20:59:56.223] [DEBUG] default - add: {"data":"2021-04-19T19:59:42.129Z","clNum":1,"clNumId":7}
+[2021-04-19T20:59:56.225] [DEBUG] default - add: {"data":"2021-04-19T19:59:54.096Z","clNum":2,"clNumId":7}
+[2021-04-19T20:59:56.229] [DEBUG] default - add: {"data":"2021-04-19T19:59:42.129Z","clNum":1,"clNumId":8}
+[2021-04-19T20:59:56.232] [DEBUG] default - add: {"data":"2021-04-19T19:59:54.096Z","clNum":2,"clNumId":8}
+[2021-04-19T20:59:56.236] [DEBUG] default - add: {"data":"2021-04-19T19:59:42.129Z","clNum":1,"clNumId":9}
+[2021-04-19T20:59:56.238] [DEBUG] default - add: {"data":"2021-04-19T19:59:54.096Z","clNum":2,"clNumId":9}
+[2021-04-19T20:59:56.243] [DEBUG] default - add: {"data":"2021-04-19T19:59:42.129Z","clNum":1,"clNumId":10}
+[2021-04-19T20:59:56.245] [DEBUG] default - add: {"data":"2021-04-19T19:59:54.096Z","clNum":2,"clNumId":10}
+[2021-04-19T21:00:06.174] [DEBUG] default - fetch from 1
+[2021-04-19T21:00:06.174] [DEBUG] default - fetch from 2
+[2021-04-19T21:00:06.176] [DEBUG] default - from 1: 0
+[2021-04-19T21:00:06.177] [DEBUG] default - from 2: 10
+[2021-04-19T21:00:06.185] [DEBUG] default - upd: {"data":"2021-04-19T19:59:54.095Z","clNum":2,"clNumId":1}
+[2021-04-19T21:00:06.190] [DEBUG] default - add: {"data":"2021-04-19T19:59:54.095Z","clNum":2,"clNumId":2}
+[2021-04-19T21:00:06.194] [DEBUG] default - add: {"data":"2021-04-19T19:59:54.095Z","clNum":2,"clNumId":3}
+[2021-04-19T21:00:06.198] [DEBUG] default - add: {"data":"2021-04-19T19:59:54.095Z","clNum":2,"clNumId":4}
+[2021-04-19T21:00:06.202] [DEBUG] default - add: {"data":"2021-04-19T19:59:54.095Z","clNum":2,"clNumId":5}
+[2021-04-19T21:00:06.207] [DEBUG] default - add: {"data":"2021-04-19T19:59:54.095Z","clNum":2,"clNumId":6}
+[2021-04-19T21:00:06.210] [DEBUG] default - add: {"data":"2021-04-19T19:59:54.096Z","clNum":2,"clNumId":7}
+[2021-04-19T21:00:06.214] [DEBUG] default - add: {"data":"2021-04-19T19:59:54.096Z","clNum":2,"clNumId":8}
+[2021-04-19T21:00:06.218] [DEBUG] default - add: {"data":"2021-04-19T19:59:54.096Z","clNum":2,"clNumId":9}
+[2021-04-19T21:00:06.222] [DEBUG] default - add: {"data":"2021-04-19T19:59:54.096Z","clNum":2,"clNumId":10}
+[2021-04-19T21:00:16.176] [DEBUG] default - fetch from 1
+[2021-04-19T21:00:16.176] [DEBUG] default - fetch from 2
+[2021-04-19T21:00:16.180] [DEBUG] default - from 1: 0
+[2021-04-19T21:00:16.180] [DEBUG] default - from 2: 0
+[2021-04-19T21:00:26.175] [DEBUG] default - fetch from 1
+[2021-04-19T21:00:26.176] [DEBUG] default - fetch from 2
+[2021-04-19T21:00:26.179] [DEBUG] default - from 1: 10
+[2021-04-19T21:00:26.180] [DEBUG] default - from 2: 0
+[2021-04-19T21:00:26.191] [DEBUG] default - add: {"data":"2021-04-19T20:00:22.143Z","clNum":1,"clNumId":1}
+[2021-04-19T21:00:26.197] [DEBUG] default - add: {"data":"2021-04-19T20:00:22.144Z","clNum":1,"clNumId":2}
+[2021-04-19T21:00:26.202] [DEBUG] default - add: {"data":"2021-04-19T20:00:22.144Z","clNum":1,"clNumId":3}
+[2021-04-19T21:00:26.209] [DEBUG] default - add: {"data":"2021-04-19T20:00:22.144Z","clNum":1,"clNumId":4}
+[2021-04-19T21:00:26.214] [DEBUG] default - add: {"data":"2021-04-19T20:00:22.144Z","clNum":1,"clNumId":5}
+[2021-04-19T21:00:26.219] [DEBUG] default - add: {"data":"2021-04-19T20:00:22.144Z","clNum":1,"clNumId":6}
+[2021-04-19T21:00:26.223] [DEBUG] default - add: {"data":"2021-04-19T20:00:22.144Z","clNum":1,"clNumId":7}
+[2021-04-19T21:00:26.228] [DEBUG] default - add: {"data":"2021-04-19T20:00:22.144Z","clNum":1,"clNumId":8}
+[2021-04-19T21:00:26.233] [DEBUG] default - add: {"data":"2021-04-19T20:00:22.144Z","clNum":1,"clNumId":9}
+[2021-04-19T21:00:26.238] [DEBUG] default - add: {"data":"2021-04-19T20:00:22.144Z","clNum":1,"clNumId":10}
+[2021-04-19T21:00:36.190] [DEBUG] default - fetch from 1
+[2021-04-19T21:00:36.191] [DEBUG] default - fetch from 2
+[2021-04-19T21:00:36.196] [DEBUG] default - from 2: 10
+[2021-04-19T21:00:36.197] [DEBUG] default - from 1: 10
+[2021-04-19T21:00:36.214] [DEBUG] default - upd: {"data":"2021-04-19T20:00:34.098Z","clNum":2,"clNumId":1}
+[2021-04-19T21:00:36.219] [DEBUG] default - upd: {"data":"2021-04-19T20:00:22.143Z","clNum":1,"clNumId":1}
+[2021-04-19T21:00:36.224] [DEBUG] default - add: {"data":"2021-04-19T20:00:34.098Z","clNum":2,"clNumId":2}
+[2021-04-19T21:00:36.227] [DEBUG] default - add: {"data":"2021-04-19T20:00:22.144Z","clNum":1,"clNumId":2}
+[2021-04-19T21:00:36.231] [DEBUG] default - add: {"data":"2021-04-19T20:00:34.098Z","clNum":2,"clNumId":3}
+[2021-04-19T21:00:36.234] [DEBUG] default - add: {"data":"2021-04-19T20:00:22.144Z","clNum":1,"clNumId":3}
+[2021-04-19T21:00:36.239] [DEBUG] default - add: {"data":"2021-04-19T20:00:34.098Z","clNum":2,"clNumId":4}
+[2021-04-19T21:00:36.242] [DEBUG] default - add: {"data":"2021-04-19T20:00:22.144Z","clNum":1,"clNumId":4}
+[2021-04-19T21:00:36.248] [DEBUG] default - add: {"data":"2021-04-19T20:00:34.098Z","clNum":2,"clNumId":5}
+[2021-04-19T21:00:36.251] [DEBUG] default - add: {"data":"2021-04-19T20:00:22.144Z","clNum":1,"clNumId":5}
+[2021-04-19T21:00:36.256] [DEBUG] default - add: {"data":"2021-04-19T20:00:34.099Z","clNum":2,"clNumId":6}
+[2021-04-19T21:00:36.259] [DEBUG] default - add: {"data":"2021-04-19T20:00:22.144Z","clNum":1,"clNumId":6}
+[2021-04-19T21:00:36.263] [DEBUG] default - add: {"data":"2021-04-19T20:00:34.099Z","clNum":2,"clNumId":7}
+[2021-04-19T21:00:36.266] [DEBUG] default - add: {"data":"2021-04-19T20:00:22.144Z","clNum":1,"clNumId":7}
+[2021-04-19T21:00:36.270] [DEBUG] default - add: {"data":"2021-04-19T20:00:34.099Z","clNum":2,"clNumId":8}
+[2021-04-19T21:00:36.272] [DEBUG] default - add: {"data":"2021-04-19T20:00:22.144Z","clNum":1,"clNumId":8}
+[2021-04-19T21:00:36.276] [DEBUG] default - add: {"data":"2021-04-19T20:00:34.099Z","clNum":2,"clNumId":9}
+[2021-04-19T21:00:36.278] [DEBUG] default - add: {"data":"2021-04-19T20:00:22.144Z","clNum":1,"clNumId":9}
+[2021-04-19T21:00:36.282] [DEBUG] default - add: {"data":"2021-04-19T20:00:34.099Z","clNum":2,"clNumId":10}
+[2021-04-19T21:00:36.284] [DEBUG] default - add: {"data":"2021-04-19T20:00:22.144Z","clNum":1,"clNumId":10}
+[2021-04-19T21:00:46.205] [DEBUG] default - fetch from 1
+[2021-04-19T21:00:46.205] [DEBUG] default - fetch from 2
+[2021-04-19T21:00:46.208] [DEBUG] default - from 1: 0
+[2021-04-19T21:00:46.209] [DEBUG] default - from 2: 10
+[2021-04-19T21:00:46.221] [DEBUG] default - add: {"data":"2021-04-19T20:00:34.098Z","clNum":2,"clNumId":1}
+[2021-04-19T21:00:46.230] [DEBUG] default - upd: {"data":"2021-04-19T20:00:34.098Z","clNum":2,"clNumId":2}
+[2021-04-19T21:00:46.234] [DEBUG] default - add: {"data":"2021-04-19T20:00:34.098Z","clNum":2,"clNumId":3}
+[2021-04-19T21:00:46.238] [DEBUG] default - add: {"data":"2021-04-19T20:00:34.098Z","clNum":2,"clNumId":4}
+[2021-04-19T21:00:46.244] [DEBUG] default - add: {"data":"2021-04-19T20:00:34.098Z","clNum":2,"clNumId":5}
+[2021-04-19T21:00:46.250] [DEBUG] default - add: {"data":"2021-04-19T20:00:34.099Z","clNum":2,"clNumId":6}
+[2021-04-19T21:00:46.255] [DEBUG] default - add: {"data":"2021-04-19T20:00:34.099Z","clNum":2,"clNumId":7}
+[2021-04-19T21:00:46.259] [DEBUG] default - add: {"data":"2021-04-19T20:00:34.099Z","clNum":2,"clNumId":8}
+[2021-04-19T21:00:46.264] [DEBUG] default - add: {"data":"2021-04-19T20:00:34.099Z","clNum":2,"clNumId":9}
+[2021-04-19T21:00:46.268] [DEBUG] default - add: {"data":"2021-04-19T20:00:34.099Z","clNum":2,"clNumId":10}
+[2021-04-19T21:00:56.204] [DEBUG] default - fetch from 1
+[2021-04-19T21:00:56.205] [DEBUG] default - fetch from 2
+[2021-04-19T21:00:56.208] [DEBUG] default - from 1: 0
+[2021-04-19T21:00:56.209] [DEBUG] default - from 2: 0
+[2021-04-19T21:01:06.216] [DEBUG] default - fetch from 1
+[2021-04-19T21:01:06.217] [DEBUG] default - fetch from 2
+[2021-04-19T21:01:06.220] [DEBUG] default - from 1: 10
+[2021-04-19T21:01:06.221] [DEBUG] default - from 2: 0
+[2021-04-19T21:01:06.232] [DEBUG] default - add: {"data":"2021-04-19T20:01:02.162Z","clNum":1,"clNumId":1}
+[2021-04-19T21:01:06.238] [DEBUG] default - add: {"data":"2021-04-19T20:01:02.162Z","clNum":1,"clNumId":2}
+[2021-04-19T21:01:06.244] [DEBUG] default - add: {"data":"2021-04-19T20:01:02.162Z","clNum":1,"clNumId":3}
+[2021-04-19T21:01:06.251] [DEBUG] default - add: {"data":"2021-04-19T20:01:02.162Z","clNum":1,"clNumId":4}
+[2021-04-19T21:01:06.256] [DEBUG] default - add: {"data":"2021-04-19T20:01:02.163Z","clNum":1,"clNumId":5}
+[2021-04-19T21:01:06.261] [DEBUG] default - add: {"data":"2021-04-19T20:01:02.163Z","clNum":1,"clNumId":6}
+[2021-04-19T21:01:06.267] [DEBUG] default - add: {"data":"2021-04-19T20:01:02.163Z","clNum":1,"clNumId":7}
+[2021-04-19T21:01:06.270] [DEBUG] default - add: {"data":"2021-04-19T20:01:02.163Z","clNum":1,"clNumId":8}
+[2021-04-19T21:01:06.274] [DEBUG] default - add: {"data":"2021-04-19T20:01:02.163Z","clNum":1,"clNumId":9}
+[2021-04-19T21:01:06.277] [DEBUG] default - add: {"data":"2021-04-19T20:01:02.163Z","clNum":1,"clNumId":10}
+[2021-04-19T21:01:16.220] [DEBUG] default - fetch from 1
+[2021-04-19T21:01:16.220] [DEBUG] default - fetch from 2
+[2021-04-19T21:01:16.223] [DEBUG] default - from 1: 10
+[2021-04-19T21:01:16.224] [DEBUG] default - from 2: 10
+[2021-04-19T21:01:16.233] [DEBUG] default - upd: {"data":"2021-04-19T20:01:02.162Z","clNum":1,"clNumId":1}
+[2021-04-19T21:01:16.236] [DEBUG] default - add: {"data":"2021-04-19T20:01:14.130Z","clNum":2,"clNumId":1}
+[2021-04-19T21:01:16.241] [DEBUG] default - add: {"data":"2021-04-19T20:01:02.162Z","clNum":1,"clNumId":2}
+[2021-04-19T21:01:16.244] [DEBUG] default - add: {"data":"2021-04-19T20:01:14.130Z","clNum":2,"clNumId":2}
+[2021-04-19T21:01:16.249] [DEBUG] default - add: {"data":"2021-04-19T20:01:02.162Z","clNum":1,"clNumId":3}
+[2021-04-19T21:01:16.253] [DEBUG] default - add: {"data":"2021-04-19T20:01:14.130Z","clNum":2,"clNumId":3}
+[2021-04-19T21:01:16.258] [DEBUG] default - add: {"data":"2021-04-19T20:01:02.162Z","clNum":1,"clNumId":4}
+[2021-04-19T21:01:16.261] [DEBUG] default - add: {"data":"2021-04-19T20:01:14.130Z","clNum":2,"clNumId":4}
+[2021-04-19T21:01:16.268] [DEBUG] default - add: {"data":"2021-04-19T20:01:02.163Z","clNum":1,"clNumId":5}
+[2021-04-19T21:01:16.270] [DEBUG] default - add: {"data":"2021-04-19T20:01:14.130Z","clNum":2,"clNumId":5}
+[2021-04-19T21:01:16.275] [DEBUG] default - add: {"data":"2021-04-19T20:01:02.163Z","clNum":1,"clNumId":6}
+[2021-04-19T21:01:16.278] [DEBUG] default - add: {"data":"2021-04-19T20:01:14.130Z","clNum":2,"clNumId":6}
+[2021-04-19T21:01:16.283] [DEBUG] default - add: {"data":"2021-04-19T20:01:02.163Z","clNum":1,"clNumId":7}
+[2021-04-19T21:01:16.285] [DEBUG] default - add: {"data":"2021-04-19T20:01:14.130Z","clNum":2,"clNumId":7}
+[2021-04-19T21:01:16.289] [DEBUG] default - add: {"data":"2021-04-19T20:01:02.163Z","clNum":1,"clNumId":8}
+[2021-04-19T21:01:16.291] [DEBUG] default - add: {"data":"2021-04-19T20:01:14.131Z","clNum":2,"clNumId":8}
+[2021-04-19T21:01:16.296] [DEBUG] default - add: {"data":"2021-04-19T20:01:02.163Z","clNum":1,"clNumId":9}
+[2021-04-19T21:01:16.298] [DEBUG] default - add: {"data":"2021-04-19T20:01:14.131Z","clNum":2,"clNumId":9}
+[2021-04-19T21:01:16.303] [DEBUG] default - add: {"data":"2021-04-19T20:01:02.163Z","clNum":1,"clNumId":10}
+[2021-04-19T21:01:16.305] [DEBUG] default - add: {"data":"2021-04-19T20:01:14.131Z","clNum":2,"clNumId":10}
+[2021-04-19T21:01:26.222] [DEBUG] default - fetch from 1
+[2021-04-19T21:01:26.222] [DEBUG] default - fetch from 2
+[2021-04-19T21:01:26.225] [DEBUG] default - from 1: 0
+[2021-04-19T21:01:26.226] [DEBUG] default - from 2: 10
+[2021-04-19T21:01:26.235] [DEBUG] default - upd: {"data":"2021-04-19T20:01:14.130Z","clNum":2,"clNumId":1}
+[2021-04-19T21:01:26.241] [DEBUG] default - add: {"data":"2021-04-19T20:01:14.130Z","clNum":2,"clNumId":2}
+[2021-04-19T21:01:26.246] [DEBUG] default - add: {"data":"2021-04-19T20:01:14.130Z","clNum":2,"clNumId":3}
+[2021-04-19T21:01:26.250] [DEBUG] default - add: {"data":"2021-04-19T20:01:14.130Z","clNum":2,"clNumId":4}
+[2021-04-19T21:01:26.256] [DEBUG] default - add: {"data":"2021-04-19T20:01:14.130Z","clNum":2,"clNumId":5}
+[2021-04-19T21:01:26.261] [DEBUG] default - add: {"data":"2021-04-19T20:01:14.130Z","clNum":2,"clNumId":6}
+[2021-04-19T21:01:26.266] [DEBUG] default - add: {"data":"2021-04-19T20:01:14.130Z","clNum":2,"clNumId":7}
+[2021-04-19T21:01:26.270] [DEBUG] default - add: {"data":"2021-04-19T20:01:14.131Z","clNum":2,"clNumId":8}
+[2021-04-19T21:01:26.274] [DEBUG] default - add: {"data":"2021-04-19T20:01:14.131Z","clNum":2,"clNumId":9}
+[2021-04-19T21:01:26.280] [DEBUG] default - add: {"data":"2021-04-19T20:01:14.131Z","clNum":2,"clNumId":10}
+[2021-04-19T21:01:36.235] [DEBUG] default - fetch from 1
+[2021-04-19T21:01:36.236] [DEBUG] default - fetch from 2
+[2021-04-19T21:01:36.238] [DEBUG] default - from 2: 0
+[2021-04-19T21:01:36.240] [DEBUG] default - from 1: 0
+[2021-04-19T21:01:46.240] [DEBUG] default - fetch from 1
+[2021-04-19T21:01:46.240] [DEBUG] default - fetch from 2
+[2021-04-19T21:01:46.243] [DEBUG] default - from 2: 0
+[2021-04-19T21:01:46.243] [DEBUG] default - from 1: 10
+[2021-04-19T21:01:46.254] [DEBUG] default - add: {"data":"2021-04-19T20:01:42.172Z","clNum":1,"clNumId":1}
+[2021-04-19T21:01:46.259] [DEBUG] default - add: {"data":"2021-04-19T20:01:42.173Z","clNum":1,"clNumId":2}
+[2021-04-19T21:01:46.264] [DEBUG] default - add: {"data":"2021-04-19T20:01:42.173Z","clNum":1,"clNumId":3}
+[2021-04-19T21:01:46.268] [DEBUG] default - add: {"data":"2021-04-19T20:01:42.173Z","clNum":1,"clNumId":4}
+[2021-04-19T21:01:46.272] [DEBUG] default - add: {"data":"2021-04-19T20:01:42.173Z","clNum":1,"clNumId":5}
+[2021-04-19T21:01:46.276] [DEBUG] default - add: {"data":"2021-04-19T20:01:42.173Z","clNum":1,"clNumId":6}
+[2021-04-19T21:01:46.280] [DEBUG] default - add: {"data":"2021-04-19T20:01:42.173Z","clNum":1,"clNumId":7}
+[2021-04-19T21:01:46.285] [DEBUG] default - add: {"data":"2021-04-19T20:01:42.173Z","clNum":1,"clNumId":8}
+[2021-04-19T21:01:46.290] [DEBUG] default - add: {"data":"2021-04-19T20:01:42.173Z","clNum":1,"clNumId":9}
+[2021-04-19T21:01:46.295] [DEBUG] default - add: {"data":"2021-04-19T20:01:42.173Z","clNum":1,"clNumId":10}
+[2021-04-19T21:01:56.253] [DEBUG] default - fetch from 1
+[2021-04-19T21:01:56.254] [DEBUG] default - fetch from 2
+[2021-04-19T21:01:56.257] [DEBUG] default - from 1: 10
+[2021-04-19T21:01:56.258] [DEBUG] default - from 2: 10
+[2021-04-19T21:01:56.267] [DEBUG] default - upd: {"data":"2021-04-19T20:01:42.172Z","clNum":1,"clNumId":1}
+[2021-04-19T21:01:56.272] [DEBUG] default - upd: {"data":"2021-04-19T20:01:54.159Z","clNum":2,"clNumId":1}
+[2021-04-19T21:01:56.277] [DEBUG] default - add: {"data":"2021-04-19T20:01:42.173Z","clNum":1,"clNumId":2}
+[2021-04-19T21:01:56.280] [DEBUG] default - add: {"data":"2021-04-19T20:01:54.159Z","clNum":2,"clNumId":2}
+[2021-04-19T21:01:56.285] [DEBUG] default - add: {"data":"2021-04-19T20:01:42.173Z","clNum":1,"clNumId":3}
+[2021-04-19T21:01:56.287] [DEBUG] default - add: {"data":"2021-04-19T20:01:54.159Z","clNum":2,"clNumId":3}
+[2021-04-19T21:01:56.291] [DEBUG] default - add: {"data":"2021-04-19T20:01:42.173Z","clNum":1,"clNumId":4}
+[2021-04-19T21:01:56.294] [DEBUG] default - add: {"data":"2021-04-19T20:01:54.159Z","clNum":2,"clNumId":4}
+[2021-04-19T21:01:56.299] [DEBUG] default - add: {"data":"2021-04-19T20:01:42.173Z","clNum":1,"clNumId":5}
+[2021-04-19T21:01:56.301] [DEBUG] default - add: {"data":"2021-04-19T20:01:54.159Z","clNum":2,"clNumId":5}
+[2021-04-19T21:01:56.307] [DEBUG] default - add: {"data":"2021-04-19T20:01:42.173Z","clNum":1,"clNumId":6}
+[2021-04-19T21:01:56.310] [DEBUG] default - add: {"data":"2021-04-19T20:01:54.159Z","clNum":2,"clNumId":6}
+[2021-04-19T21:01:56.315] [DEBUG] default - add: {"data":"2021-04-19T20:01:42.173Z","clNum":1,"clNumId":7}
+[2021-04-19T21:01:56.317] [DEBUG] default - add: {"data":"2021-04-19T20:01:54.159Z","clNum":2,"clNumId":7}
+[2021-04-19T21:01:56.322] [DEBUG] default - add: {"data":"2021-04-19T20:01:42.173Z","clNum":1,"clNumId":8}
+[2021-04-19T21:01:56.324] [DEBUG] default - add: {"data":"2021-04-19T20:01:54.159Z","clNum":2,"clNumId":8}
+[2021-04-19T21:01:56.331] [DEBUG] default - add: {"data":"2021-04-19T20:01:42.173Z","clNum":1,"clNumId":9}
+[2021-04-19T21:01:56.334] [DEBUG] default - add: {"data":"2021-04-19T20:01:54.160Z","clNum":2,"clNumId":9}
+[2021-04-19T21:01:56.339] [DEBUG] default - add: {"data":"2021-04-19T20:01:42.173Z","clNum":1,"clNumId":10}
+[2021-04-19T21:01:56.342] [DEBUG] default - add: {"data":"2021-04-19T20:01:54.160Z","clNum":2,"clNumId":10}
+[2021-04-19T21:02:06.268] [DEBUG] default - fetch from 1
+[2021-04-19T21:02:06.268] [DEBUG] default - fetch from 2
+[2021-04-19T21:02:06.271] [DEBUG] default - from 1: 0
+[2021-04-19T21:02:06.271] [DEBUG] default - from 2: 10
+[2021-04-19T21:02:06.278] [DEBUG] default - upd: {"data":"2021-04-19T20:01:54.159Z","clNum":2,"clNumId":1}
+[2021-04-19T21:02:06.282] [DEBUG] default - add: {"data":"2021-04-19T20:01:54.159Z","clNum":2,"clNumId":2}
+[2021-04-19T21:02:06.287] [DEBUG] default - add: {"data":"2021-04-19T20:01:54.159Z","clNum":2,"clNumId":3}
+[2021-04-19T21:02:06.291] [DEBUG] default - add: {"data":"2021-04-19T20:01:54.159Z","clNum":2,"clNumId":4}
+[2021-04-19T21:02:06.295] [DEBUG] default - add: {"data":"2021-04-19T20:01:54.159Z","clNum":2,"clNumId":5}
+[2021-04-19T21:02:06.299] [DEBUG] default - add: {"data":"2021-04-19T20:01:54.159Z","clNum":2,"clNumId":6}
+[2021-04-19T21:02:06.303] [DEBUG] default - add: {"data":"2021-04-19T20:01:54.159Z","clNum":2,"clNumId":7}
+[2021-04-19T21:02:06.308] [DEBUG] default - add: {"data":"2021-04-19T20:01:54.159Z","clNum":2,"clNumId":8}
+[2021-04-19T21:02:06.313] [DEBUG] default - add: {"data":"2021-04-19T20:01:54.160Z","clNum":2,"clNumId":9}
+[2021-04-19T21:02:06.318] [DEBUG] default - add: {"data":"2021-04-19T20:01:54.160Z","clNum":2,"clNumId":10}
+[2021-04-19T21:02:16.282] [DEBUG] default - fetch from 1
+[2021-04-19T21:02:16.282] [DEBUG] default - fetch from 2
+[2021-04-19T21:02:16.285] [DEBUG] default - from 1: 0
+[2021-04-19T21:02:16.285] [DEBUG] default - from 2: 0
+[2021-04-19T21:02:26.285] [DEBUG] default - fetch from 1
+[2021-04-19T21:02:26.285] [DEBUG] default - fetch from 2
+[2021-04-19T21:02:26.289] [DEBUG] default - from 1: 10
+[2021-04-19T21:02:26.291] [DEBUG] default - from 2: 0
+[2021-04-19T21:02:26.296] [DEBUG] default - add: {"data":"2021-04-19T20:02:22.192Z","clNum":1,"clNumId":1}
+[2021-04-19T21:02:26.303] [DEBUG] default - add: {"data":"2021-04-19T20:02:22.192Z","clNum":1,"clNumId":2}
+[2021-04-19T21:02:26.309] [DEBUG] default - add: {"data":"2021-04-19T20:02:22.192Z","clNum":1,"clNumId":3}
+[2021-04-19T21:02:26.313] [DEBUG] default - add: {"data":"2021-04-19T20:02:22.192Z","clNum":1,"clNumId":4}
+[2021-04-19T21:02:26.319] [DEBUG] default - add: {"data":"2021-04-19T20:02:22.192Z","clNum":1,"clNumId":5}
+[2021-04-19T21:02:26.326] [DEBUG] default - add: {"data":"2021-04-19T20:02:22.192Z","clNum":1,"clNumId":6}
+[2021-04-19T21:02:26.331] [DEBUG] default - add: {"data":"2021-04-19T20:02:22.192Z","clNum":1,"clNumId":7}
+[2021-04-19T21:02:26.337] [DEBUG] default - add: {"data":"2021-04-19T20:02:22.192Z","clNum":1,"clNumId":8}
+[2021-04-19T21:02:26.342] [DEBUG] default - add: {"data":"2021-04-19T20:02:22.194Z","clNum":1,"clNumId":9}
+[2021-04-19T21:02:26.348] [DEBUG] default - add: {"data":"2021-04-19T20:02:22.194Z","clNum":1,"clNumId":10}
+[2021-04-19T21:02:27.674] [DEBUG] default - send db
+[2021-04-19T21:02:36.285] [DEBUG] default - fetch from 1
+[2021-04-19T21:02:36.286] [DEBUG] default - fetch from 2
+[2021-04-19T21:02:36.288] [DEBUG] default - from 2: 10
+[2021-04-19T21:02:36.288] [DEBUG] default - from 1: 5
+[2021-04-19T21:02:36.297] [DEBUG] default - upd: {"data":"2021-04-19T20:02:34.170Z","clNum":2,"clNumId":1}
+[2021-04-19T21:02:36.301] [DEBUG] default - upd: {"data":"2021-04-19T20:01:54.159Z","clNum":2,"clNumId":1}
+[2021-04-19T21:02:36.305] [DEBUG] default - add: {"data":"2021-04-19T20:02:34.170Z","clNum":2,"clNumId":2}
+[2021-04-19T21:02:36.307] [DEBUG] default - add: {"data":"2021-04-19T20:01:54.159Z","clNum":2,"clNumId":2}
+[2021-04-19T21:02:36.312] [DEBUG] default - add: {"data":"2021-04-19T20:02:34.170Z","clNum":2,"clNumId":3}
+[2021-04-19T21:02:36.314] [DEBUG] default - add: {"data":"2021-04-19T20:01:54.159Z","clNum":2,"clNumId":3}
+[2021-04-19T21:02:36.318] [DEBUG] default - add: {"data":"2021-04-19T20:02:34.170Z","clNum":2,"clNumId":4}
+[2021-04-19T21:02:36.321] [DEBUG] default - add: {"data":"2021-04-19T20:01:54.159Z","clNum":2,"clNumId":4}
+[2021-04-19T21:02:36.325] [DEBUG] default - add: {"data":"2021-04-19T20:02:34.171Z","clNum":2,"clNumId":5}
+[2021-04-19T21:02:36.327] [DEBUG] default - add: {"data":"2021-04-19T20:01:54.159Z","clNum":2,"clNumId":5}
+[2021-04-19T21:02:36.331] [DEBUG] default - add: {"data":"2021-04-19T20:02:34.171Z","clNum":2,"clNumId":6}
+[2021-04-19T21:02:36.335] [DEBUG] default - add: {"data":"2021-04-19T20:02:34.171Z","clNum":2,"clNumId":7}
+[2021-04-19T21:02:36.339] [DEBUG] default - add: {"data":"2021-04-19T20:02:34.171Z","clNum":2,"clNumId":8}
+[2021-04-19T21:02:36.342] [DEBUG] default - add: {"data":"2021-04-19T20:02:34.171Z","clNum":2,"clNumId":9}
+[2021-04-19T21:02:36.346] [DEBUG] default - add: {"data":"2021-04-19T20:02:34.171Z","clNum":2,"clNumId":10}
+[2021-04-19T21:02:46.299] [DEBUG] default - fetch from 1
+[2021-04-19T21:02:46.299] [DEBUG] default - fetch from 2
+[2021-04-19T21:02:46.302] [DEBUG] default - from 1: 10
+[2021-04-19T21:02:46.304] [DEBUG] default - from 2: 10
+[2021-04-19T21:02:46.318] [DEBUG] default - upd: {"data":"2021-04-19T20:01:54.159Z","clNum":2,"clNumId":1}
+[2021-04-19T21:02:46.322] [DEBUG] default - upd: {"data":"2021-04-19T20:02:34.170Z","clNum":2,"clNumId":1}
+[2021-04-19T21:02:46.328] [DEBUG] default - add: {"data":"2021-04-19T20:01:54.159Z","clNum":2,"clNumId":2}
+[2021-04-19T21:02:46.331] [DEBUG] default - add: {"data":"2021-04-19T20:02:34.170Z","clNum":2,"clNumId":2}
+[2021-04-19T21:02:46.337] [DEBUG] default - add: {"data":"2021-04-19T20:01:54.159Z","clNum":2,"clNumId":3}
+[2021-04-19T21:02:46.340] [DEBUG] default - add: {"data":"2021-04-19T20:02:34.170Z","clNum":2,"clNumId":3}
+[2021-04-19T21:02:46.346] [DEBUG] default - add: {"data":"2021-04-19T20:01:54.159Z","clNum":2,"clNumId":4}
+[2021-04-19T21:02:46.349] [DEBUG] default - add: {"data":"2021-04-19T20:02:34.170Z","clNum":2,"clNumId":4}
+[2021-04-19T21:02:46.355] [DEBUG] default - add: {"data":"2021-04-19T20:01:54.159Z","clNum":2,"clNumId":5}
+[2021-04-19T21:02:46.358] [DEBUG] default - add: {"data":"2021-04-19T20:02:34.171Z","clNum":2,"clNumId":5}
+[2021-04-19T21:02:46.364] [DEBUG] default - add: {"data":"2021-04-19T20:02:42.205Z","clNum":1,"clNumId":6}
+[2021-04-19T21:02:46.366] [DEBUG] default - add: {"data":"2021-04-19T20:02:34.171Z","clNum":2,"clNumId":6}
+[2021-04-19T21:02:46.371] [DEBUG] default - add: {"data":"2021-04-19T20:02:42.206Z","clNum":1,"clNumId":7}
+[2021-04-19T21:02:46.374] [DEBUG] default - add: {"data":"2021-04-19T20:02:34.171Z","clNum":2,"clNumId":7}
+[2021-04-19T21:02:46.380] [DEBUG] default - add: {"data":"2021-04-19T20:02:42.206Z","clNum":1,"clNumId":8}
+[2021-04-19T21:02:46.383] [DEBUG] default - add: {"data":"2021-04-19T20:02:34.171Z","clNum":2,"clNumId":8}
+[2021-04-19T21:02:46.387] [DEBUG] default - add: {"data":"2021-04-19T20:02:42.206Z","clNum":1,"clNumId":9}
+[2021-04-19T21:02:46.390] [DEBUG] default - add: {"data":"2021-04-19T20:02:34.171Z","clNum":2,"clNumId":9}
+[2021-04-19T21:02:46.395] [DEBUG] default - add: {"data":"2021-04-19T20:02:42.206Z","clNum":1,"clNumId":10}
+[2021-04-19T21:02:46.397] [DEBUG] default - add: {"data":"2021-04-19T20:02:34.171Z","clNum":2,"clNumId":10}
+[2021-04-19T21:02:56.299] [DEBUG] default - fetch from 1
+[2021-04-19T21:02:56.300] [DEBUG] default - fetch from 2
+[2021-04-19T21:02:56.303] [DEBUG] default - from 2: 0
+[2021-04-19T21:02:56.303] [DEBUG] default - from 1: 10
+[2021-04-19T21:02:56.312] [DEBUG] default - upd: {"data":"2021-04-19T20:01:54.159Z","clNum":2,"clNumId":1}
+[2021-04-19T21:02:56.317] [DEBUG] default - add: {"data":"2021-04-19T20:01:54.159Z","clNum":2,"clNumId":2}
+[2021-04-19T21:02:56.322] [DEBUG] default - add: {"data":"2021-04-19T20:01:54.159Z","clNum":2,"clNumId":3}
+[2021-04-19T21:02:56.327] [DEBUG] default - add: {"data":"2021-04-19T20:01:54.159Z","clNum":2,"clNumId":4}
+[2021-04-19T21:02:56.332] [DEBUG] default - add: {"data":"2021-04-19T20:01:54.159Z","clNum":2,"clNumId":5}
+[2021-04-19T21:02:56.336] [DEBUG] default - add: {"data":"2021-04-19T20:02:42.205Z","clNum":1,"clNumId":6}
+[2021-04-19T21:02:56.341] [DEBUG] default - add: {"data":"2021-04-19T20:02:42.206Z","clNum":1,"clNumId":7}
+[2021-04-19T21:02:56.347] [DEBUG] default - add: {"data":"2021-04-19T20:02:42.206Z","clNum":1,"clNumId":8}
+[2021-04-19T21:02:56.351] [DEBUG] default - add: {"data":"2021-04-19T20:02:42.206Z","clNum":1,"clNumId":9}
+[2021-04-19T21:02:56.357] [DEBUG] default - add: {"data":"2021-04-19T20:02:42.206Z","clNum":1,"clNumId":10}
+[2021-04-19T21:03:06.300] [DEBUG] default - fetch from 1
+[2021-04-19T21:03:06.301] [DEBUG] default - fetch from 2
+[2021-04-19T21:03:06.303] [DEBUG] default - from 1: 0
+[2021-04-19T21:03:06.303] [DEBUG] default - from 2: 0
+[2021-04-19T21:03:16.301] [DEBUG] default - fetch from 1
+[2021-04-19T21:03:16.301] [DEBUG] default - fetch from 2
+[2021-04-19T21:03:16.304] [DEBUG] default - from 1: 0
+[2021-04-19T21:03:16.305] [DEBUG] default - from 2: 10
+[2021-04-19T21:03:16.313] [DEBUG] default - upd: {"data":"2021-04-19T20:03:14.175Z","clNum":2,"clNumId":1}
+[2021-04-19T21:03:16.318] [DEBUG] default - add: {"data":"2021-04-19T20:03:14.175Z","clNum":2,"clNumId":2}
+[2021-04-19T21:03:16.325] [DEBUG] default - add: {"data":"2021-04-19T20:03:14.175Z","clNum":2,"clNumId":3}
+[2021-04-19T21:03:16.330] [DEBUG] default - add: {"data":"2021-04-19T20:03:14.175Z","clNum":2,"clNumId":4}
+[2021-04-19T21:03:16.335] [DEBUG] default - add: {"data":"2021-04-19T20:03:14.176Z","clNum":2,"clNumId":5}
+[2021-04-19T21:03:16.340] [DEBUG] default - add: {"data":"2021-04-19T20:03:14.176Z","clNum":2,"clNumId":6}
+[2021-04-19T21:03:16.346] [DEBUG] default - add: {"data":"2021-04-19T20:03:14.176Z","clNum":2,"clNumId":7}
+[2021-04-19T21:03:16.351] [DEBUG] default - add: {"data":"2021-04-19T20:03:14.176Z","clNum":2,"clNumId":8}
+[2021-04-19T21:03:16.357] [DEBUG] default - add: {"data":"2021-04-19T20:03:14.176Z","clNum":2,"clNumId":9}
+[2021-04-19T21:03:16.362] [DEBUG] default - add: {"data":"2021-04-19T20:03:14.176Z","clNum":2,"clNumId":10}
+[2021-04-19T21:03:26.315] [DEBUG] default - fetch from 1
+[2021-04-19T21:03:26.316] [DEBUG] default - fetch from 2
+[2021-04-19T21:03:26.319] [DEBUG] default - from 2: 10
+[2021-04-19T21:03:26.320] [DEBUG] default - from 1: 10
+[2021-04-19T21:03:26.326] [DEBUG] default - upd: {"data":"2021-04-19T20:03:14.175Z","clNum":2,"clNumId":1}
+[2021-04-19T21:03:26.329] [DEBUG] default - add: {"data":"2021-04-19T20:03:22.207Z","clNum":1,"clNumId":1}
+[2021-04-19T21:03:26.334] [DEBUG] default - add: {"data":"2021-04-19T20:03:14.175Z","clNum":2,"clNumId":2}
+[2021-04-19T21:03:26.336] [DEBUG] default - add: {"data":"2021-04-19T20:03:22.207Z","clNum":1,"clNumId":2}
+[2021-04-19T21:03:26.342] [DEBUG] default - add: {"data":"2021-04-19T20:03:14.175Z","clNum":2,"clNumId":3}
+[2021-04-19T21:03:26.344] [DEBUG] default - add: {"data":"2021-04-19T20:03:22.208Z","clNum":1,"clNumId":3}
+[2021-04-19T21:03:26.350] [DEBUG] default - add: {"data":"2021-04-19T20:03:14.175Z","clNum":2,"clNumId":4}
+[2021-04-19T21:03:26.352] [DEBUG] default - add: {"data":"2021-04-19T20:03:22.208Z","clNum":1,"clNumId":4}
+[2021-04-19T21:03:26.357] [DEBUG] default - add: {"data":"2021-04-19T20:03:14.176Z","clNum":2,"clNumId":5}
+[2021-04-19T21:03:26.360] [DEBUG] default - add: {"data":"2021-04-19T20:03:22.208Z","clNum":1,"clNumId":5}
+[2021-04-19T21:03:26.364] [DEBUG] default - add: {"data":"2021-04-19T20:03:14.176Z","clNum":2,"clNumId":6}
+[2021-04-19T21:03:26.367] [DEBUG] default - add: {"data":"2021-04-19T20:03:22.208Z","clNum":1,"clNumId":6}
+[2021-04-19T21:03:26.372] [DEBUG] default - add: {"data":"2021-04-19T20:03:14.176Z","clNum":2,"clNumId":7}
+[2021-04-19T21:03:26.374] [DEBUG] default - add: {"data":"2021-04-19T20:03:22.209Z","clNum":1,"clNumId":7}
+[2021-04-19T21:03:26.379] [DEBUG] default - add: {"data":"2021-04-19T20:03:14.176Z","clNum":2,"clNumId":8}
+[2021-04-19T21:03:26.381] [DEBUG] default - add: {"data":"2021-04-19T20:03:22.209Z","clNum":1,"clNumId":8}
+[2021-04-19T21:03:26.385] [DEBUG] default - add: {"data":"2021-04-19T20:03:14.176Z","clNum":2,"clNumId":9}
+[2021-04-19T21:03:26.387] [DEBUG] default - add: {"data":"2021-04-19T20:03:22.209Z","clNum":1,"clNumId":9}
+[2021-04-19T21:03:26.392] [DEBUG] default - add: {"data":"2021-04-19T20:03:14.176Z","clNum":2,"clNumId":10}
+[2021-04-19T21:03:26.394] [DEBUG] default - add: {"data":"2021-04-19T20:03:22.209Z","clNum":1,"clNumId":10}
+[2021-04-19T21:03:36.329] [DEBUG] default - fetch from 1
+[2021-04-19T21:03:36.330] [DEBUG] default - fetch from 2
+[2021-04-19T21:03:36.333] [DEBUG] default - from 2: 0
+[2021-04-19T21:03:36.333] [DEBUG] default - from 1: 10
+[2021-04-19T21:03:36.341] [DEBUG] default - upd: {"data":"2021-04-19T20:03:22.207Z","clNum":1,"clNumId":1}
+[2021-04-19T21:03:36.346] [DEBUG] default - add: {"data":"2021-04-19T20:03:22.207Z","clNum":1,"clNumId":2}
+[2021-04-19T21:03:36.351] [DEBUG] default - add: {"data":"2021-04-19T20:03:22.208Z","clNum":1,"clNumId":3}
+[2021-04-19T21:03:36.355] [DEBUG] default - add: {"data":"2021-04-19T20:03:22.208Z","clNum":1,"clNumId":4}
+[2021-04-19T21:03:36.359] [DEBUG] default - add: {"data":"2021-04-19T20:03:22.208Z","clNum":1,"clNumId":5}
+[2021-04-19T21:03:36.364] [DEBUG] default - add: {"data":"2021-04-19T20:03:22.208Z","clNum":1,"clNumId":6}
+[2021-04-19T21:03:36.369] [DEBUG] default - add: {"data":"2021-04-19T20:03:22.209Z","clNum":1,"clNumId":7}
+[2021-04-19T21:03:36.373] [DEBUG] default - add: {"data":"2021-04-19T20:03:22.209Z","clNum":1,"clNumId":8}
+[2021-04-19T21:03:36.378] [DEBUG] default - add: {"data":"2021-04-19T20:03:22.209Z","clNum":1,"clNumId":9}
+[2021-04-19T21:03:36.383] [DEBUG] default - add: {"data":"2021-04-19T20:03:22.209Z","clNum":1,"clNumId":10}
+[2021-04-19T21:03:46.331] [DEBUG] default - fetch from 1
+[2021-04-19T21:03:46.331] [DEBUG] default - fetch from 2
+[2021-04-19T21:03:46.335] [DEBUG] default - from 1: 0
+[2021-04-19T21:03:46.335] [DEBUG] default - from 2: 0
+[2021-04-19T21:03:56.332] [DEBUG] default - fetch from 1
+[2021-04-19T21:03:56.332] [DEBUG] default - fetch from 2
+[2021-04-19T21:03:56.335] [DEBUG] default - from 1: 0
+[2021-04-19T21:03:56.336] [DEBUG] default - from 2: 10
+[2021-04-19T21:03:56.342] [DEBUG] default - add: {"data":"2021-04-19T20:03:54.191Z","clNum":2,"clNumId":1}
+[2021-04-19T21:03:56.348] [DEBUG] default - add: {"data":"2021-04-19T20:03:54.191Z","clNum":2,"clNumId":2}
+[2021-04-19T21:03:56.353] [DEBUG] default - add: {"data":"2021-04-19T20:03:54.191Z","clNum":2,"clNumId":3}
+[2021-04-19T21:03:56.358] [DEBUG] default - add: {"data":"2021-04-19T20:03:54.191Z","clNum":2,"clNumId":4}
+[2021-04-19T21:03:56.362] [DEBUG] default - add: {"data":"2021-04-19T20:03:54.191Z","clNum":2,"clNumId":5}
+[2021-04-19T21:03:56.367] [DEBUG] default - add: {"data":"2021-04-19T20:03:54.191Z","clNum":2,"clNumId":6}
+[2021-04-19T21:03:56.371] [DEBUG] default - add: {"data":"2021-04-19T20:03:54.191Z","clNum":2,"clNumId":7}
+[2021-04-19T21:03:56.375] [DEBUG] default - add: {"data":"2021-04-19T20:03:54.191Z","clNum":2,"clNumId":8}
+[2021-04-19T21:03:56.379] [DEBUG] default - add: {"data":"2021-04-19T20:03:54.191Z","clNum":2,"clNumId":9}
+[2021-04-19T21:03:56.382] [DEBUG] default - add: {"data":"2021-04-19T20:03:54.191Z","clNum":2,"clNumId":10}
+[2021-04-19T21:04:06.346] [DEBUG] default - fetch from 1
+[2021-04-19T21:04:06.347] [DEBUG] default - fetch from 2
+[2021-04-19T21:04:06.350] [DEBUG] default - from 1: 10
+[2021-04-19T21:04:06.352] [DEBUG] default - from 2: 10
+[2021-04-19T21:04:06.365] [DEBUG] default - upd: {"data":"2021-04-19T20:04:02.223Z","clNum":1,"clNumId":1}
+[2021-04-19T21:04:06.370] [DEBUG] default - add: {"data":"2021-04-19T20:03:54.191Z","clNum":2,"clNumId":1}
+[2021-04-19T21:04:06.377] [DEBUG] default - add: {"data":"2021-04-19T20:04:02.223Z","clNum":1,"clNumId":2}
+[2021-04-19T21:04:06.380] [DEBUG] default - add: {"data":"2021-04-19T20:03:54.191Z","clNum":2,"clNumId":2}
+[2021-04-19T21:04:06.387] [DEBUG] default - add: {"data":"2021-04-19T20:04:02.223Z","clNum":1,"clNumId":3}
+[2021-04-19T21:04:06.390] [DEBUG] default - add: {"data":"2021-04-19T20:03:54.191Z","clNum":2,"clNumId":3}
+[2021-04-19T21:04:06.396] [DEBUG] default - add: {"data":"2021-04-19T20:04:02.223Z","clNum":1,"clNumId":4}
+[2021-04-19T21:04:06.399] [DEBUG] default - add: {"data":"2021-04-19T20:03:54.191Z","clNum":2,"clNumId":4}
+[2021-04-19T21:04:06.405] [DEBUG] default - add: {"data":"2021-04-19T20:04:02.223Z","clNum":1,"clNumId":5}
+[2021-04-19T21:04:06.408] [DEBUG] default - add: {"data":"2021-04-19T20:03:54.191Z","clNum":2,"clNumId":5}
+[2021-04-19T21:04:06.412] [DEBUG] default - add: {"data":"2021-04-19T20:04:02.223Z","clNum":1,"clNumId":6}
+[2021-04-19T21:04:06.415] [DEBUG] default - add: {"data":"2021-04-19T20:03:54.191Z","clNum":2,"clNumId":6}
+[2021-04-19T21:04:06.420] [DEBUG] default - add: {"data":"2021-04-19T20:04:02.223Z","clNum":1,"clNumId":7}
+[2021-04-19T21:04:06.422] [DEBUG] default - add: {"data":"2021-04-19T20:03:54.191Z","clNum":2,"clNumId":7}
+[2021-04-19T21:04:06.429] [DEBUG] default - add: {"data":"2021-04-19T20:04:02.223Z","clNum":1,"clNumId":8}
+[2021-04-19T21:04:06.433] [DEBUG] default - add: {"data":"2021-04-19T20:03:54.191Z","clNum":2,"clNumId":8}
+[2021-04-19T21:04:06.438] [DEBUG] default - add: {"data":"2021-04-19T20:04:02.223Z","clNum":1,"clNumId":9}
+[2021-04-19T21:04:06.442] [DEBUG] default - add: {"data":"2021-04-19T20:03:54.191Z","clNum":2,"clNumId":9}
+[2021-04-19T21:04:06.446] [DEBUG] default - add: {"data":"2021-04-19T20:04:02.223Z","clNum":1,"clNumId":10}
+[2021-04-19T21:04:06.449] [DEBUG] default - add: {"data":"2021-04-19T20:03:54.191Z","clNum":2,"clNumId":10}
+[2021-04-19T21:04:16.348] [DEBUG] default - fetch from 1
+[2021-04-19T21:04:16.348] [DEBUG] default - fetch from 2
+[2021-04-19T21:04:16.350] [DEBUG] default - from 2: 0
+[2021-04-19T21:04:16.351] [DEBUG] default - from 1: 10
+[2021-04-19T21:04:16.366] [DEBUG] default - upd: {"data":"2021-04-19T20:04:02.223Z","clNum":1,"clNumId":1}
+[2021-04-19T21:04:16.371] [DEBUG] default - add: {"data":"2021-04-19T20:04:02.223Z","clNum":1,"clNumId":2}
+[2021-04-19T21:04:16.377] [DEBUG] default - add: {"data":"2021-04-19T20:04:02.223Z","clNum":1,"clNumId":3}
+[2021-04-19T21:04:16.381] [DEBUG] default - add: {"data":"2021-04-19T20:04:02.223Z","clNum":1,"clNumId":4}
+[2021-04-19T21:04:16.385] [DEBUG] default - add: {"data":"2021-04-19T20:04:02.223Z","clNum":1,"clNumId":5}
+[2021-04-19T21:04:16.390] [DEBUG] default - add: {"data":"2021-04-19T20:04:02.223Z","clNum":1,"clNumId":6}
+[2021-04-19T21:04:16.396] [DEBUG] default - add: {"data":"2021-04-19T20:04:02.223Z","clNum":1,"clNumId":7}
+[2021-04-19T21:04:16.400] [DEBUG] default - add: {"data":"2021-04-19T20:04:02.223Z","clNum":1,"clNumId":8}
+[2021-04-19T21:04:16.405] [DEBUG] default - add: {"data":"2021-04-19T20:04:02.223Z","clNum":1,"clNumId":9}
+[2021-04-19T21:04:16.411] [DEBUG] default - add: {"data":"2021-04-19T20:04:02.223Z","clNum":1,"clNumId":10}
+[2021-04-19T21:04:26.361] [DEBUG] default - fetch from 1
+[2021-04-19T21:04:26.362] [DEBUG] default - fetch from 2
+[2021-04-19T21:04:26.365] [DEBUG] default - from 2: 0
+[2021-04-19T21:04:26.365] [DEBUG] default - from 1: 0
+[2021-04-20T10:12:57.290] [DEBUG] default - fetch from 1
+[2021-04-20T10:12:57.343] [DEBUG] default - fetch from 2
+[2021-04-20T10:12:57.377] [DEBUG] default - from 2: 0
+[2021-04-20T10:12:57.380] [DEBUG] default - from 1: 0
+[2021-04-20T10:13:07.293] [DEBUG] default - fetch from 1
+[2021-04-20T10:13:07.308] [DEBUG] default - from 1: 10
+[2021-04-20T10:13:07.358] [DEBUG] default - fetch from 2
+[2021-04-20T10:13:07.368] [DEBUG] default - add: {"data":"2021-04-20T09:13:00.668Z","clNum":1,"clNumId":1}
+[2021-04-20T10:13:07.373] [DEBUG] default - from 2: 10
+[2021-04-20T10:13:07.389] [DEBUG] default - add: {"data":"2021-04-20T09:13:00.669Z","clNum":1,"clNumId":2}
+[2021-04-20T10:13:07.401] [DEBUG] default - add: {"data":"2021-04-20T09:13:06.486Z","clNum":2,"clNumId":1}
+[2021-04-20T10:13:07.415] [DEBUG] default - add: {"data":"2021-04-20T09:13:00.669Z","clNum":1,"clNumId":3}
+[2021-04-20T10:13:07.427] [DEBUG] default - add: {"data":"2021-04-20T09:13:06.486Z","clNum":2,"clNumId":2}
+[2021-04-20T10:13:07.488] [DEBUG] default - add: {"data":"2021-04-20T09:13:00.670Z","clNum":1,"clNumId":4}
+[2021-04-20T10:13:07.494] [DEBUG] default - add: {"data":"2021-04-20T09:13:06.487Z","clNum":2,"clNumId":3}
+[2021-04-20T10:13:07.502] [DEBUG] default - add: {"data":"2021-04-20T09:13:00.670Z","clNum":1,"clNumId":5}
+[2021-04-20T10:13:07.507] [DEBUG] default - add: {"data":"2021-04-20T09:13:06.488Z","clNum":2,"clNumId":4}
+[2021-04-20T10:13:07.515] [DEBUG] default - add: {"data":"2021-04-20T09:13:00.671Z","clNum":1,"clNumId":6}
+[2021-04-20T10:13:07.518] [DEBUG] default - add: {"data":"2021-04-20T09:13:06.488Z","clNum":2,"clNumId":5}
+[2021-04-20T10:13:07.524] [DEBUG] default - add: {"data":"2021-04-20T09:13:00.671Z","clNum":1,"clNumId":7}
+[2021-04-20T10:13:07.529] [DEBUG] default - add: {"data":"2021-04-20T09:13:06.489Z","clNum":2,"clNumId":6}
+[2021-04-20T10:13:07.536] [DEBUG] default - add: {"data":"2021-04-20T09:13:00.672Z","clNum":1,"clNumId":8}
+[2021-04-20T10:13:07.540] [DEBUG] default - add: {"data":"2021-04-20T09:13:06.489Z","clNum":2,"clNumId":7}
+[2021-04-20T10:13:07.549] [DEBUG] default - add: {"data":"2021-04-20T09:13:00.673Z","clNum":1,"clNumId":9}
+[2021-04-20T10:13:07.551] [DEBUG] default - add: {"data":"2021-04-20T09:13:06.490Z","clNum":2,"clNumId":8}
+[2021-04-20T10:13:07.560] [DEBUG] default - add: {"data":"2021-04-20T09:13:00.673Z","clNum":1,"clNumId":10}
+[2021-04-20T10:13:07.564] [DEBUG] default - add: {"data":"2021-04-20T09:13:06.490Z","clNum":2,"clNumId":9}
+[2021-04-20T10:13:07.571] [DEBUG] default - add: {"data":"2021-04-20T09:13:06.491Z","clNum":2,"clNumId":10}
+[2021-04-20T10:13:17.303] [DEBUG] default - fetch from 1
+[2021-04-20T10:13:17.316] [DEBUG] default - from 1: 10
+[2021-04-20T10:13:17.353] [DEBUG] default - upd: {"data":"2021-04-20T09:13:00.668Z","clNum":1,"clNumId":1}
+[2021-04-20T10:13:17.358] [DEBUG] default - fetch from 2
+[2021-04-20T10:13:17.370] [DEBUG] default - from 2: 10
+[2021-04-20T10:13:17.374] [DEBUG] default - add: {"data":"2021-04-20T09:13:00.669Z","clNum":1,"clNumId":2}
+[2021-04-20T10:13:17.387] [DEBUG] default - add: {"data":"2021-04-20T09:13:06.486Z","clNum":2,"clNumId":1}
+[2021-04-20T10:13:17.399] [DEBUG] default - add: {"data":"2021-04-20T09:13:00.669Z","clNum":1,"clNumId":3}
+[2021-04-20T10:13:17.412] [DEBUG] default - add: {"data":"2021-04-20T09:13:06.486Z","clNum":2,"clNumId":2}
+[2021-04-20T10:13:17.419] [DEBUG] default - add: {"data":"2021-04-20T09:13:00.670Z","clNum":1,"clNumId":4}
+[2021-04-20T10:13:17.430] [DEBUG] default - add: {"data":"2021-04-20T09:13:06.487Z","clNum":2,"clNumId":3}
+[2021-04-20T10:13:17.436] [DEBUG] default - add: {"data":"2021-04-20T09:13:00.670Z","clNum":1,"clNumId":5}
+[2021-04-20T10:13:17.447] [DEBUG] default - add: {"data":"2021-04-20T09:13:06.488Z","clNum":2,"clNumId":4}
+[2021-04-20T10:13:17.457] [DEBUG] default - add: {"data":"2021-04-20T09:13:00.671Z","clNum":1,"clNumId":6}
+[2021-04-20T10:13:17.466] [DEBUG] default - add: {"data":"2021-04-20T09:13:06.488Z","clNum":2,"clNumId":5}
+[2021-04-20T10:13:17.470] [DEBUG] default - add: {"data":"2021-04-20T09:13:00.671Z","clNum":1,"clNumId":7}
+[2021-04-20T10:13:17.476] [DEBUG] default - add: {"data":"2021-04-20T09:13:06.489Z","clNum":2,"clNumId":6}
+[2021-04-20T10:13:17.480] [DEBUG] default - add: {"data":"2021-04-20T09:13:00.672Z","clNum":1,"clNumId":8}
+[2021-04-20T10:13:17.486] [DEBUG] default - add: {"data":"2021-04-20T09:13:06.489Z","clNum":2,"clNumId":7}
+[2021-04-20T10:13:17.489] [DEBUG] default - add: {"data":"2021-04-20T09:13:00.673Z","clNum":1,"clNumId":9}
+[2021-04-20T10:13:17.497] [DEBUG] default - add: {"data":"2021-04-20T09:13:06.490Z","clNum":2,"clNumId":8}
+[2021-04-20T10:13:17.500] [DEBUG] default - add: {"data":"2021-04-20T09:13:00.673Z","clNum":1,"clNumId":10}
+[2021-04-20T10:13:17.505] [DEBUG] default - add: {"data":"2021-04-20T09:13:06.490Z","clNum":2,"clNumId":9}
+[2021-04-20T10:13:17.512] [DEBUG] default - add: {"data":"2021-04-20T09:13:06.491Z","clNum":2,"clNumId":10}
+[2021-04-20T10:13:27.308] [DEBUG] default - fetch from 1
+[2021-04-20T10:13:27.319] [DEBUG] default - from 1: 0
+[2021-04-20T10:13:27.372] [DEBUG] default - fetch from 2
+[2021-04-20T10:13:27.382] [DEBUG] default - from 2: 0
+[2021-04-20T10:13:37.310] [DEBUG] default - fetch from 1
+[2021-04-20T10:13:37.319] [DEBUG] default - from 1: 0
+[2021-04-20T10:13:37.386] [DEBUG] default - fetch from 2
+[2021-04-20T10:13:37.397] [DEBUG] default - from 2: 0
+[2021-04-20T10:13:45.642] [DEBUG] default - send db
+[2021-04-20T10:13:47.316] [DEBUG] default - fetch from 1
+[2021-04-20T10:13:47.328] [DEBUG] default - from 1: 5
+[2021-04-20T10:13:47.354] [DEBUG] default - upd: {"data":"2021-04-20T09:13:06.486Z","clNum":2,"clNumId":1}
+[2021-04-20T10:13:47.375] [DEBUG] default - add: {"data":"2021-04-20T09:13:06.486Z","clNum":2,"clNumId":2}
+[2021-04-20T10:13:47.388] [DEBUG] default - fetch from 2
+[2021-04-20T10:13:47.390] [DEBUG] default - add: {"data":"2021-04-20T09:13:06.487Z","clNum":2,"clNumId":3}
+[2021-04-20T10:13:47.401] [DEBUG] default - from 2: 10
+[2021-04-20T10:13:47.405] [DEBUG] default - add: {"data":"2021-04-20T09:13:06.488Z","clNum":2,"clNumId":4}
+[2021-04-20T10:13:47.428] [DEBUG] default - upd: {"data":"2021-04-20T09:13:46.498Z","clNum":2,"clNumId":1}
+[2021-04-20T10:13:47.434] [DEBUG] default - add: {"data":"2021-04-20T09:13:06.488Z","clNum":2,"clNumId":5}
+[2021-04-20T10:13:47.445] [DEBUG] default - add: {"data":"2021-04-20T09:13:46.498Z","clNum":2,"clNumId":2}
+[2021-04-20T10:13:47.462] [DEBUG] default - add: {"data":"2021-04-20T09:13:46.499Z","clNum":2,"clNumId":3}
+[2021-04-20T10:13:47.475] [DEBUG] default - add: {"data":"2021-04-20T09:13:46.499Z","clNum":2,"clNumId":4}
+[2021-04-20T10:13:47.497] [DEBUG] default - upd: {"data":"2021-04-20T09:13:46.500Z","clNum":2,"clNumId":5}
+[2021-04-20T10:13:47.510] [DEBUG] default - add: {"data":"2021-04-20T09:13:46.500Z","clNum":2,"clNumId":6}
+[2021-04-20T10:13:47.524] [DEBUG] default - add: {"data":"2021-04-20T09:13:46.501Z","clNum":2,"clNumId":7}
+[2021-04-20T10:13:47.538] [DEBUG] default - add: {"data":"2021-04-20T09:13:46.502Z","clNum":2,"clNumId":8}
+[2021-04-20T10:13:47.553] [DEBUG] default - add: {"data":"2021-04-20T09:13:46.502Z","clNum":2,"clNumId":9}
+[2021-04-20T10:13:47.567] [DEBUG] default - add: {"data":"2021-04-20T09:13:46.503Z","clNum":2,"clNumId":10}
+[2021-04-20T10:13:57.322] [DEBUG] default - fetch from 1
+[2021-04-20T10:13:57.333] [DEBUG] default - from 1: 5
+[2021-04-20T10:13:57.350] [DEBUG] default - add: {"data":"2021-04-20T09:13:06.486Z","clNum":2,"clNumId":1}
+[2021-04-20T10:13:57.367] [DEBUG] default - add: {"data":"2021-04-20T09:13:06.486Z","clNum":2,"clNumId":2}
+[2021-04-20T10:13:57.384] [DEBUG] default - add: {"data":"2021-04-20T09:13:06.487Z","clNum":2,"clNumId":3}
+[2021-04-20T10:13:57.388] [DEBUG] default - fetch from 2
+[2021-04-20T10:13:57.398] [DEBUG] default - from 2: 10
+[2021-04-20T10:13:57.402] [DEBUG] default - add: {"data":"2021-04-20T09:13:06.488Z","clNum":2,"clNumId":4}
+[2021-04-20T10:13:57.424] [DEBUG] default - upd: {"data":"2021-04-20T09:13:46.498Z","clNum":2,"clNumId":1}
+[2021-04-20T10:13:57.435] [DEBUG] default - upd: {"data":"2021-04-20T09:13:06.488Z","clNum":2,"clNumId":5}
+[2021-04-20T10:13:57.447] [DEBUG] default - add: {"data":"2021-04-20T09:13:46.498Z","clNum":2,"clNumId":2}
+[2021-04-20T10:13:57.461] [DEBUG] default - add: {"data":"2021-04-20T09:13:46.499Z","clNum":2,"clNumId":3}
+[2021-04-20T10:13:57.474] [DEBUG] default - add: {"data":"2021-04-20T09:13:46.499Z","clNum":2,"clNumId":4}
+[2021-04-20T10:13:57.495] [DEBUG] default - upd: {"data":"2021-04-20T09:13:46.500Z","clNum":2,"clNumId":5}
+[2021-04-20T10:13:57.513] [DEBUG] default - add: {"data":"2021-04-20T09:13:46.500Z","clNum":2,"clNumId":6}
+[2021-04-20T10:13:57.526] [DEBUG] default - add: {"data":"2021-04-20T09:13:46.501Z","clNum":2,"clNumId":7}
+[2021-04-20T10:13:57.541] [DEBUG] default - add: {"data":"2021-04-20T09:13:46.502Z","clNum":2,"clNumId":8}
+[2021-04-20T10:13:57.556] [DEBUG] default - add: {"data":"2021-04-20T09:13:46.502Z","clNum":2,"clNumId":9}
+[2021-04-20T10:13:57.569] [DEBUG] default - add: {"data":"2021-04-20T09:13:46.503Z","clNum":2,"clNumId":10}
+[2021-04-20T10:14:07.322] [DEBUG] default - fetch from 1
+[2021-04-20T10:14:07.334] [DEBUG] default - from 1: 10
+[2021-04-20T10:14:07.350] [DEBUG] default - add: {"data":"2021-04-20T09:13:06.486Z","clNum":2,"clNumId":1}
+[2021-04-20T10:14:07.364] [DEBUG] default - add: {"data":"2021-04-20T09:13:06.486Z","clNum":2,"clNumId":2}
+[2021-04-20T10:14:07.384] [DEBUG] default - add: {"data":"2021-04-20T09:13:06.487Z","clNum":2,"clNumId":3}
+[2021-04-20T10:14:07.388] [DEBUG] default - fetch from 2
+[2021-04-20T10:14:07.400] [DEBUG] default - add: {"data":"2021-04-20T09:13:06.488Z","clNum":2,"clNumId":4}
+[2021-04-20T10:14:07.403] [DEBUG] default - from 2: 0
+[2021-04-20T10:14:07.423] [DEBUG] default - upd: {"data":"2021-04-20T09:13:06.488Z","clNum":2,"clNumId":5}
+[2021-04-20T10:14:07.436] [DEBUG] default - add: {"data":"2021-04-20T09:14:00.695Z","clNum":1,"clNumId":6}
+[2021-04-20T10:14:07.449] [DEBUG] default - add: {"data":"2021-04-20T09:14:00.696Z","clNum":1,"clNumId":7}
+[2021-04-20T10:14:07.462] [DEBUG] default - add: {"data":"2021-04-20T09:14:00.697Z","clNum":1,"clNumId":8}
+[2021-04-20T10:14:07.475] [DEBUG] default - add: {"data":"2021-04-20T09:14:00.697Z","clNum":1,"clNumId":9}
+[2021-04-20T10:14:07.489] [DEBUG] default - add: {"data":"2021-04-20T09:14:00.698Z","clNum":1,"clNumId":10}
+[2021-04-20T10:14:17.332] [DEBUG] default - fetch from 1
+[2021-04-20T10:14:17.343] [DEBUG] default - from 1: 10
+[2021-04-20T10:14:17.358] [DEBUG] default - add: {"data":"2021-04-20T09:13:06.486Z","clNum":2,"clNumId":1}
+[2021-04-20T10:14:17.373] [DEBUG] default - add: {"data":"2021-04-20T09:13:06.486Z","clNum":2,"clNumId":2}
+[2021-04-20T10:14:17.387] [DEBUG] default - add: {"data":"2021-04-20T09:13:06.487Z","clNum":2,"clNumId":3}
+[2021-04-20T10:14:17.388] [DEBUG] default - fetch from 2
+[2021-04-20T10:14:17.400] [DEBUG] default - from 2: 0
+[2021-04-20T10:14:17.405] [DEBUG] default - add: {"data":"2021-04-20T09:13:06.488Z","clNum":2,"clNumId":4}
+[2021-04-20T10:14:17.430] [DEBUG] default - upd: {"data":"2021-04-20T09:13:06.488Z","clNum":2,"clNumId":5}
+[2021-04-20T10:14:17.444] [DEBUG] default - add: {"data":"2021-04-20T09:14:00.695Z","clNum":1,"clNumId":6}
+[2021-04-20T10:14:17.457] [DEBUG] default - add: {"data":"2021-04-20T09:14:00.696Z","clNum":1,"clNumId":7}
+[2021-04-20T10:14:17.472] [DEBUG] default - add: {"data":"2021-04-20T09:14:00.697Z","clNum":1,"clNumId":8}
+[2021-04-20T10:14:17.484] [DEBUG] default - add: {"data":"2021-04-20T09:14:00.697Z","clNum":1,"clNumId":9}
+[2021-04-20T10:14:17.497] [DEBUG] default - add: {"data":"2021-04-20T09:14:00.698Z","clNum":1,"clNumId":10}
+[2021-04-20T10:14:27.346] [DEBUG] default - fetch from 1
+[2021-04-20T10:14:27.349] [DEBUG] default - from 1: 0
+[2021-04-20T10:14:27.394] [DEBUG] default - fetch from 2
+[2021-04-20T10:14:27.397] [DEBUG] default - from 2: 10
+[2021-04-20T10:14:27.402] [DEBUG] default - add: {"data":"2021-04-20T09:14:26.508Z","clNum":2,"clNumId":1}
+[2021-04-20T10:14:27.407] [DEBUG] default - add: {"data":"2021-04-20T09:14:26.509Z","clNum":2,"clNumId":2}
+[2021-04-20T10:14:27.412] [DEBUG] default - add: {"data":"2021-04-20T09:14:26.509Z","clNum":2,"clNumId":3}
+[2021-04-20T10:14:27.417] [DEBUG] default - add: {"data":"2021-04-20T09:14:26.509Z","clNum":2,"clNumId":4}
+[2021-04-20T10:14:27.424] [DEBUG] default - upd: {"data":"2021-04-20T09:14:26.509Z","clNum":2,"clNumId":5}
+[2021-04-20T10:14:27.429] [DEBUG] default - add: {"data":"2021-04-20T09:14:26.509Z","clNum":2,"clNumId":6}
+[2021-04-20T10:14:27.435] [DEBUG] default - add: {"data":"2021-04-20T09:14:26.509Z","clNum":2,"clNumId":7}
+[2021-04-20T10:14:27.440] [DEBUG] default - add: {"data":"2021-04-20T09:14:26.509Z","clNum":2,"clNumId":8}
+[2021-04-20T10:14:27.445] [DEBUG] default - add: {"data":"2021-04-20T09:14:26.510Z","clNum":2,"clNumId":9}
+[2021-04-20T10:14:27.450] [DEBUG] default - add: {"data":"2021-04-20T09:14:26.510Z","clNum":2,"clNumId":10}
+[2021-04-20T10:14:37.358] [DEBUG] default - fetch from 1
+[2021-04-20T10:14:37.368] [DEBUG] default - from 1: 0
+[2021-04-20T10:14:37.405] [DEBUG] default - fetch from 2
+[2021-04-20T10:14:37.417] [DEBUG] default - from 2: 10
+[2021-04-20T10:14:37.432] [DEBUG] default - add: {"data":"2021-04-20T09:14:26.508Z","clNum":2,"clNumId":1}
+[2021-04-20T10:14:37.448] [DEBUG] default - add: {"data":"2021-04-20T09:14:26.509Z","clNum":2,"clNumId":2}
+[2021-04-20T10:14:37.462] [DEBUG] default - add: {"data":"2021-04-20T09:14:26.509Z","clNum":2,"clNumId":3}
+[2021-04-20T10:14:37.476] [DEBUG] default - add: {"data":"2021-04-20T09:14:26.509Z","clNum":2,"clNumId":4}
+[2021-04-20T10:14:37.499] [DEBUG] default - upd: {"data":"2021-04-20T09:14:26.509Z","clNum":2,"clNumId":5}
+[2021-04-20T10:14:37.514] [DEBUG] default - add: {"data":"2021-04-20T09:14:26.509Z","clNum":2,"clNumId":6}
+[2021-04-20T10:14:37.527] [DEBUG] default - add: {"data":"2021-04-20T09:14:26.509Z","clNum":2,"clNumId":7}
+[2021-04-20T10:14:37.541] [DEBUG] default - add: {"data":"2021-04-20T09:14:26.509Z","clNum":2,"clNumId":8}
+[2021-04-20T10:14:37.555] [DEBUG] default - add: {"data":"2021-04-20T09:14:26.510Z","clNum":2,"clNumId":9}
+[2021-04-20T10:14:37.569] [DEBUG] default - add: {"data":"2021-04-20T09:14:26.510Z","clNum":2,"clNumId":10}

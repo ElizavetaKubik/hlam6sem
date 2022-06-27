@@ -1,0 +1,14 @@
+D:\University\6_sem\Крипта\lr_12\Lab_10\bin\Debug\Lab_10.exe.config
+D:\University\6_sem\Крипта\lr_12\Lab_10\bin\Debug\Lab_10.exe
+D:\University\6_sem\Крипта\lr_12\Lab_10\bin\Debug\Lab_10.pdb
+D:\University\6_sem\Крипта\lr_12\Lab_10\obj\Debug\MainWindow.g.cs
+D:\University\6_sem\Крипта\lr_12\Lab_10\obj\Debug\App.g.cs
+D:\University\6_sem\Крипта\lr_12\Lab_10\obj\Debug\Lab_10_MarkupCompile.cache
+D:\University\6_sem\Крипта\lr_12\Lab_10\obj\Debug\Lab_10_MarkupCompile.lref
+D:\University\6_sem\Крипта\lr_12\Lab_10\obj\Debug\MainWindow.baml
+D:\University\6_sem\Крипта\lr_12\Lab_10\obj\Debug\Lab_10.g.resources
+D:\University\6_sem\Крипта\lr_12\Lab_10\obj\Debug\Lab_10.Properties.Resources.resources
+D:\University\6_sem\Крипта\lr_12\Lab_10\obj\Debug\Lab_12.csproj.GenerateResource.cache
+D:\University\6_sem\Крипта\lr_12\Lab_10\obj\Debug\Lab_12.csproj.CoreCompileInputs.cache
+D:\University\6_sem\Крипта\lr_12\Lab_10\obj\Debug\Lab_10.exe
+D:\University\6_sem\Крипта\lr_12\Lab_10\obj\Debug\Lab_10.pdb

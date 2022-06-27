@@ -1,0 +1,39 @@
+﻿<Window x:Class="Lab_6.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lab_6"
+        mc:Ignorable="d"
+        Title="Лабораторная №6 - Исследование асимметричных шифров RSA и Эль-Гамаля" Height="200" Width="600">
+
+    <Grid>
+
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition Height="6*"></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition Height="6*"></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition Width="16*"></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition Width="16*"></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition Width="16*"></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <TextBox Name="TextA" Margin="5, 5, 5, 5" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="1" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" PreviewTextInput="NumberValidationTextBox"></TextBox>
+        <TextBox Name="TextX" Margin="5, 5, 5, 5" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="3" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" PreviewTextInput="NumberValidationTextBox"></TextBox>
+        <TextBox Name="TextN" Margin="5, 5, 5, 5" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="5" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" PreviewTextInput="NumberValidationTextBox"></TextBox>
+
+        <Button Name="ButtonCalc" Margin="5, 5, 5, 5" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="3" Grid.Column="1" Click="Calculate">Calculate</Button>
+        <TextBox Name="TextY" Margin="5, 5, 5, 5" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="3" Grid.Column="3" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" PreviewTextInput="NumberValidationTextBox"></TextBox>
+        <TextBox Name="TextTime" Margin="5, 5, 5, 5" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="3" Grid.Column="5" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" PreviewTextInput="NumberValidationTextBox"></TextBox>
+
+    </Grid>
+</Window>

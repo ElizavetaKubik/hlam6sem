@@ -1,0 +1,15 @@
+D:\Crypto\Part 2\Lab_11\Lab_11_Oper\obj\Debug\MainWindow.g.cs
+D:\Crypto\Part 2\Lab_11\Lab_11_Oper\obj\Debug\App.g.cs
+D:\Crypto\Part 2\Lab_11\Lab_11_Oper\obj\Debug\Lab_11_Oper_MarkupCompile.cache
+D:\Crypto\Part 2\Lab_11\Lab_11_Oper\obj\Debug\Lab_11_Oper_MarkupCompile.lref
+D:\Crypto\Part 2\Lab_11\Lab_11_Oper\bin\Debug\Lab_11_Oper.exe.config
+D:\Crypto\Part 2\Lab_11\Lab_11_Oper\bin\Debug\Lab_11_Oper.exe
+D:\Crypto\Part 2\Lab_11\Lab_11_Oper\bin\Debug\Lab_11_Oper.pdb
+D:\Crypto\Part 2\Lab_11\Lab_11_Oper\obj\Debug\MainWindow.baml
+D:\Crypto\Part 2\Lab_11\Lab_11_Oper\obj\Debug\Lab_11_Oper.g.resources
+D:\Crypto\Part 2\Lab_11\Lab_11_Oper\obj\Debug\Lab_11_Oper.Properties.Resources.resources
+D:\Crypto\Part 2\Lab_11\Lab_11_Oper\obj\Debug\Lab_11_Oper.csproj.GenerateResource.cache
+D:\Crypto\Part 2\Lab_11\Lab_11_Oper\obj\Debug\Lab_11_Oper.csproj.CoreCompileInputs.cache
+D:\Crypto\Part 2\Lab_11\Lab_11_Oper\obj\Debug\Lab_11_Oper.exe
+D:\Crypto\Part 2\Lab_11\Lab_11_Oper\obj\Debug\Lab_11_Oper.pdb
+D:\Crypto\Part 2\Lab_11\Lab_11_Oper\obj\Debug\Lab_11_Oper.csprojAssemblyReference.cache

@@ -1,0 +1,14 @@
+D:\University\6_sem\Крипта\lr_12\Lab_6_RSA_Dec\bin\Debug\Lab_6_RSA_Dec.exe.config
+D:\University\6_sem\Крипта\lr_12\Lab_6_RSA_Dec\bin\Debug\Lab_6_RSA_Dec.exe
+D:\University\6_sem\Крипта\lr_12\Lab_6_RSA_Dec\bin\Debug\Lab_6_RSA_Dec.pdb
+D:\University\6_sem\Крипта\lr_12\Lab_6_RSA_Dec\obj\Debug\Lab_12_RSA_Dec.csprojAssemblyReference.cache
+D:\University\6_sem\Крипта\lr_12\Lab_6_RSA_Dec\obj\Debug\MainWindow.baml
+D:\University\6_sem\Крипта\lr_12\Lab_6_RSA_Dec\obj\Debug\MainWindow.g.cs
+D:\University\6_sem\Крипта\lr_12\Lab_6_RSA_Dec\obj\Debug\App.g.cs
+D:\University\6_sem\Крипта\lr_12\Lab_6_RSA_Dec\obj\Debug\Lab_6_RSA_Dec_MarkupCompile.cache
+D:\University\6_sem\Крипта\lr_12\Lab_6_RSA_Dec\obj\Debug\Lab_6_RSA_Dec.g.resources
+D:\University\6_sem\Крипта\lr_12\Lab_6_RSA_Dec\obj\Debug\Lab_6_RSA_Dec.Properties.Resources.resources
+D:\University\6_sem\Крипта\lr_12\Lab_6_RSA_Dec\obj\Debug\Lab_12_RSA_Dec.csproj.GenerateResource.cache
+D:\University\6_sem\Крипта\lr_12\Lab_6_RSA_Dec\obj\Debug\Lab_12_RSA_Dec.csproj.CoreCompileInputs.cache
+D:\University\6_sem\Крипта\lr_12\Lab_6_RSA_Dec\obj\Debug\Lab_6_RSA_Dec.exe
+D:\University\6_sem\Крипта\lr_12\Lab_6_RSA_Dec\obj\Debug\Lab_6_RSA_Dec.pdb

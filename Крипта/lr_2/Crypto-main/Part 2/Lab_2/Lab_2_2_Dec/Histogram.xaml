@@ -1,0 +1,66 @@
+﻿<Window x:Class="Lab_2.Histogram"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lab_2"
+        mc:Ignorable="d"
+        Title="Лабораторная №2 - гистограмма" Height="675" Width="900" Loaded="Window_Loaded">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"></RowDefinition>
+            <RowDefinition Height="2*"></RowDefinition>
+            <RowDefinition Height="40*"></RowDefinition>
+            <RowDefinition Height="2*"></RowDefinition>
+            <RowDefinition Height="1*"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*"></ColumnDefinition>
+            <ColumnDefinition Width="17*"></ColumnDefinition>
+            <ColumnDefinition Width="17*"></ColumnDefinition>
+            <ColumnDefinition Width="17*"></ColumnDefinition>
+            <ColumnDefinition Width="17*"></ColumnDefinition>
+            <ColumnDefinition Width="17*"></ColumnDefinition>
+            <ColumnDefinition Width="17*"></ColumnDefinition>
+            <ColumnDefinition Width="17*"></ColumnDefinition>
+            <ColumnDefinition Width="17*"></ColumnDefinition>
+            <ColumnDefinition Width="17*"></ColumnDefinition>
+            <ColumnDefinition Width="17*"></ColumnDefinition>
+            <ColumnDefinition Width="2*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <Label Name="Digit0" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="1" HorizontalAlignment="Center">[0]</Label>
+        <Label Name="Digit1" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="2" HorizontalAlignment="Center">[1]</Label>
+        <Label Name="Digit2" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="3" HorizontalAlignment="Center">[2]</Label>
+        <Label Name="Digit3" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="4" HorizontalAlignment="Center">[3]</Label>
+        <Label Name="Digit4" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="5" HorizontalAlignment="Center">[4]</Label>
+        <Label Name="Digit5" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="6" HorizontalAlignment="Center">[5]</Label>
+        <Label Name="Digit6" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="7" HorizontalAlignment="Center">[6]</Label>
+        <Label Name="Digit7" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="8" HorizontalAlignment="Center">[7]</Label>
+        <Label Name="Digit8" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="9" HorizontalAlignment="Center">[8]</Label>
+        <Label Name="Digit9" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="10" HorizontalAlignment="Center">[9]</Label>
+
+        <Rectangle Name="Histo0" Grid.Row="2" Grid.Column="1" Fill="#FF0000" Stroke="Black" VerticalAlignment="Bottom" Height="560"/>
+        <Rectangle Name="Histo1" Grid.Row="2" Grid.Column="2" Fill="#FF8300" Stroke="Black" VerticalAlignment="Bottom" Height="560"/>
+        <Rectangle Name="Histo2" Grid.Row="2" Grid.Column="3" Fill="#FFB400" Stroke="Black" VerticalAlignment="Bottom" Height="560"/>
+        <Rectangle Name="Histo3" Grid.Row="2" Grid.Column="4" Fill="#FFFF00" Stroke="Black" VerticalAlignment="Bottom" Height="560"/>
+        <Rectangle Name="Histo4" Grid.Row="2" Grid.Column="5" Fill="#67E300" Stroke="Black" VerticalAlignment="Bottom" Height="560"/>
+        <Rectangle Name="Histo5" Grid.Row="2" Grid.Column="6" Fill="#00AD6C" Stroke="Black" VerticalAlignment="Bottom" Height="560"/>
+        <Rectangle Name="Histo6" Grid.Row="2" Grid.Column="7" Fill="#009A9A" Stroke="Black" VerticalAlignment="Bottom" Height="560"/>
+        <Rectangle Name="Histo7" Grid.Row="2" Grid.Column="8" Fill="#162EB0" Stroke="Black" VerticalAlignment="Bottom" Height="560"/>
+        <Rectangle Name="Histo8" Grid.Row="2" Grid.Column="9" Fill="#530FAF" Stroke="Black" VerticalAlignment="Bottom" Height="560"/>
+        <Rectangle Name="Histo9" Grid.Row="2" Grid.Column="10" Fill="#E50045" Stroke="Black" VerticalAlignment="Bottom" Height="560"/>
+
+        <Label Name="Chance0" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="3" Grid.Column="1" HorizontalAlignment="Center"></Label>
+        <Label Name="Chance1" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="3" Grid.Column="2" HorizontalAlignment="Center"></Label>
+        <Label Name="Chance2" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="3" Grid.Column="3" HorizontalAlignment="Center"></Label>
+        <Label Name="Chance3" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="3" Grid.Column="4" HorizontalAlignment="Center"></Label>
+        <Label Name="Chance4" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="3" Grid.Column="5" HorizontalAlignment="Center"></Label>
+        <Label Name="Chance5" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="3" Grid.Column="6" HorizontalAlignment="Center"></Label>
+        <Label Name="Chance6" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="3" Grid.Column="7" HorizontalAlignment="Center"></Label>
+        <Label Name="Chance7" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="3" Grid.Column="8" HorizontalAlignment="Center"></Label>
+        <Label Name="Chance8" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="3" Grid.Column="9" HorizontalAlignment="Center"></Label>
+        <Label Name="Chance9" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="3" Grid.Column="10" HorizontalAlignment="Center"></Label>
+    </Grid>
+</Window>

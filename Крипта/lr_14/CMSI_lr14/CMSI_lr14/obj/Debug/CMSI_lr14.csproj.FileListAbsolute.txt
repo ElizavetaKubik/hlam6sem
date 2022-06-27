@@ -1,0 +1,10 @@
+C:\Users\gunko\OneDrive\study\6th_sem\CryptoMethInformSecutiry\lr_14\CMSI_lr14\CMSI_lr14\bin\Debug\CMSI_lr14.exe.config
+C:\Users\gunko\OneDrive\study\6th_sem\CryptoMethInformSecutiry\lr_14\CMSI_lr14\CMSI_lr14\bin\Debug\CMSI_lr14.exe
+C:\Users\gunko\OneDrive\study\6th_sem\CryptoMethInformSecutiry\lr_14\CMSI_lr14\CMSI_lr14\bin\Debug\CMSI_lr14.pdb
+C:\Users\gunko\OneDrive\study\6th_sem\CryptoMethInformSecutiry\lr_14\CMSI_lr14\CMSI_lr14\obj\Debug\CMSI_lr14.csprojAssemblyReference.cache
+C:\Users\gunko\OneDrive\study\6th_sem\CryptoMethInformSecutiry\lr_14\CMSI_lr14\CMSI_lr14\obj\Debug\CMSI_lr14.Properties.Resources.resources
+C:\Users\gunko\OneDrive\study\6th_sem\CryptoMethInformSecutiry\lr_14\CMSI_lr14\CMSI_lr14\obj\Debug\CMSI_lr14.csproj.GenerateResource.cache
+C:\Users\gunko\OneDrive\study\6th_sem\CryptoMethInformSecutiry\lr_14\CMSI_lr14\CMSI_lr14\obj\Debug\CMSI_lr14.csproj.CoreCompileInputs.cache
+C:\Users\gunko\OneDrive\study\6th_sem\CryptoMethInformSecutiry\lr_14\CMSI_lr14\CMSI_lr14\obj\Debug\CMSI_lr14.exe
+C:\Users\gunko\OneDrive\study\6th_sem\CryptoMethInformSecutiry\lr_14\CMSI_lr14\CMSI_lr14\obj\Debug\CMSI_lr14.pdb
+C:\Users\gunko\OneDrive\study\6th_sem\CryptoMethInformSecutiry\lr_14\CMSI_lr14\CMSI_lr14\obj\Debug\CMSI_lr14.Form1.resources

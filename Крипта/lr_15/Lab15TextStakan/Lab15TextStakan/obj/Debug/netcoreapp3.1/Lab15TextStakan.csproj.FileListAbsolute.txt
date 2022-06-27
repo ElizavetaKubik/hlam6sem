@@ -1,0 +1,84 @@
+D:\sem6\ozi\Elips13\Lab15TextStakan\Lab15TextStakan\bin\Debug\netcoreapp3.1\Lab15TextStakan.exe
+D:\sem6\ozi\Elips13\Lab15TextStakan\Lab15TextStakan\bin\Debug\netcoreapp3.1\Lab15TextStakan.deps.json
+D:\sem6\ozi\Elips13\Lab15TextStakan\Lab15TextStakan\bin\Debug\netcoreapp3.1\Lab15TextStakan.runtimeconfig.json
+D:\sem6\ozi\Elips13\Lab15TextStakan\Lab15TextStakan\bin\Debug\netcoreapp3.1\Lab15TextStakan.runtimeconfig.dev.json
+D:\sem6\ozi\Elips13\Lab15TextStakan\Lab15TextStakan\bin\Debug\netcoreapp3.1\Lab15TextStakan.dll
+D:\sem6\ozi\Elips13\Lab15TextStakan\Lab15TextStakan\bin\Debug\netcoreapp3.1\Lab15TextStakan.pdb
+D:\sem6\ozi\Elips13\Lab15TextStakan\Lab15TextStakan\bin\Debug\netcoreapp3.1\Aspose.Words.Pdf2Word.dll
+D:\sem6\ozi\Elips13\Lab15TextStakan\Lab15TextStakan\bin\Debug\netcoreapp3.1\Aspose.Words.dll
+D:\sem6\ozi\Elips13\Lab15TextStakan\Lab15TextStakan\bin\Debug\netcoreapp3.1\SkiaSharp.dll
+D:\sem6\ozi\Elips13\Lab15TextStakan\Lab15TextStakan\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSkiaSharp.dylib
+D:\sem6\ozi\Elips13\Lab15TextStakan\Lab15TextStakan\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\libSkiaSharp.dll
+D:\sem6\ozi\Elips13\Lab15TextStakan\Lab15TextStakan\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\libSkiaSharp.dll
+D:\sem6\ozi\Elips13\Lab15TextStakan\Lab15TextStakan\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\libSkiaSharp.dll
+D:\sem6\ozi\Elips13\Lab15TextStakan\Lab15TextStakan\obj\Debug\netcoreapp3.1\Lab15TextStakan.csprojAssemblyReference.cache
+D:\sem6\ozi\Elips13\Lab15TextStakan\Lab15TextStakan\obj\Debug\netcoreapp3.1\Lab15TextStakan.AssemblyInfoInputs.cache
+D:\sem6\ozi\Elips13\Lab15TextStakan\Lab15TextStakan\obj\Debug\netcoreapp3.1\Lab15TextStakan.AssemblyInfo.cs
+D:\sem6\ozi\Elips13\Lab15TextStakan\Lab15TextStakan\obj\Debug\netcoreapp3.1\Lab15TextStakan.csproj.CoreCompileInputs.cache
+D:\sem6\ozi\Elips13\Lab15TextStakan\Lab15TextStakan\obj\Debug\netcoreapp3.1\Lab15TextStakan.csproj.CopyComplete
+D:\sem6\ozi\Elips13\Lab15TextStakan\Lab15TextStakan\obj\Debug\netcoreapp3.1\Lab15TextStakan.dll
+D:\sem6\ozi\Elips13\Lab15TextStakan\Lab15TextStakan\obj\Debug\netcoreapp3.1\Lab15TextStakan.pdb
+D:\sem6\ozi\Elips13\Lab15TextStakan\Lab15TextStakan\obj\Debug\netcoreapp3.1\Lab15TextStakan.genruntimeconfig.cache
+D:\3cource\2sem\крипота\15\Lab15TextStakan\Lab15TextStakan\Lab15TextStakan\bin\Debug\netcoreapp3.1\Lab15TextStakan.exe
+D:\3cource\2sem\крипота\15\Lab15TextStakan\Lab15TextStakan\Lab15TextStakan\bin\Debug\netcoreapp3.1\Lab15TextStakan.deps.json
+D:\3cource\2sem\крипота\15\Lab15TextStakan\Lab15TextStakan\Lab15TextStakan\bin\Debug\netcoreapp3.1\Lab15TextStakan.runtimeconfig.json
+D:\3cource\2sem\крипота\15\Lab15TextStakan\Lab15TextStakan\Lab15TextStakan\bin\Debug\netcoreapp3.1\Lab15TextStakan.runtimeconfig.dev.json
+D:\3cource\2sem\крипота\15\Lab15TextStakan\Lab15TextStakan\Lab15TextStakan\bin\Debug\netcoreapp3.1\Lab15TextStakan.dll
+D:\3cource\2sem\крипота\15\Lab15TextStakan\Lab15TextStakan\Lab15TextStakan\bin\Debug\netcoreapp3.1\Lab15TextStakan.pdb
+D:\3cource\2sem\крипота\15\Lab15TextStakan\Lab15TextStakan\Lab15TextStakan\bin\Debug\netcoreapp3.1\Aspose.Words.Pdf2Word.dll
+D:\3cource\2sem\крипота\15\Lab15TextStakan\Lab15TextStakan\Lab15TextStakan\bin\Debug\netcoreapp3.1\Aspose.Words.dll
+D:\3cource\2sem\крипота\15\Lab15TextStakan\Lab15TextStakan\Lab15TextStakan\bin\Debug\netcoreapp3.1\SkiaSharp.dll
+D:\3cource\2sem\крипота\15\Lab15TextStakan\Lab15TextStakan\Lab15TextStakan\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSkiaSharp.dylib
+D:\3cource\2sem\крипота\15\Lab15TextStakan\Lab15TextStakan\Lab15TextStakan\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\libSkiaSharp.dll
+D:\3cource\2sem\крипота\15\Lab15TextStakan\Lab15TextStakan\Lab15TextStakan\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\libSkiaSharp.dll
+D:\3cource\2sem\крипота\15\Lab15TextStakan\Lab15TextStakan\Lab15TextStakan\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\libSkiaSharp.dll
+D:\3cource\2sem\крипота\15\Lab15TextStakan\Lab15TextStakan\Lab15TextStakan\obj\Debug\netcoreapp3.1\Lab15TextStakan.csprojAssemblyReference.cache
+D:\3cource\2sem\крипота\15\Lab15TextStakan\Lab15TextStakan\Lab15TextStakan\obj\Debug\netcoreapp3.1\Lab15TextStakan.AssemblyInfoInputs.cache
+D:\3cource\2sem\крипота\15\Lab15TextStakan\Lab15TextStakan\Lab15TextStakan\obj\Debug\netcoreapp3.1\Lab15TextStakan.AssemblyInfo.cs
+D:\3cource\2sem\крипота\15\Lab15TextStakan\Lab15TextStakan\Lab15TextStakan\obj\Debug\netcoreapp3.1\Lab15TextStakan.csproj.CoreCompileInputs.cache
+D:\3cource\2sem\крипота\15\Lab15TextStakan\Lab15TextStakan\Lab15TextStakan\obj\Debug\netcoreapp3.1\Lab15TextStakan.csproj.CopyComplete
+D:\3cource\2sem\крипота\15\Lab15TextStakan\Lab15TextStakan\Lab15TextStakan\obj\Debug\netcoreapp3.1\Lab15TextStakan.dll
+D:\3cource\2sem\крипота\15\Lab15TextStakan\Lab15TextStakan\Lab15TextStakan\obj\Debug\netcoreapp3.1\Lab15TextStakan.pdb
+D:\3cource\2sem\крипота\15\Lab15TextStakan\Lab15TextStakan\Lab15TextStakan\obj\Debug\netcoreapp3.1\Lab15TextStakan.genruntimeconfig.cache
+D:\University\3 курс 2 сем\Криптография\15\Lab15TextStakan\Lab15TextStakan\bin\Debug\netcoreapp3.1\Lab15TextStakan.exe
+D:\University\3 курс 2 сем\Криптография\15\Lab15TextStakan\Lab15TextStakan\bin\Debug\netcoreapp3.1\Lab15TextStakan.deps.json
+D:\University\3 курс 2 сем\Криптография\15\Lab15TextStakan\Lab15TextStakan\bin\Debug\netcoreapp3.1\Lab15TextStakan.runtimeconfig.json
+D:\University\3 курс 2 сем\Криптография\15\Lab15TextStakan\Lab15TextStakan\bin\Debug\netcoreapp3.1\Lab15TextStakan.runtimeconfig.dev.json
+D:\University\3 курс 2 сем\Криптография\15\Lab15TextStakan\Lab15TextStakan\bin\Debug\netcoreapp3.1\Lab15TextStakan.dll
+D:\University\3 курс 2 сем\Криптография\15\Lab15TextStakan\Lab15TextStakan\bin\Debug\netcoreapp3.1\Lab15TextStakan.pdb
+D:\University\3 курс 2 сем\Криптография\15\Lab15TextStakan\Lab15TextStakan\bin\Debug\netcoreapp3.1\Aspose.Words.Pdf2Word.dll
+D:\University\3 курс 2 сем\Криптография\15\Lab15TextStakan\Lab15TextStakan\bin\Debug\netcoreapp3.1\Aspose.Words.dll
+D:\University\3 курс 2 сем\Криптография\15\Lab15TextStakan\Lab15TextStakan\bin\Debug\netcoreapp3.1\SkiaSharp.dll
+D:\University\3 курс 2 сем\Криптография\15\Lab15TextStakan\Lab15TextStakan\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSkiaSharp.dylib
+D:\University\3 курс 2 сем\Криптография\15\Lab15TextStakan\Lab15TextStakan\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\libSkiaSharp.dll
+D:\University\3 курс 2 сем\Криптография\15\Lab15TextStakan\Lab15TextStakan\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\libSkiaSharp.dll
+D:\University\3 курс 2 сем\Криптография\15\Lab15TextStakan\Lab15TextStakan\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\libSkiaSharp.dll
+D:\University\3 курс 2 сем\Криптография\15\Lab15TextStakan\Lab15TextStakan\obj\Debug\netcoreapp3.1\Lab15TextStakan.csprojAssemblyReference.cache
+D:\University\3 курс 2 сем\Криптография\15\Lab15TextStakan\Lab15TextStakan\obj\Debug\netcoreapp3.1\Lab15TextStakan.AssemblyInfoInputs.cache
+D:\University\3 курс 2 сем\Криптография\15\Lab15TextStakan\Lab15TextStakan\obj\Debug\netcoreapp3.1\Lab15TextStakan.AssemblyInfo.cs
+D:\University\3 курс 2 сем\Криптография\15\Lab15TextStakan\Lab15TextStakan\obj\Debug\netcoreapp3.1\Lab15TextStakan.csproj.CoreCompileInputs.cache
+D:\University\3 курс 2 сем\Криптография\15\Lab15TextStakan\Lab15TextStakan\obj\Debug\netcoreapp3.1\Lab15TextStakan.csproj.CopyComplete
+D:\University\3 курс 2 сем\Криптография\15\Lab15TextStakan\Lab15TextStakan\obj\Debug\netcoreapp3.1\Lab15TextStakan.dll
+D:\University\3 курс 2 сем\Криптография\15\Lab15TextStakan\Lab15TextStakan\obj\Debug\netcoreapp3.1\Lab15TextStakan.pdb
+D:\University\3 курс 2 сем\Криптография\15\Lab15TextStakan\Lab15TextStakan\obj\Debug\netcoreapp3.1\Lab15TextStakan.genruntimeconfig.cache
+D:\University\6_sem\Крипта\lr_15\Lab15TextStakan\Lab15TextStakan\bin\Debug\netcoreapp3.1\Lab15TextStakan.exe
+D:\University\6_sem\Крипта\lr_15\Lab15TextStakan\Lab15TextStakan\bin\Debug\netcoreapp3.1\Lab15TextStakan.deps.json
+D:\University\6_sem\Крипта\lr_15\Lab15TextStakan\Lab15TextStakan\bin\Debug\netcoreapp3.1\Lab15TextStakan.runtimeconfig.json
+D:\University\6_sem\Крипта\lr_15\Lab15TextStakan\Lab15TextStakan\bin\Debug\netcoreapp3.1\Lab15TextStakan.runtimeconfig.dev.json
+D:\University\6_sem\Крипта\lr_15\Lab15TextStakan\Lab15TextStakan\bin\Debug\netcoreapp3.1\Lab15TextStakan.dll
+D:\University\6_sem\Крипта\lr_15\Lab15TextStakan\Lab15TextStakan\bin\Debug\netcoreapp3.1\Lab15TextStakan.pdb
+D:\University\6_sem\Крипта\lr_15\Lab15TextStakan\Lab15TextStakan\bin\Debug\netcoreapp3.1\Aspose.Words.Pdf2Word.dll
+D:\University\6_sem\Крипта\lr_15\Lab15TextStakan\Lab15TextStakan\bin\Debug\netcoreapp3.1\Aspose.Words.dll
+D:\University\6_sem\Крипта\lr_15\Lab15TextStakan\Lab15TextStakan\bin\Debug\netcoreapp3.1\SkiaSharp.dll
+D:\University\6_sem\Крипта\lr_15\Lab15TextStakan\Lab15TextStakan\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSkiaSharp.dylib
+D:\University\6_sem\Крипта\lr_15\Lab15TextStakan\Lab15TextStakan\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\libSkiaSharp.dll
+D:\University\6_sem\Крипта\lr_15\Lab15TextStakan\Lab15TextStakan\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\libSkiaSharp.dll
+D:\University\6_sem\Крипта\lr_15\Lab15TextStakan\Lab15TextStakan\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\libSkiaSharp.dll
+D:\University\6_sem\Крипта\lr_15\Lab15TextStakan\Lab15TextStakan\obj\Debug\netcoreapp3.1\Lab15TextStakan.csprojAssemblyReference.cache
+D:\University\6_sem\Крипта\lr_15\Lab15TextStakan\Lab15TextStakan\obj\Debug\netcoreapp3.1\Lab15TextStakan.AssemblyInfoInputs.cache
+D:\University\6_sem\Крипта\lr_15\Lab15TextStakan\Lab15TextStakan\obj\Debug\netcoreapp3.1\Lab15TextStakan.AssemblyInfo.cs
+D:\University\6_sem\Крипта\lr_15\Lab15TextStakan\Lab15TextStakan\obj\Debug\netcoreapp3.1\Lab15TextStakan.csproj.CoreCompileInputs.cache
+D:\University\6_sem\Крипта\lr_15\Lab15TextStakan\Lab15TextStakan\obj\Debug\netcoreapp3.1\Lab15TextStakan.csproj.CopyComplete
+D:\University\6_sem\Крипта\lr_15\Lab15TextStakan\Lab15TextStakan\obj\Debug\netcoreapp3.1\Lab15TextStakan.dll
+D:\University\6_sem\Крипта\lr_15\Lab15TextStakan\Lab15TextStakan\obj\Debug\netcoreapp3.1\Lab15TextStakan.pdb
+D:\University\6_sem\Крипта\lr_15\Lab15TextStakan\Lab15TextStakan\obj\Debug\netcoreapp3.1\Lab15TextStakan.genruntimeconfig.cache

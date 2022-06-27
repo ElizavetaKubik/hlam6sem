@@ -1,0 +1,45 @@
+﻿<Window x:Class="Lab_8.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lab_8"
+        mc:Ignorable="d"
+        Title="Лабораторная №8 - Исследование асимметричных шифров" Height="250" Width="600">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <TextBox Name="TextStartSequence" Margin="5, 5, 5, 5" FontSize="15" FontFamily="Showcard Gothic" Grid.Column="0" VerticalContentAlignment="Center" PreviewTextInput="NumberValidationTextBox"></TextBox>
+        <ComboBox Name="ComboCountSequence" Margin="5, 5, 5, 5" FontSize="15" FontFamily="Showcard Gothic" Grid.Column="1" VerticalContentAlignment="Center">
+            <ComboBoxItem>6</ComboBoxItem>
+            <ComboBoxItem>8</ComboBoxItem>
+        </ComboBox>
+        <ComboBox Name="ComboSequence" Margin="5, 5, 5, 5" FontSize="15" FontFamily="Showcard Gothic" Grid.Column="2" VerticalContentAlignment="Center"></ComboBox>
+        <TextBox Name="TextA" Margin="5, 5, 5, 5" FontSize="15" FontFamily="Showcard Gothic" Grid.Column="3" VerticalContentAlignment="Center" PreviewTextInput="NumberValidationTextBox"></TextBox>
+        <TextBox Name="TextN" Margin="5, 5, 5, 5" FontSize="15" FontFamily="Showcard Gothic" Grid.Column="4" VerticalContentAlignment="Center" PreviewTextInput="NumberValidationTextBox"></TextBox>
+        <Button Name="ButtonSequence" Margin="5, 5, 5, 5" FontSize="15" FontFamily="Showcard Gothic" Grid.Column="5" Click="Generate">Generate</Button>
+
+        <TextBox Name="TextEnc" Margin="5, 5, 5, 5" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="5" VerticalContentAlignment="Center">Karlenok Yury Andreevich</TextBox>
+        <Button Name="ButtonEncrypt" Margin="5, 5, 5, 5" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="5" Click="Encrypt">Encrypt</Button>
+
+        <TextBox Name="TextDec" Margin="5, 5, 5, 5" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="5" VerticalContentAlignment="Center"></TextBox>
+        <Button Name="ButtonDecrypt" Margin="5, 5, 5, 5" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="2" Grid.Column="5" Click="Decrypt">Decrypt</Button>
+
+        <TextBox Name="TextOrig" Margin="5, 5, 5, 5" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="5" VerticalContentAlignment="Center"></TextBox>
+        <Button Name="ButtonClear" Margin="5, 5, 5, 5" FontSize="15" FontFamily="Showcard Gothic" Grid.Row="3" Grid.Column="5" Click="Clear">Clear</Button>
+    </Grid>
+</Window>

@@ -1,0 +1,122 @@
+﻿<Window x:Class="Lab_11_Oper.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="lr 13 (2)" Height="360" Width="1500">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"></RowDefinition>
+            <RowDefinition Height="3*"></RowDefinition>
+            <RowDefinition Height="1*"></RowDefinition>
+            <RowDefinition Height="3*"></RowDefinition>
+            <RowDefinition Height="1*"></RowDefinition>
+            <RowDefinition Height="3*"></RowDefinition>
+            <RowDefinition Height="1*"></RowDefinition>
+            <RowDefinition Height="3*"></RowDefinition>
+            <RowDefinition Height="1*"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"></ColumnDefinition>
+            <ColumnDefinition Width="10*"></ColumnDefinition>
+            <ColumnDefinition Width="2*"></ColumnDefinition>
+            <ColumnDefinition Width="8*"></ColumnDefinition>
+            <ColumnDefinition Width="2*"></ColumnDefinition>
+            <ColumnDefinition Width="8*"></ColumnDefinition>
+            <ColumnDefinition Width="2*"></ColumnDefinition>
+            <ColumnDefinition Width="8*"></ColumnDefinition>
+            <ColumnDefinition Width="2*"></ColumnDefinition>
+            <ColumnDefinition Width="8*"></ColumnDefinition>
+            <ColumnDefinition Width="2*"></ColumnDefinition>
+            <ColumnDefinition Width="8*"></ColumnDefinition>
+            <ColumnDefinition Width="2*"></ColumnDefinition>
+            <ColumnDefinition Width="8*"></ColumnDefinition>
+            <ColumnDefinition Width="2*"></ColumnDefinition>
+            <ColumnDefinition Width="8*"></ColumnDefinition>
+            <ColumnDefinition Width="2*"></ColumnDefinition>
+            <ColumnDefinition Width="8*"></ColumnDefinition>
+            <ColumnDefinition Width="2*"></ColumnDefinition>
+            <ColumnDefinition Width="8*"></ColumnDefinition>
+            <ColumnDefinition Width="2*"></ColumnDefinition>
+            <ColumnDefinition Width="8*"></ColumnDefinition>
+            <ColumnDefinition Width="1*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <Label Margin="3, 3, 3, 3" FontSize="20" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="1" HorizontalAlignment="Right" VerticalAlignment="Center">K*P:</Label>
+        <Label Margin="3, 3, 0, 3" FontSize="20" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="2" HorizontalContentAlignment="Right" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" VerticalContentAlignment="Center" Background="#FF91CBE0">A</Label>
+        <TextBox Name="A1" Margin="0, 3, 3, 3" FontSize="20" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="3" HorizontalContentAlignment="Right" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" VerticalContentAlignment="Center" MaxLength="9" PreviewTextInput="NumberValidationTextBox"></TextBox>
+        <Label Margin="3, 3, 0, 3" FontSize="20" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="4" HorizontalContentAlignment="Right" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" VerticalContentAlignment="Center" Background="#FF91CBE0">B</Label>
+        <TextBox Name="B1" Margin="0, 3, 3, 3" FontSize="20" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="5" HorizontalContentAlignment="Right" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" VerticalContentAlignment="Center" MaxLength="9" PreviewTextInput="NumberValidationTextBox"></TextBox>
+        <Label Margin="3, 3, 0, 3" FontSize="20" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="6" HorizontalContentAlignment="Right" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" VerticalContentAlignment="Center" Background="#FF91CBE0">K</Label>
+        <TextBox Name="K1" Margin="0, 3, 3, 3" FontSize="20" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="7" HorizontalContentAlignment="Right" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" VerticalContentAlignment="Center" MaxLength="9" PreviewTextInput="NumberValidationTextBox" TextChanged="ChangedK1"></TextBox>
+        <Label Margin="3, 3, 0, 3" FontSize="20" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="8" HorizontalContentAlignment="Right" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" VerticalContentAlignment="Center" Background="#FFF1F178">X</Label>
+        <TextBox Name="Px1" Margin="0, 3, 3, 3" FontSize="20" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="9" HorizontalContentAlignment="Right" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" VerticalContentAlignment="Center" MaxLength="9" PreviewTextInput="NumberValidationTextBox" TextChanged="ChangedPx1"></TextBox>
+        <Label Margin="3, 3, 0, 3" FontSize="20" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="10" HorizontalContentAlignment="Right" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" VerticalContentAlignment="Center" Background="#FFF1F178">Y</Label>
+        <TextBox Name="Py1" Margin="0, 3, 3, 3" FontSize="20" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="11" HorizontalContentAlignment="Right" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" VerticalContentAlignment="Center" MaxLength="9" IsReadOnly="True" PreviewTextInput="NumberValidationTextBox"></TextBox>
+        <Label Margin="3, 3, 0, 3" FontSize="20" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="18" HorizontalContentAlignment="Right" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" VerticalContentAlignment="Center" Background="#FFE76262">X</Label>
+        <TextBox Name="Qx1" Margin="0, 3, 3, 3" FontSize="20" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="19" HorizontalContentAlignment="Right" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" VerticalContentAlignment="Center" MaxLength="9" IsReadOnly="True" PreviewTextInput="NumberValidationTextBox"></TextBox>
+        <Label Margin="3, 3, 0, 3" FontSize="20" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="20" HorizontalContentAlignment="Right" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" VerticalContentAlignment="Center" Background="#FFE76262">Y</Label>
+        <TextBox Name="Qy1" Margin="0, 3, 3, 3" FontSize="20" FontFamily="Showcard Gothic" Grid.Row="1" Grid.Column="21" HorizontalContentAlignment="Right" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" VerticalContentAlignment="Center" MaxLength="9" IsReadOnly="True" PreviewTextInput="NumberValidationTextBox"></TextBox>
+
+        <Label Margin="3, 3, 3, 3" FontSize="20" FontFamily="Showcard Gothic" Grid.Row="3" Grid.Column="1" HorizontalAlignment="Right" VerticalAlignment="Center">P+Q:</Label>
+        <Label Margin="3, 3, 0, 3" FontSize="20" FontFamily="Showcard Gothic" Grid.Row="3" Grid.Column="2" HorizontalContentAlignment="Right" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" VerticalContentAlignment="Center" Background="#FF91CBE0">A</Label>
+        <TextBox Name="A2" Margin="0, 3, 3, 3" FontSize="20" FontFamily="Showcard Gothic" Grid.Row="3" Grid.Column="3" HorizontalContentAlignment="Right" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" VerticalContentAlignment="Center" MaxLength="9" PreviewTextInput="NumberValidationTextBox"></TextBox>
+        <Label Margin="3, 3, 0, 3" FontSize="20" FontFamily="Showcard Gothic" Grid.Row="3" Grid.Column="4" HorizontalContentAlignment="Right" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" VerticalContentAlignment="Center" Background="#FF91CBE0">B</Label>
+        <TextBox Name="B2" Margin="0, 3, 3, 3" FontSize="20" FontFamily="Showcard Gothic" Grid.Row="3" Grid.Column="5" HorizontalContentAlignment="Right" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" VerticalContentAlignment="Center" MaxLength="9" PreviewTextInput="NumberValidationTextBox"></TextBox>
+        <Label Margin="3, 3, 0, 3" FontSize="20" FontFamily="Showcard Gothic" Grid.Row="3" Grid.Column="6" HorizontalContentAlignment="Right" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" VerticalContentAlignment="Center" Background="#FFF1F178">X</Label>
+        <TextBox Name="Px2" Margin="0, 3, 3, 3" FontSize="20" FontFamily="Showcard Gothic" Grid.Row="3" Grid.Column="7" HorizontalContentAlignment="Right" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" VerticalContentAlignment="Center" MaxLength="9" PreviewTextInput="NumberValidationTextBox" TextChanged="ChangedPx2"></TextBox>
+        <Label Margin="3, 3, 0, 3" FontSize="20" FontFamily="Showcard Gothic" Grid.Row="3" Grid.Column="8" HorizontalContentAlignment="Right" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" VerticalContentAlignment="Center" Background="#FFF1F178">Y</Label>
+        <TextBox Name="Py2" Margin="0, 3, 3, 3" FontSize="20" FontFamily="Showcard Gothic" Grid.Row="3" Grid.Column="9" HorizontalContentAlignment="Right" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" VerticalContentAlignment="Center" MaxLength="9" IsReadOnly="True" PreviewTextInput="NumberValidationTextBox"></TextBox>
+        <Label Margin="3, 3, 0, 3" FontSize="20" FontFamily="Showcard Gothic" Grid.Row="3" Grid.Column="10" HorizontalContentAlignment="Right" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" VerticalContentAlignment="Center" Background="#FFF1F178">X</Label>
+        <TextBox Name="Qx2" Margin="0, 3, 3, 3" FontSize="20" FontFamily="Showcard Gothic" Grid.Row="3" Grid.Column="11" HorizontalContentAlignment="Right" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" VerticalContentAlignment="Center" MaxLength="9" PreviewTextInput="NumberValidationTextBox" TextChanged="ChangedQx2"></TextBox>
+        <Label Margin="3, 3, 0, 3" FontSize="20" FontFamily="Showcard Gothic" Grid.Row="3" Grid.Column="12" HorizontalContentAlignment="Right" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" VerticalContentAlignment="Center" Background="#FFF1F178">Y</Label>
+        <TextBox Name="Qy2" Margin="0, 3, 3, 3" FontSize="20" FontFamily="Showcard Gothic" Grid.Row="3" Grid.Column="13" HorizontalContentAlignment="Right" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" VerticalContentAlignment="Center" MaxLength="9" IsReadOnly="True" PreviewTextInput="NumberValidationTextBox"></TextBox>
+        <Label Margin="3, 3, 0, 3" FontSize="20" FontFamily="Showcard Gothic" Grid.Row="3" Grid.Column="18" HorizontalContentAlignment="Right" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" VerticalContentAlignment="Center" Background="#FFE76262">X</Label>
+        <TextBox Name="Rx2" Margin="0, 3, 3, 3" FontSize="20" FontFamily="Showcard Gothic" Grid.Row="3" Grid.Column="19" HorizontalContentAlignment="Right" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" VerticalContentAlignment="Center" MaxLength="9" IsReadOnly="True" PreviewTextInput="NumberValidationTextBox"></TextBox>
+        <Label Margin="3, 3, 0, 3" FontSize="20" FontFamily="Showcard Gothic" Grid.Row="3" Grid.Column="20" HorizontalContentAlignment="Right" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" VerticalContentAlignment="Center" Background="#FFE76262">Y</Label>
+        <TextBox Name="Ry2" Margin="0, 3, 3, 3" FontSize="20" FontFamily="Showcard Gothic" Grid.Row="3" Grid.Column="21" HorizontalContentAlignment="Right" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" VerticalContentAlignment="Center" MaxLength="9" IsReadOnly="True" PreviewTextInput="NumberValidationTextBox"></TextBox>
+
+        <Label Margin="3, 3, 3, 3" FontSize="20" FontFamily="Showcard Gothic" Grid.Row="5" Grid.Column="1" HorizontalAlignment="Right" VerticalAlignment="Center">K*P+L*Q-R:</Label>
+        <Label Margin="3, 3, 0, 3" FontSize="20" FontFamily="Showcard Gothic" Grid.Row="5" Grid.Column="2" HorizontalContentAlignment="Right" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" VerticalContentAlignment="Center" Background="#FF91CBE0">A</Label>
+        <TextBox Name="A3" Margin="0, 3, 3, 3" FontSize="20" FontFamily="Showcard Gothic" Grid.Row="5" Grid.Column="3" HorizontalContentAlignment="Right" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" VerticalContentAlignment="Center" MaxLength="9" PreviewTextInput="NumberValidationTextBox"></TextBox>
+        <Label Margin="3, 3, 0, 3" FontSize="20" FontFamily="Showcard Gothic" Grid.Row="5" Grid.Column="4" HorizontalContentAlignment="Right" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" VerticalContentAlignment="Center" Background="#FF91CBE0">B</Label>
+        <TextBox Name="B3" Margin="0, 3, 3, 3" FontSize="20" FontFamily="Showcard Gothic" Grid.Row="5" Grid.Column="5" HorizontalContentAlignment="Right" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" VerticalContentAlignment="Center" MaxLength="9" PreviewTextInput="NumberValidationTextBox"></TextBox>
+        <Label Margin="3, 3, 0, 3" FontSize="20" FontFamily="Showcard Gothic" Grid.Row="5" Grid.Column="6" HorizontalContentAlignment="Right" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" VerticalContentAlignment="Center" Background="#FF91CBE0">K</Label>
+        <TextBox Name="K3" Margin="0, 3, 3, 3" FontSize="20" FontFamily="Showcard Gothic" Grid.Row="5" Grid.Column="7" HorizontalContentAlignment="Right" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" VerticalContentAlignment="Center" MaxLength="9" PreviewTextInput="NumberValidationTextBox" TextChanged="ChangedK3"></TextBox>
+        <Label Margin="3, 3, 0, 3" FontSize="20" FontFamily="Showcard Gothic" Grid.Row="5" Grid.Column="8" HorizontalContentAlignment="Right" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" VerticalContentAlignment="Center" Background="#FFF1F178">X</Label>
+        <TextBox Name="Px3" Margin="0, 3, 3, 3" FontSize="20" FontFamily="Showcard Gothic" Grid.Row="5" Grid.Column="9" HorizontalContentAlignment="Right" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" VerticalContentAlignment="Center" MaxLength="9" PreviewTextInput="NumberValidationTextBox" TextChanged="ChangedPx3"></TextBox>
+        <Label Margin="3, 3, 0, 3" FontSize="20" FontFamily="Showcard Gothic" Grid.Row="5" Grid.Column="10" HorizontalContentAlignment="Right" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" VerticalContentAlignment="Center" Background="#FFF1F178">Y</Label>
+        <TextBox Name="Py3" Margin="0, 3, 3, 3" FontSize="20" FontFamily="Showcard Gothic" Grid.Row="5" Grid.Column="11" HorizontalContentAlignment="Right" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" VerticalContentAlignment="Center" MaxLength="9" IsReadOnly="True" PreviewTextInput="NumberValidationTextBox"></TextBox>
+        <Label Margin="3, 3, 0, 3" FontSize="20" FontFamily="Showcard Gothic" Grid.Row="5" Grid.Column="12" HorizontalContentAlignment="Right" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" VerticalContentAlignment="Center" Background="#FF91CBE0">L</Label>
+        <TextBox Name="L3" Margin="0, 3, 3, 3" FontSize="20" FontFamily="Showcard Gothic" Grid.Row="5" Grid.Column="13" HorizontalContentAlignment="Right" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" VerticalContentAlignment="Center" MaxLength="9" PreviewTextInput="NumberValidationTextBox" TextChanged="ChangedL3"></TextBox>
+        <Label Margin="3, 3, 0, 3" FontSize="20" FontFamily="Showcard Gothic" Grid.Row="5" Grid.Column="14" HorizontalContentAlignment="Right" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" VerticalContentAlignment="Center" Background="#FFF1F178">X</Label>
+        <TextBox Name="Qx3" Margin="0, 3, 3, 3" FontSize="20" FontFamily="Showcard Gothic" Grid.Row="5" Grid.Column="15" HorizontalContentAlignment="Right" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" VerticalContentAlignment="Center" MaxLength="9" PreviewTextInput="NumberValidationTextBox" TextChanged="ChangedQx3"></TextBox>
+        <Label Margin="3, 3, 0, 3" FontSize="20" FontFamily="Showcard Gothic" Grid.Row="5" Grid.Column="16" HorizontalContentAlignment="Right" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" VerticalContentAlignment="Center" Background="#FFF1F178">Y</Label>
+        <TextBox Name="Qy3" Margin="0, 3, 3, 3" FontSize="20" FontFamily="Showcard Gothic" Grid.Row="5" Grid.Column="17" HorizontalContentAlignment="Right" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" VerticalContentAlignment="Center" MaxLength="9" IsReadOnly="True" PreviewTextInput="NumberValidationTextBox"></TextBox>
+        <Label Margin="3, 3, 0, 3" FontSize="20" FontFamily="Showcard Gothic" Grid.Row="5" Grid.Column="18" HorizontalContentAlignment="Right" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" VerticalContentAlignment="Center" Background="#FFE76262">X</Label>
+        <TextBox Name="Rx3" Margin="0, 3, 3, 3" FontSize="20" FontFamily="Showcard Gothic" Grid.Row="5" Grid.Column="19" HorizontalContentAlignment="Right" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" VerticalContentAlignment="Center" MaxLength="9" IsReadOnly="True" PreviewTextInput="NumberValidationTextBox"></TextBox>
+        <Label Margin="3, 3, 0, 3" FontSize="20" FontFamily="Showcard Gothic" Grid.Row="5" Grid.Column="20" HorizontalContentAlignment="Right" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" VerticalContentAlignment="Center" Background="#FFE76262">Y</Label>
+        <TextBox Name="Ry3" Margin="0, 3, 3, 3" FontSize="20" FontFamily="Showcard Gothic" Grid.Row="5" Grid.Column="21" HorizontalContentAlignment="Right" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" VerticalContentAlignment="Center" MaxLength="9" IsReadOnly="True" PreviewTextInput="NumberValidationTextBox"></TextBox>
+
+        <Label Margin="3, 3, 3, 3" FontSize="20" FontFamily="Showcard Gothic" Grid.Row="7" Grid.Column="1" HorizontalAlignment="Right" VerticalAlignment="Center">P-Q:</Label>
+        <Label Margin="3, 3, 0, 3" FontSize="20" FontFamily="Showcard Gothic" Grid.Row="7" Grid.Column="2" HorizontalContentAlignment="Right" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" VerticalContentAlignment="Center" Background="#FF91CBE0">A</Label>
+        <TextBox Name="A4" Margin="0, 3, 3, 3" FontSize="20" FontFamily="Showcard Gothic" Grid.Row="7" Grid.Column="3" HorizontalContentAlignment="Right" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" VerticalContentAlignment="Center" MaxLength="9" PreviewTextInput="NumberValidationTextBox"></TextBox>
+        <Label Margin="3, 3, 0, 3" FontSize="20" FontFamily="Showcard Gothic" Grid.Row="7" Grid.Column="4" HorizontalContentAlignment="Right" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" VerticalContentAlignment="Center" Background="#FF91CBE0">B</Label>
+        <TextBox Name="B4" Margin="0, 3, 3, 3" FontSize="20" FontFamily="Showcard Gothic" Grid.Row="7" Grid.Column="5" HorizontalContentAlignment="Right" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" VerticalContentAlignment="Center" MaxLength="9" PreviewTextInput="NumberValidationTextBox"></TextBox>
+        <Label Margin="3, 3, 0, 3" FontSize="20" FontFamily="Showcard Gothic" Grid.Row="7" Grid.Column="6" HorizontalContentAlignment="Right" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" VerticalContentAlignment="Center" Background="#FFF1F178">X</Label>
+        <TextBox Name="Px4" Margin="0, 3, 3, 3" FontSize="20" FontFamily="Showcard Gothic" Grid.Row="7" Grid.Column="7" HorizontalContentAlignment="Right" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" VerticalContentAlignment="Center" MaxLength="9" PreviewTextInput="NumberValidationTextBox" TextChanged="ChangedPx4"></TextBox>
+        <Label Margin="3, 3, 0, 3" FontSize="20" FontFamily="Showcard Gothic" Grid.Row="7" Grid.Column="8" HorizontalContentAlignment="Right" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" VerticalContentAlignment="Center" Background="#FFF1F178">Y</Label>
+        <TextBox Name="Py4" Margin="0, 3, 3, 3" FontSize="20" FontFamily="Showcard Gothic" Grid.Row="7" Grid.Column="9" HorizontalContentAlignment="Right" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" VerticalContentAlignment="Center" MaxLength="9" IsReadOnly="True" PreviewTextInput="NumberValidationTextBox"></TextBox>
+        <Label Margin="3, 3, 0, 3" FontSize="20" FontFamily="Showcard Gothic" Grid.Row="7" Grid.Column="10" HorizontalContentAlignment="Right" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" VerticalContentAlignment="Center" Background="#FFF1F178">X</Label>
+        <TextBox Name="Qx4" Margin="0, 3, 3, 3" FontSize="20" FontFamily="Showcard Gothic" Grid.Row="7" Grid.Column="11" HorizontalContentAlignment="Right" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" VerticalContentAlignment="Center" MaxLength="9" PreviewTextInput="NumberValidationTextBox" TextChanged="ChangedQx4"></TextBox>
+        <Label Margin="3, 3, 0, 3" FontSize="20" FontFamily="Showcard Gothic" Grid.Row="7" Grid.Column="12" HorizontalContentAlignment="Right" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" VerticalContentAlignment="Center" Background="#FFF1F178">Y</Label>
+        <TextBox Name="Qy4" Margin="0, 3, 3, 3" FontSize="20" FontFamily="Showcard Gothic" Grid.Row="7" Grid.Column="13" HorizontalContentAlignment="Right" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" VerticalContentAlignment="Center" MaxLength="9" IsReadOnly="True" PreviewTextInput="NumberValidationTextBox"></TextBox>
+        <Label Margin="3, 3, 0, 3" FontSize="20" FontFamily="Showcard Gothic" Grid.Row="7" Grid.Column="18" HorizontalContentAlignment="Right" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" VerticalContentAlignment="Center" Background="#FFE76262">X</Label>
+        <TextBox Name="Rx4" Margin="0, 3, 3, 3" FontSize="20" FontFamily="Showcard Gothic" Grid.Row="7" Grid.Column="19" HorizontalContentAlignment="Right" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" VerticalContentAlignment="Center" MaxLength="9" IsReadOnly="True" PreviewTextInput="NumberValidationTextBox"></TextBox>
+        <Label Margin="3, 3, 0, 3" FontSize="20" FontFamily="Showcard Gothic" Grid.Row="7" Grid.Column="20" HorizontalContentAlignment="Right" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" VerticalContentAlignment="Center" Background="#FFE76262">Y</Label>
+        <TextBox Name="Ry4" Margin="0, 3, 3, 3" FontSize="20" FontFamily="Showcard Gothic" Grid.Row="7" Grid.Column="21" HorizontalContentAlignment="Right" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" VerticalContentAlignment="Center" MaxLength="9" IsReadOnly="True" PreviewTextInput="NumberValidationTextBox"></TextBox>
+
+    </Grid>
+</Window>
